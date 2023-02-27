@@ -5,6 +5,10 @@ header {
     text-align: center;
   }
 
+  main{
+    flex-grow: 1;
+  }
+  
 .bulle {
     width: 55px;
     height: 55px;
@@ -87,4 +91,8 @@ header {
 .input_pass:focus {
 	box-shadow: none !important;
 	outline: 0px !important;
+}
+
+.container{
+    padding-top: 100px;
 }

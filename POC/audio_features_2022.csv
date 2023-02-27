@@ -1,0 +1,998 @@
+nom,artistes,année,popularité,durée_ms,tonalité,mode,signature_temps,acoustique,dansabilité,énergie,instrumentalité,vivacité,loudness,parlant,valence,tempo,album
+Kill Bill,SZA,2022,92,153947,8,1,4,0.0543,0.644,0.728,0.169,0.161,-5.75,0.0351,0.43,88.993,SOS
+Creepin' (with The Weeknd & 21 Savage),"Metro Boomin, The Weeknd, 21 Savage",2022,93,221520,1,0,4,0.417,0.715,0.62,0,0.0822,-6.005,0.0484,0.172,97.95,HEROES & VILLAINS
+Kill Bill,SZA,2022,92,153947,8,1,4,0.0521,0.644,0.735,0.144,0.161,-5.747,0.0391,0.418,88.98,SOS
+Rich Flex,"Drake, 21 Savage",2022,89,239360,11,0,3,0.0503,0.561,0.52,1.86e-06,0.355,-9.342,0.244,0.424,153.15,Her Loss
+Just Wanna Rock,Lil Uzi Vert,2022,88,123891,11,1,4,0.0652,0.486,0.545,0.00474,0.0642,-7.924,0.0336,0.0385,150.187,Just Wanna Rock
+Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",2022,88,182667,5,0,4,0.152,0.526,0.606,2.36e-06,0.194,-5.3,0.259,0.492,116.622,HEROES & VILLAINS
+Romantic Homicide,d4vd,2022,89,132631,6,1,4,0.453,0.571,0.544,0.00805,0.322,-10.613,0.0299,0.216,132.052,Romantic Homicide
+Something in the Orange,Zach Bryan,2022,85,228013,4,0,3,0.555,0.369,0.192,8.35e-06,0.0954,-12.151,0.04,0.148,175.212,Something in the Orange
+Anti-Hero,Taylor Swift,2022,91,200690,4,1,4,0.13,0.637,0.643,1.8e-06,0.142,-6.571,0.0519,0.533,97.008,Midnights
+Low,SZA,2022,86,181080,0,0,4,0.425,0.698,0.546,0.00314,0.16,-7.234,0.0559,0.335,145.044,SOS
+Snooze,SZA,2022,88,201800,5,1,4,0.141,0.559,0.551,0,0.11,-7.231,0.132,0.392,143.008,SOS
+Here With Me,d4vd,2022,91,242485,4,1,4,0.534,0.574,0.469,9.21e-05,0.128,-8.209,0.0254,0.288,132.023,Here With Me
+Unholy (feat. Kim Petras),"Sam Smith, Kim Petras",2022,92,156943,2,1,4,0.013,0.714,0.472,4.51e-06,0.266,-7.375,0.0864,0.238,131.121,Unholy (feat. Kim Petras)
+Nobody Gets Me,SZA,2022,86,180853,7,1,3,0.805,0.358,0.284,0,0.183,-8.285,0.0285,0.276,99.796,SOS
+golden hour,JVKE,2022,87,209260,4,1,3,0.653,0.515,0.593,0.162,0.25,-4.801,0.0322,0.153,94.467,this is what ____ feels like (Vol. 1-4)
+You Proof,Morgan Wallen,2022,81,157478,9,1,4,0.252,0.731,0.85,0,0.605,-4.913,0.0336,0.644,119.706,You Proof
+Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage",2022,85,218365,0,1,4,0.000307,0.529,0.673,2.41e-06,0.093,-4.711,0.175,0.366,165.921,"Honestly, Nevermind"
+I'm Good (Blue),"David Guetta, Bebe Rexha",2022,92,175238,7,0,4,0.00383,0.561,0.965,7.07e-06,0.371,-3.673,0.0343,0.304,128.04,I'm Good (Blue)
+Tití Me Preguntó,Bad Bunny,2022,88,243717,5,0,4,0.0993,0.65,0.715,0.000291,0.126,-5.198,0.253,0.187,106.672,Un Verano Sin Ti
+Escapism.,"RAYE, 070 Shake",2022,89,272373,2,1,4,0.138,0.538,0.742,4.67e-05,0.0934,-5.355,0.114,0.25,96.107,Escapism. / The Thrill Is Gone.
+Rock and A Hard Place,Bailey Zimmerman,2022,80,207541,1,1,3,0.577,0.582,0.568,0,0.105,-7.3,0.0275,0.394,121.991,Rock and A Hard Place
+I Ain't Worried,OneRepublic,2022,90,148486,0,1,4,0.0826,0.704,0.797,0.000745,0.0546,-5.927,0.0475,0.825,139.994,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")"
+Bad Habit,Steve Lacy,2022,84,232115,1,1,4,0.626,0.686,0.507,7.51e-05,0.383,-7.097,0.0357,0.69,168.955,Bad Habit
+Me Porto Bonito,"Bad Bunny, Chencho Corleone",2022,89,178567,1,0,4,0.0901,0.911,0.712,2.68e-05,0.0933,-5.105,0.0817,0.425,92.005,Un Verano Sin Ti
+Blind,SZA,2022,82,150720,9,0,4,0.911,0.461,0.279,0,0.205,-11.776,0.0373,0.599,114.225,SOS
+As It Was,Harry Styles,2022,89,167303,6,0,4,0.342,0.52,0.731,0.00101,0.311,-5.338,0.0557,0.662,173.93,As It Was
+Ditto,NewJeans,2022,89,185507,6,0,4,0.027,0.814,0.641,0,0.0993,-5.957,0.111,0.183,133.854,Ditto
+CUFF IT,Beyoncé,2022,88,225389,7,1,4,0.0368,0.78,0.689,9.69e-06,0.0698,-5.668,0.141,0.642,115.042,RENAISSANCE
+Nonsense,Sabrina Carpenter,2022,86,163648,8,1,4,0.0268,0.74,0.697,0,0.224,-4.912,0.034,0.732,138.992,emails i can't send
+Lavender Haze,Taylor Swift,2022,85,202396,10,1,4,0.258,0.733,0.436,0.000573,0.157,-10.489,0.08,0.0976,96.985,Midnights
+SPIT IN MY FACE!,ThxSoMch,2022,85,147875,8,1,4,0.0464,0.73,0.785,0.0216,0.111,-6.512,0.0554,0.649,94.094,SPIT IN MY FACE!
+WAIT FOR U (feat. Drake & Tems),"Future, Drake, Tems",2022,83,189893,1,1,4,0.314,0.463,0.642,0,0.0686,-4.474,0.34,0.339,83.389,I NEVER LIKED YOU
+Until I Found You (with Em Beihold) - Em Beihold Version,"Stephen Sanchez, Em Beihold",2022,89,176440,10,1,3,0.777,0.551,0.55,0,0.202,-5.339,0.0286,0.342,101.19,Until I Found You (Em Beihold Version)
+Calm Down (with Selena Gomez),"Rema, Selena Gomez",2022,91,239318,11,1,4,0.382,0.801,0.806,0.000669,0.114,-5.206,0.0381,0.802,106.999,Calm Down (with Selena Gomez)
+Players,Coi Leray,2022,86,139560,6,1,4,0.03,0.954,0.516,7.54e-06,0.0504,-5.817,0.16,0.624,105.001,Players
+I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",2022,84,192841,5,1,4,0.121,0.733,0.67,0,0.121,-6.009,0.0751,0.472,100.964,Twelve Carat Toothache
+Late Night Talking,Harry Styles,2022,86,177955,10,1,4,0.298,0.714,0.728,0,0.106,-4.595,0.0468,0.901,114.996,Harry's House
+Que Vuelvas,"Carin Leon, Grupo Frontera",2022,87,169419,10,1,4,0.187,0.491,0.643,0,0.109,-4.309,0.0442,0.779,162.469,Que Vuelvas
+Made You Look,Meghan Trainor,2022,89,134256,10,1,4,0.345,0.838,0.525,1.92e-06,0.0771,-3.562,0.0665,0.884,144.981,Takin' It Back
+Out thë way,Yeat,2022,81,150242,4,0,4,0.21,0.767,0.628,8.79e-06,0.275,-7.41,0.242,0.798,128.07,Lyfë
+Shirt,SZA,2022,82,181840,3,0,4,0.228,0.848,0.512,0.00232,0.0879,-7.72,0.102,0.572,120.009,SOS
+La Bachata,Manuel Turizo,2022,92,162638,7,0,4,0.583,0.835,0.679,1.98e-06,0.218,-5.329,0.0364,0.85,124.98,La Bachata
+Bebe Dame,"Fuerza Regida, Grupo Frontera",2022,86,271862,7,1,4,0.296,0.537,0.602,0,0.0715,-4.631,0.0458,0.753,157.437,Bebe Dame
+Too Many Nights (feat. Don Toliver & with Future),"Metro Boomin, Future, Don Toliver",2022,82,199920,7,0,4,0.189,0.684,0.671,2.37e-05,0.122,-4.392,0.0464,0.156,88.048,HEROES & VILLAINS
+Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],"Metro Boomin, Travis Scott, 21 Savage",2022,82,207307,2,1,4,0.189,0.671,0.658,8.66e-05,0.147,-5.567,0.309,0.257,87.933,HEROES & VILLAINS
+Thought You Should Know,Morgan Wallen,2022,78,215572,6,1,4,0.488,0.529,0.695,1.24e-05,0.142,-6.174,0.0278,0.514,139.993,Thought You Should Know
+One Thing At A Time,Morgan Wallen,2022,78,206865,7,1,4,0.0042,0.614,0.913,1.72e-06,0.26,-5.126,0.0296,0.92,141.982,One Thing At A Time (Sampler)
+Ghost in the Machine (feat. Phoebe Bridgers),"SZA, Phoebe Bridgers",2022,80,218587,6,1,4,0.837,0.624,0.433,0.0294,0.113,-9.572,0.0467,0.589,124.979,SOS
+Bad Habit,Steve Lacy,2022,82,232067,1,1,4,0.613,0.686,0.494,5.8e-05,0.402,-7.093,0.0355,0.7,168.946,Gemini Rights
+ALL MINE,Brent Faiyaz,2022,79,216063,9,1,4,0.428,0.617,0.378,9.16e-05,0.11,-8.54,0.0315,0.22,141.967,WASTELAND
+Efecto,Bad Bunny,2022,87,213061,7,0,4,0.141,0.801,0.475,1.73e-05,0.0639,-8.797,0.0516,0.234,98.047,Un Verano Sin Ti
+Boy's a liar,PinkPantheress,2022,83,131253,5,1,4,0.25,0.656,0.838,0.00281,0.207,-8.407,0.041,0.74,132.981,Boy's a liar
+Pussy & Millions (feat. Travis Scott),"Drake, 21 Savage, Travis Scott",2022,81,242027,4,0,4,0.0623,0.749,0.63,0,0.353,-6.652,0.116,0.445,122.03,Her Loss
+As It Was,Harry Styles,2022,88,167303,6,0,4,0.342,0.52,0.731,0.00101,0.311,-5.338,0.0557,0.662,173.93,Harry's House
+Love Language,SZA,2022,79,183893,9,0,4,0.853,0.707,0.261,0,0.127,-10.139,0.0784,0.545,65.038,SOS
+Gato de Noche,"Ñengo Flow, Bad Bunny",2022,88,227013,8,1,4,0.169,0.892,0.662,1.24e-06,0.363,-3.894,0.162,0.607,93.976,Gato de Noche
+AMG,"Natanael Cano, Peso Pluma, Gabito Ballesteros",2022,87,174943,11,0,3,0.152,0.772,0.73,0.000107,0.274,-6.657,0.0972,0.786,136.175,AMG
+Evergreen (You Didn’t Deserve Me At All),Omar Apollo,2022,81,216680,9,1,3,0.598,0.697,0.336,0.00528,0.107,-10.395,0.0424,0.31,82.029,Ivory
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,2022,82,182907,8,0,4,0.0777,0.801,0.601,3.23e-05,0.145,-7.574,0.255,0.74,159.969,Vegas (From the Original Motion Picture Soundtrack ELVIS)
+Limbo,Freddie Dredd,2022,83,169947,11,0,4,0.0292,0.802,0.623,0.055,0.113,-5.862,0.459,0.457,74.987,Freddie's Inferno
+ceilings,Lizzy McAlpine,2022,81,182888,9,1,3,0.473,0.516,0.322,0.00194,0.215,-11.762,0.0292,0.261,148.005,five seconds flat
+TV,Billie Eilish,2022,83,281381,4,0,4,0.83,0.412,0.236,0.00653,0.147,-15.159,0.0379,0.119,140.214,Guitar Songs
+Seek & Destroy,SZA,2022,79,203733,1,1,4,0.437,0.651,0.647,0.175,0.205,-5.415,0.0654,0.345,152.069,SOS
+10:35,"Tiësto, Tate McRae",2022,87,172253,8,1,4,0.0683,0.696,0.793,3.78e-06,0.18,-5.733,0.097,0.698,120.003,10:35
+Spin Bout U,"Drake, 21 Savage",2022,79,214589,7,1,4,0.01,0.773,0.701,0,0.163,-6.386,0.0512,0.203,129.963,Her Loss
+What My World Spins Around,Jordan Davis,2022,76,186791,2,1,4,0.105,0.675,0.726,0,0.153,-6.459,0.0461,0.671,124.872,What My World Spins Around
+No Se Va - En Vivo,Grupo Frontera,2022,84,194019,0,1,4,0.121,0.594,0.527,0,0.234,-9.335,0.0335,0.692,172.712,No Se Va (En Vivo)
+Sun to Me,Zach Bryan,2022,76,163032,9,0,4,0.593,0.505,0.27,0,0.133,-9.165,0.0333,0.557,98.721,American Heartbreak
+On BS,"Drake, 21 Savage",2022,79,261544,9,1,4,0.0201,0.841,0.358,0,0.39,-8.368,0.591,0.329,158.014,Her Loss
+Thank God,"Kane Brown, Katelyn Brown",2022,76,174560,3,1,4,0.695,0.738,0.455,0,0.107,-8.735,0.0352,0.441,99.945,Different Man
+Miss You,"Oliver Tree, Robin Schulz",2022,89,206000,6,0,4,0.0128,0.587,0.742,0.00107,0.146,-6.64,0.0529,0.199,145.007,Miss You
+Ojitos Lindos,"Bad Bunny, Bomba Estéreo",2022,87,258299,3,0,4,0.08,0.647,0.686,1.34e-06,0.528,-5.745,0.0413,0.268,79.928,Un Verano Sin Ti
+"Going, Going, Gone",Luke Combs,2022,76,177267,6,1,4,0.538,0.565,0.56,0,0.0961,-6.034,0.0275,0.325,159.931,Growin' Up
+Die For You,Joji,2022,83,211667,8,1,4,0.383,0.472,0.518,0.127,0.289,-7.379,0.051,0.154,147.805,SMITHEREENS
+golden hour,JVKE,2022,82,209260,4,1,3,0.653,0.515,0.593,0.162,0.25,-4.801,0.0322,0.153,94.467,this is what falling in love feels like (554Hz)
+Special,SZA,2022,78,158840,0,1,4,0.777,0.604,0.199,0,0.109,-11.831,0.05,0.191,76.134,SOS
+Midnight Rain,Taylor Swift,2022,82,174783,0,1,4,0.69,0.643,0.363,5.17e-05,0.115,-11.738,0.0767,0.23,139.865,Midnights
+Static,Steve Lacy,2022,78,156507,1,1,5,0.434,0.335,0.305,0.631,0.101,-12.661,0.0741,0.215,79.001,Gemini Rights
+Glimpse of Us,Joji,2022,84,233456,8,1,3,0.891,0.44,0.317,4.78e-06,0.141,-9.258,0.0531,0.268,169.914,Glimpse of Us
+Major Distribution,"Drake, 21 Savage",2022,78,170502,8,0,4,0.0127,0.908,0.546,0,0.0707,-10.491,0.323,0.225,131.016,Her Loss
+"Burn, Burn, Burn",Zach Bryan,2022,75,268856,3,1,4,0.897,0.508,0.296,5e-05,0.11,-10.513,0.0755,0.134,82.532,"Burn, Burn, Burn"
+Moscow Mule,Bad Bunny,2022,85,245940,5,0,4,0.294,0.804,0.674,1.18e-06,0.115,-5.453,0.0333,0.292,99.968,Un Verano Sin Ti
+Open Arms (feat. Travis Scott),"SZA, Travis Scott",2022,78,239613,9,1,4,0.763,0.665,0.59,0.0132,0.147,-7.608,0.161,0.216,77.559,SOS
+Tomorrow 2 (with Cardi B),"GloRilla, Cardi B",2022,76,209811,0,1,4,0.0695,0.791,0.818,0,0.114,-3.93,0.406,0.693,159.922,Tomorrow 2 (with Cardi B)
+She Had Me At Heads Carolina,Cole Swindell,2022,75,206107,8,1,4,0.124,0.607,0.912,0,0.332,-3.449,0.0611,0.722,134.944,Stereotype
+PUFFIN ON ZOOTIEZ,Future,2022,76,172933,8,1,4,0.0603,0.883,0.657,0,0.128,-5.748,0.305,0.284,124.992,I NEVER LIKED YOU
+Tennessee Orange,Megan Moroney,2022,75,223120,9,1,3,0.126,0.38,0.488,7.23e-06,0.115,-6.637,0.029,0.268,156.031,Tennessee Orange
+Fall In Love,Bailey Zimmerman,2022,75,232059,9,1,4,0.451,0.524,0.643,0,0.221,-6.055,0.0297,0.397,135.962,Fall In Love
+Whiskey On You,Nate Smith,2022,75,183790,8,1,4,7.02e-05,0.479,0.768,0.00549,0.121,-5.204,0.0312,0.576,110.024,Whiskey On You
+Used (feat. Don Toliver),"SZA, Don Toliver",2022,77,70160,10,0,4,0.532,0.734,0.689,8.47e-05,0.322,-6.454,0.0871,0.705,149.579,SOS
+Escapism. - Sped Up,"RAYE, 070 Shake",2022,84,239888,6,0,4,0.0857,0.435,0.768,0.000231,0.0918,-5.352,0.201,0.378,107.588,Escapism. (Sped Up)
+Oklahoma Smokeshow,Zach Bryan,2022,74,211739,8,1,4,0.0958,0.544,0.573,0,0.104,-5.694,0.0356,0.233,122.977,Summertime Blues
+SOS,SZA,2022,77,117773,7,0,1,0.669,0.507,0.657,6.97e-06,0.0947,-7.356,0.233,0.506,119.159,SOS
+Hype Boy,NewJeans,2022,85,179027,4,0,4,0.268,0.593,0.935,0,0.286,-3.43,0.225,0.783,99.976,NewJeans 1st EP 'New Jeans'
+Gilded Lily,Cults,2022,79,212736,11,0,4,0.468,0.4,0.571,3.05e-05,0.519,-6.534,0.0288,0.146,61.859,Offering
+About Damn Time,Lizzo,2022,81,191822,10,0,4,0.0995,0.836,0.743,0,0.335,-6.305,0.0656,0.722,108.966,About Damn Time
+The Kind of Love We Make,Luke Combs,2022,76,224427,1,1,4,0.0226,0.608,0.745,6.47e-06,0.0942,-4.13,0.0277,0.464,102.025,Growin' Up
+Billete Grande (En Vivo),"Fuerza Regida, Edgardo Nuñez",2022,82,163940,5,0,1,0.533,0.751,0.601,0,0.377,-5.912,0.0828,0.56,100.994,Billete Grande (En Vivo)
+"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo",2022,91,198938,2,1,4,0.0125,0.621,0.782,0.033,0.23,-5.548,0.044,0.55,128.033,"Quevedo: Bzrp Music Sessions, Vol. 52"
+Neverita,Bad Bunny,2022,85,173119,10,1,4,0.0706,0.876,0.498,0,0.143,-7.511,0.0478,0.428,122.016,Un Verano Sin Ti
+Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,2022,83,196520,9,1,4,0.899,0.247,0.299,0,0.131,-6.083,0.0315,0.172,177.115,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)
+First Class,Jack Harlow,2022,80,173948,5,0,4,0.111,0.902,0.582,3.18e-06,0.111,-5.902,0.109,0.332,107.005,Come Home The Kids Miss You
+LET GO,Central Cee,2022,88,175890,2,0,4,0.859,0.735,0.449,0,0.213,-9.933,0.383,0.514,146.016,LET GO
+Murder In My Mind,Kordhell,2022,85,145000,10,1,4,0.00547,0.712,0.972,7.06e-05,0.128,-0.514,0.112,0.568,119.966,Murder In My Mind
+Gone Girl,SZA,2022,76,244027,5,1,4,0.57,0.428,0.439,0,0.153,-7.674,0.0591,0.418,150.007,SOS
+Tennessee Fan,Morgan Wallen,2022,74,198255,6,1,4,0.081,0.482,0.847,0,0.0832,-4.741,0.0317,0.592,76.01,One Thing At A Time (Sampler)
+CAIRO,"KAROL G, Ovy On The Drums",2022,86,201280,5,0,4,0.472,0.951,0.692,0.000182,0.0894,-4.038,0.312,0.431,115.047,CAIRO
+F2F,SZA,2022,76,185040,2,1,4,0.089,0.533,0.74,2.95e-06,0.337,-5.767,0.0359,0.465,89.934,SOS
+Shirt,SZA,2022,78,181831,3,0,4,0.146,0.824,0.453,0.0273,0.0896,-9.604,0.0968,0.552,119.959,Shirt
+PROVENZA,KAROL G,2022,85,210200,1,1,4,0.656,0.87,0.516,0.00823,0.11,-8.006,0.0541,0.53,111.005,PROVENZA
+La Jumpa,"Arcángel, Bad Bunny",2022,87,255693,8,1,4,0.298,0.713,0.703,0,0.321,-5.769,0.194,0.576,123.06,La Jumpa
+Circo Loco,"Drake, 21 Savage",2022,77,236795,1,1,4,0.0102,0.734,0.605,0,0.317,-8.476,0.0699,0.252,103.976,Her Loss
+Slut Me Out,NLE Choppa,2022,75,123673,6,0,4,0.117,0.938,0.606,0,0.528,-6.396,0.419,0.706,121.108,Slut Me Out
+Trance (with Travis Scott & Young Thug),"Metro Boomin, Travis Scott, Young Thug",2022,77,194787,1,0,4,0.18,0.571,0.549,0,0.168,-7.38,0.404,0.447,119.497,HEROES & VILLAINS
+Broke Boys,"Drake, 21 Savage",2022,76,225439,2,1,4,0.0104,0.642,0.533,0.000108,0.251,-7.45,0.266,0.112,120.041,Her Loss
+nuts,"Lil Peep, rainy bear",2022,77,85360,2,1,4,0.00872,0.51,0.739,0,0.111,-7.41,0.0415,0.148,62.007,LIVE FOREVER
+Good Days,SZA,2022,77,278480,1,0,4,0.418,0.461,0.651,1.26e-05,0.782,-8.81,0.0568,0.383,121.07,SOS
+snowfall,"Øneheart, reidenshi",2022,83,124066,10,1,4,0.929,0.466,0.0918,0.803,0.439,-26.813,0.0269,0.0841,95.014,snowfall
+La Jumpa,"Arcángel, Bad Bunny",2022,85,196800,9,1,4,0.111,0.887,0.234,0.67,0.13,-14.52,0.178,0.197,140.02,Sr. Santos
+Notice Me,SZA,2022,75,160920,5,1,4,0.275,0.724,0.68,9.91e-05,0.11,-6.822,0.117,0.777,159.919,SOS
+STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,2022,85,210576,2,0,4,0.148,0.637,0.715,0,0.0892,-4.971,0.0455,0.308,141.872,STAR WALKIN' (League of Legends Worlds Anthem)
+La Curiosidad,"Ivan Cornejo, Eslabon Armado",2022,74,216000,3,0,4,0.729,0.626,0.454,0.000442,0.159,-8.767,0.0392,0.36,123.351,Dañado
+Karma,Taylor Swift,2022,79,204852,8,1,4,0.0734,0.642,0.62,0,0.483,-7.091,0.0666,0.0969,90.02,Midnights
+Mad Max,"Lil Durk, Future",2022,75,153600,5,0,4,0.0212,0.898,0.64,0,0.0919,-8.796,0.255,0.68,149.988,Lil Durk Presents: Loyal Bros 2
+Shut up My Moms Calling - (Sped Up),Hotel Ugly,2022,81,135529,5,0,4,0.312,0.653,0.474,6.65e-06,0.119,-10.899,0.103,0.361,85.024,Shut up My Moms Calling (Sped up)
+N95,Kendrick Lamar,2022,78,195950,1,1,4,0.377,0.79,0.67,2.32e-06,0.119,-5.527,0.105,0.408,139.956,Mr. Morale & The Big Steppers
+Bejeweled,Taylor Swift,2022,79,194166,7,1,4,0.0618,0.696,0.559,5.58e-05,0.0887,-9.19,0.0693,0.433,163.999,Midnights
+Awkward,SZA,2022,76,178000,5,1,4,0.182,0.618,0.474,0.000122,0.108,-12.097,0.0789,0.397,119.999,Ctrl (Deluxe)
+"You're On Your Own, Kid",Taylor Swift,2022,79,194207,2,1,4,0.401,0.696,0.396,5.2e-06,0.125,-10.289,0.0656,0.38,120.041,Midnights
+Bones,Imagine Dragons,2022,84,165265,5,0,4,0.0206,0.773,0.742,0,0.0754,-3.678,0.046,0.571,114.071,Bones
+Monotonía,"Shakira, Ozuna",2022,87,158805,0,0,4,0.419,0.873,0.695,1.23e-06,0.211,-4.207,0.0459,0.823,131.963,Monotonía
+Smoking on my Ex Pack,SZA,2022,75,83827,8,1,4,0.241,0.466,0.676,0.00318,0.224,-8.097,0.38,0.333,81.227,SOS
+HOTEL LOBBY (Unc & Phew),"Quavo, Takeoff",2022,76,142657,11,1,4,0.117,0.825,0.649,0,0.232,-4.297,0.169,0.143,127.978,Only Built For Infinity Links
+wait in the truck (feat. Lainey Wilson),"HARDY, Lainey Wilson",2022,73,277660,6,1,4,0.277,0.534,0.466,0,0.0979,-6.98,0.0272,0.23,140.0,wait in the truck (feat. Lainey Wilson)
+Attention,NewJeans,2022,82,180067,10,0,4,0.236,0.811,0.648,0,0.0761,-3.684,0.0368,0.695,104.988,NewJeans 1st EP 'New Jeans'
+Surround Sound (feat. 21 Savage & Baby Tate),"JID, 21 Savage, Baby Tate",2022,75,229938,5,1,4,0.173,0.575,0.56,0,0.257,-7.302,0.478,0.471,75.956,The Forever Story (Extended Version)
+People,Libianca,2022,85,184791,10,0,5,0.551,0.573,0.422,1.31e-05,0.102,-7.621,0.0678,0.693,124.357,People
+Super Freaky Girl,Nicki Minaj,2022,79,170977,2,1,4,0.0645,0.95,0.891,1.77e-05,0.309,-2.653,0.241,0.912,133.01,Super Freaky Girl
+Raindrops (Insane) [with Travis Scott],"Metro Boomin, Travis Scott",2022,77,188587,7,0,4,0.103,0.796,0.539,0,0.343,-5.974,0.0433,0.123,111.988,HEROES & VILLAINS
+Yandel 150,"Yandel, Feid",2022,88,216148,6,0,4,0.0492,0.783,0.729,0.000272,0.1,-3.549,0.0691,0.58,167.968,Yandel 150
+Handle On You,Parker McCollum,2022,72,219333,6,1,4,0.00411,0.588,0.931,0,0.345,-3.925,0.0318,0.625,105.027,Handle On You
+The Kind of Love We Make,Luke Combs,2022,75,224427,1,1,4,0.0226,0.608,0.745,6.47e-06,0.0942,-4.13,0.0277,0.464,102.025,The Kind of Love We Make
+Party,"Bad Bunny, Rauw Alejandro",2022,81,227629,9,1,4,0.0151,0.829,0.799,0.000543,0.242,-5.389,0.0897,0.471,97.013,Un Verano Sin Ti
+ANTIFRAGILE,LE SSERAFIM,2022,85,184444,10,0,4,0.0821,0.882,0.797,0,0.113,-3.299,0.0819,0.824,105.025,ANTIFRAGILE
+Do It Again (feat. 2Rare),"NLE Choppa, 2Rare",2022,77,213206,11,0,4,0.0864,0.806,0.64,0,0.201,-7.398,0.317,0.716,160.054,Do It Again (feat. 2Rare)
+Maroon,Taylor Swift,2022,78,218271,7,1,4,0.0573,0.637,0.398,1.03e-06,0.101,-8.294,0.0564,0.0374,108.075,Midnights
+Privileged Rappers,"Drake, 21 Savage",2022,75,160821,5,1,4,0.00274,0.934,0.614,0,0.123,-7.384,0.198,0.616,144.045,Her Loss
+Conceited,SZA,2022,75,151413,1,1,4,0.0486,0.791,0.458,4.08e-05,0.106,-8.236,0.0673,0.772,150.046,SOS
+The Good I'll Do,Zach Bryan,2022,72,211316,10,1,4,0.82,0.434,0.215,0,0.456,-8.478,0.0417,0.187,118.152,American Heartbreak
+the perfect pair,beabadoobee,2022,76,177533,11,1,4,0.433,0.634,0.663,0.124,0.102,-6.818,0.0331,0.6,146.053,Beatopia
+Matilda,Harry Styles,2022,79,245964,2,1,4,0.896,0.507,0.294,1.97e-05,0.0966,-10.0,0.04,0.386,114.199,Harry's House
+El Rescate,"Grupo Marca Registrada, Junior H",2022,82,160897,7,0,3,0.283,0.794,0.594,0.000381,0.109,-8.698,0.139,0.637,99.238,El Rescate
+Is There Someone Else?,The Weeknd,2022,81,199111,9,0,4,0.0388,0.702,0.586,7.27e-05,0.156,-7.83,0.0313,0.608,134.951,Dawn FM
+Stick Season,Noah Kahan,2022,73,182347,9,1,4,0.782,0.662,0.488,0,0.102,-6.894,0.0682,0.817,117.913,Stick Season
+I Hate U,SZA,2022,76,173907,7,0,5,0.514,0.533,0.417,0,0.114,-8.665,0.148,0.376,106.534,SOS
+KICK BACK,Kenshi Yonezu,2022,82,193495,1,1,4,0.00207,0.577,0.941,3.36e-06,0.0891,-5.17,0.105,0.292,101.921,KICK BACK
+Umbrella (with 21 Savage & Young Nudy),"Metro Boomin, 21 Savage, Young Nudy",2022,75,222000,11,0,4,0.0838,0.822,0.788,0.000173,0.359,-3.634,0.173,0.389,111.016,HEROES & VILLAINS
+In My Head,Juice WRLD,2022,76,192000,5,0,4,0.269,0.633,0.548,0,0.16,-5.634,0.0467,0.35,160.011,In My Head
+J.,Ivan Cornejo,2022,73,234613,10,1,4,0.666,0.408,0.47,5.44e-05,0.0926,-10.149,0.0893,0.0953,51.66,Dañado
+SNAP,Rosa Linn,2022,88,179551,0,1,4,0.107,0.565,0.636,9.9e-06,0.447,-8.198,0.0638,0.525,170.01,SNAP
+Después de la Playa,Bad Bunny,2022,79,230400,5,1,4,0.356,0.564,0.903,0,0.175,-3.221,0.307,0.607,78.293,Un Verano Sin Ti
+Flawlëss (feat. Lil Uzi Vert),"Yeat, Lil Uzi Vert",2022,75,176125,1,1,4,0.0715,0.474,0.805,0,0.147,-5.997,0.332,0.109,131.001,Lyfë
+About You,The 1975,2022,80,326491,2,1,4,0.312,0.416,0.762,0.804,0.0559,-7.385,0.0279,0.461,95.967,Being Funny In A Foreign Language
+Wild as Her,Corey Kent,2022,72,199733,0,1,4,0.00216,0.504,0.736,0,0.129,-6.079,0.0352,0.46,148.014,Wild as Her
+Around Me (feat. Don Toliver),"Metro Boomin, Don Toliver",2022,76,191520,2,0,4,0.0958,0.693,0.67,0.00857,0.432,-3.537,0.0345,0.084,119.907,HEROES & VILLAINS
+Snow On The Beach (feat. Lana Del Rey),"Taylor Swift, Lana Del Rey",2022,79,256124,9,1,4,0.69,0.663,0.319,0.000993,0.117,-13.481,0.0375,0.193,109.957,Midnights
+Satellite,Harry Styles,2022,78,218577,0,1,4,0.143,0.576,0.457,3.05e-05,0.0917,-6.473,0.0304,0.301,138.984,Harry's House
+"Would've, Could've, Should've",Taylor Swift,2022,77,260362,7,1,4,0.43,0.483,0.84,0.000575,0.146,-6.508,0.119,0.55,157.979,Midnights (3am Edition)
+Far,SZA,2022,74,180680,2,1,4,0.672,0.612,0.549,0.000203,0.163,-7.401,0.0833,0.477,115.915,SOS
+Music For a Sushi Restaurant,Harry Styles,2022,79,193813,11,1,4,0.258,0.72,0.715,0.0568,0.107,-4.652,0.04,0.357,107.041,Harry's House
+this is what falling in love feels like,JVKE,2022,78,120308,11,1,5,0.617,0.422,0.44,0,0.0837,-5.53,0.0544,0.332,128.934,this is what ____ feels like (Vol. 1-4)
+Eres Ese Algo,La Maquinaria Norteña,2022,79,173587,4,0,4,0.468,0.722,0.76,0.00066,0.0814,-5.427,0.0501,0.793,113.872,Al Derecho Y Al Reverso
+GATÚBELA,"KAROL G, Maldy",2022,82,209160,11,0,4,0.263,0.627,0.858,0,0.21,-2.824,0.386,0.342,92.523,GATÚBELA
+Heart Like A Truck,Lainey Wilson,2022,71,199040,9,1,4,0.148,0.587,0.632,1.01e-05,0.158,-5.416,0.0311,0.392,139.974,Heart Like A Truck
+Bebe Dame,"Fuerza Regida, Grupo Frontera",2022,79,271862,7,1,4,0.299,0.529,0.602,0,0.0716,-4.629,0.0458,0.756,157.643,Sigan Hablando
+5 Foot 9,Tyler Hubbard,2022,72,189780,5,1,4,0.146,0.602,0.796,0,0.125,-5.609,0.0465,0.53,106.005,5 Foot 9
+HOTEL LOBBY (Unc & Phew),"Quavo, Takeoff",2022,75,142657,11,1,4,0.142,0.821,0.636,0,0.233,-4.479,0.169,0.163,127.961,HOTEL LOBBY (Unc & Phew)
+Matte Black,$uicideboy$,2022,73,238146,10,0,4,0.122,0.877,0.826,1.05e-05,0.104,-3.75,0.206,0.814,75.003,"Sing Me a Lullaby, My Sweet Temptation"
+Days That End In Why,Morgan Wallen,2022,71,162475,6,1,3,0.213,0.451,0.618,3.22e-05,0.165,-5.677,0.0263,0.457,159.856,One Thing At A Time (Sampler)
+1000 Blunts,$uicideboy$,2022,73,175476,5,0,4,0.224,0.83,0.698,1.02e-06,0.191,-6.517,0.077,0.595,132.99,"Sing Me a Lullaby, My Sweet Temptation"
+Dah Dah DahDah,Nardo Wick,2022,72,151776,11,1,4,0.149,0.66,0.373,0,0.106,-10.234,0.595,0.35,167.912,Who is Nardo Wick?? (Deluxe)
+Just Pretend,Bad Omens,2022,74,204677,5,0,4,0.00252,0.457,0.834,0.00125,0.1,-4.674,0.0817,0.201,140.032,THE DEATH OF PEACE OF MIND
+Tarot,"Bad Bunny, Jhayco",2022,82,237895,11,0,4,0.0225,0.795,0.684,0,0.658,-3.971,0.0419,0.419,114.011,Un Verano Sin Ti
+Hey Mor,"Ozuna, Feid",2022,88,196600,1,0,4,0.00302,0.901,0.589,0.000237,0.0992,-6.713,0.289,0.399,98.002,OzuTochi
+The Great War,Taylor Swift,2022,77,240356,5,1,4,0.219,0.573,0.741,2.23e-05,0.0842,-8.987,0.0353,0.554,96.016,Midnights (3am Edition)
+i'm yours,Isabel LaRosa,2022,80,145668,5,0,4,0.204,0.398,0.705,5.13e-05,0.443,-7.07,0.0756,0.635,111.487,i'm yours
+Daylight,Harry Styles,2022,78,164533,0,1,3,0.484,0.686,0.445,0.00144,0.175,-7.189,0.0398,0.626,145.5,Harry's House
+Die Young (feat. 347aidan),"Sleepy Hallow, 347aidan",2022,75,148817,11,1,4,0.827,0.808,0.582,0,0.111,-6.26,0.338,0.675,77.471,Die Young (feat. 347aidan)
+BILLIE EILISH.,Armani White,2022,79,99283,1,1,4,0.115,0.9,0.509,1.67e-06,0.0937,-6.647,0.257,0.765,100.007,BILLIE EILISH.
+Boyfriend,Dove Cameron,2022,79,153000,7,0,3,0.232,0.345,0.612,0,0.194,-6.543,0.0608,0.232,179.773,Boyfriend
+CHORRITO PA LAS ANIMAS,Feid,2022,86,168133,8,0,4,0.114,0.743,0.831,6.43e-05,0.35,-4.042,0.0584,0.609,95.975,SIXDO
+El Gavilán,"Luis R Conriquez, Tony Aguirre, Peso Pluma",2022,82,175296,11,1,3,0.144,0.724,0.684,0.0035,0.302,-4.413,0.0705,0.729,144.117,El Gavilán
+Jumbotron Shit Poppin,Drake,2022,73,137151,6,0,4,0.221,0.799,0.575,0,0.196,-6.257,0.282,0.319,99.026,Her Loss
+California Breeze,Lil Baby,2022,73,177789,5,0,4,0.00361,0.738,0.666,0,0.107,-6.97,0.455,0.215,161.734,It's Only Me
+En Paris,"El Chachito, Junior H",2022,81,162795,3,0,3,0.366,0.702,0.483,0.000131,0.124,-7.99,0.0524,0.769,138.842,En Paris
+Out of Time,The Weeknd,2022,79,214194,0,0,4,0.255,0.65,0.76,0,0.339,-4.422,0.0446,0.838,93.057,Dawn FM
+Too Late,SZA,2022,73,164427,11,1,5,0.781,0.445,0.681,0.000789,0.386,-7.558,0.0829,0.351,127.541,SOS
+If He Wanted To He Would,Kylie Morgan,2022,71,174173,0,1,4,0.0998,0.655,0.617,0,0.211,-4.716,0.026,0.734,90.015,P.S.
+La Corriente,"Bad Bunny, Tony Dize",2022,80,198367,11,0,4,0.229,0.663,0.786,0,0.219,-3.51,0.195,0.579,196.12,Un Verano Sin Ti
+Face 2 Face,Juice WRLD,2022,75,124558,9,1,4,0.0948,0.711,0.72,0,0.101,-4.532,0.0308,0.437,155.997,Face 2 Face
+Next Thing You Know,Jordan Davis,2022,71,175238,5,1,4,0.646,0.557,0.597,0,0.0974,-8.296,0.048,0.414,78.526,Next Thing You Know
+Keep Driving,Harry Styles,2022,76,140242,9,1,3,0.321,0.721,0.479,0.00156,0.182,-9.669,0.226,0.902,164.948,Harry's House
+Bones,Imagine Dragons,2022,82,165265,5,0,4,0.0201,0.772,0.75,0,0.074,-3.67,0.0455,0.587,114.061,Mercury - Acts 1 & 2
+JGL,"La Adictiva, Luis R Conriquez",2022,80,158093,8,1,4,0.55,0.702,0.586,0,0.27,-5.317,0.118,0.965,112.852,JGL
+Thousand Miles,The Kid LAROI,2022,77,164782,7,1,4,0.0858,0.376,0.657,0,0.0884,-4.658,0.0768,0.203,80.565,Thousand Miles
+My All,Polo G,2022,73,197692,1,1,4,0.0393,0.493,0.613,0,0.128,-6.636,0.414,0.373,156.104,My All
+Metro Spider (with Young Thug),"Metro Boomin, Young Thug",2022,74,174560,1,1,4,0.0411,0.709,0.734,0,0.346,-5.027,0.125,0.245,143.087,HEROES & VILLAINS
+Rich Spirit,Kendrick Lamar,2022,75,202285,10,0,4,0.428,0.852,0.421,2.28e-06,0.106,-9.153,0.208,0.457,95.977,Mr. Morale & The Big Steppers
+Numb,"Marshmello, Khalid",2022,79,155589,0,0,4,0.121,0.912,0.774,0.0127,0.101,-4.673,0.0455,0.632,119.966,Numb
+Cigarettes,Juice WRLD,2022,73,227527,2,1,4,0.0306,0.587,0.614,0,0.399,-6.344,0.0435,0.451,160.075,Fighting Demons (Deluxe)
+I Can't Save You (Interlude) [with Future & feat. Don Toliver],"Metro Boomin, Future, Don Toliver",2022,73,90720,1,1,4,0.0301,0.668,0.727,0,0.143,-4.613,0.248,0.309,143.083,HEROES & VILLAINS
+HASTA LA MUERTE,"Eslabon Armado, Ivan Cornejo",2022,72,209903,11,1,3,0.28,0.555,0.832,0,0.0894,-3.691,0.0412,0.43,170.124,NOSTALGIA
+Die Hard,"Kendrick Lamar, Blxst, Amanda Reifer",2022,76,239027,1,0,4,0.319,0.775,0.736,0.00116,0.127,-8.072,0.247,0.362,100.988,Mr. Morale & The Big Steppers
+Good Looking,Suki Waterhouse,2022,75,214800,4,1,3,0.077,0.364,0.554,0.000297,0.125,-9.076,0.0301,0.257,150.079,Good Looking
+BackOutsideBoyz,Drake,2022,74,152962,5,0,4,0.0407,0.849,0.433,0,0.388,-8.434,0.316,0.395,142.11,Her Loss
+First Light,Xavier Wulf,2022,72,131181,4,0,4,0.0509,0.654,0.822,0,0.118,-6.065,0.146,0.309,175.913,Blood Shore Season 3
+Memories,Conan Gray,2022,79,248819,11,1,4,0.00979,0.34,0.684,0,0.348,-6.306,0.044,0.556,112.969,Superache
+On Time (with John Legend),"Metro Boomin, John Legend",2022,74,168920,5,0,4,0.736,0.364,0.62,0.00225,0.429,-6.638,0.0555,0.491,79.904,HEROES & VILLAINS
+Talk,Yeat,2022,73,174857,4,0,4,0.0873,0.698,0.763,0,0.647,-4.716,0.205,0.252,139.939,Lyfë
+Quickie,Moneybagg Yo,2022,72,187826,2,1,4,0.0901,0.87,0.506,0,0.145,-9.415,0.432,0.347,137.921,Quickie
+P power (feat. Drake),"Gunna, Drake",2022,72,193347,1,1,4,0.0199,0.828,0.591,0.000323,0.361,-6.217,0.109,0.202,119.251,DS4EVER
+Los Botones Azules,"Junior H, Luis R Conriquez",2022,80,135612,5,1,3,0.0877,0.784,0.737,0,0.1,-2.174,0.0758,0.623,97.5,Mi Vida En Un Cigarro 2
+Where It Ends,Bailey Zimmerman,2022,70,179294,9,1,4,0.259,0.431,0.837,0,0.0879,-5.067,0.0432,0.648,170.041,Where It Ends
+Capo,NLE Choppa,2022,73,192200,2,1,4,0.119,0.614,0.953,0,0.331,-4.162,0.0688,0.593,154.969,Capo
+Hours In Silence,"Drake, 21 Savage",2022,73,399154,6,0,4,0.234,0.501,0.403,0,0.267,-11.106,0.119,0.111,118.352,Her Loss
+WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1,"TWISTED, Oliver Tree",2022,83,164629,2,0,4,0.15,0.604,0.601,0.000579,0.168,-7.887,0.0628,0.156,139.88,WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)
+Cash In Cash Out,"Pharrell Williams, 21 Savage, Tyler, The Creator",2022,72,216136,7,1,4,0.00721,0.877,0.56,1.45e-06,0.0839,-3.751,0.0596,0.154,119.971,Cash In Cash Out
+Anti-Hero,Taylor Swift,2022,75,200690,4,1,4,0.133,0.638,0.634,1.23e-06,0.152,-6.582,0.0457,0.519,96.953,Midnights (3am Edition)
+Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff),"Metro Boomin, A$AP Rocky, Takeoff",2022,73,189427,5,0,3,0.112,0.491,0.77,0,0.319,-6.018,0.308,0.37,177.977,HEROES & VILLAINS
+Cookie,NewJeans,2022,80,235562,0,1,4,0.0596,0.847,0.638,0,0.0894,-3.764,0.0575,0.661,156.935,NewJeans 1st EP 'New Jeans'
+Little Freak,Harry Styles,2022,77,202183,3,1,4,0.719,0.559,0.535,0.000143,0.0954,-7.723,0.039,0.402,141.96,Harry's House
+vendetta!,"MUPP, Sadfriendd",2022,79,107045,1,1,4,0.175,0.706,0.91,2e-06,0.11,-3.527,0.146,0.667,126.007,vendetta!
+Lavender Haze,Taylor Swift,2022,75,202396,10,1,4,0.204,0.735,0.444,0.0012,0.17,-10.519,0.0684,0.0984,97.038,Midnights (3am Edition)
+Poland,Lil Yachty,2022,74,83200,5,0,4,0.141,0.695,0.555,0.826,0.11,-8.5,0.0509,0.26,150.024,Poland
+2 Million Up,Peezy,2022,70,159973,6,0,4,0.115,0.884,0.423,0,0.0895,-10.181,0.275,0.259,95.753,ONLY BUILT 4 DIAMOND LINKS
+More M’s,"Drake, 21 Savage",2022,72,221406,1,1,4,0.0405,0.704,0.504,0.000422,0.139,-6.749,0.223,0.0713,82.537,Her Loss
+Fingers Crossed,Lauren Spencer Smith,2022,76,175345,5,1,4,0.618,0.56,0.473,0,0.31,-7.23,0.0533,0.441,109.414,Fingers Crossed
+To The Bone (feat. YoungBoy Never Broke Again),"Quavo, Takeoff, YoungBoy Never Broke Again",2022,72,283196,11,0,4,0.0395,0.899,0.582,0,0.1,-7.275,0.264,0.505,149.973,Only Built For Infinity Links
+Real Spill,Lil Baby,2022,72,198722,2,1,4,0.0496,0.776,0.557,0,0.112,-7.441,0.545,0.284,156.978,It's Only Me
+All The Money (with Gunna) [Bonus],"Metro Boomin, Gunna",2022,72,167400,4,0,4,0.053,0.837,0.58,0.00276,0.699,-6.932,0.0618,0.262,111.981,HEROES & VILLAINS
+Too Well,Reneé Rapp,2022,74,156632,10,1,4,0.125,0.668,0.618,0,0.112,-4.639,0.0607,0.389,120.951,Everything To Everyone
+Vigilante Shit,Taylor Swift,2022,75,164801,4,0,4,0.173,0.798,0.277,5.25e-05,0.121,-11.096,0.39,0.163,79.846,Midnights
+Betty (Get Money),Yung Gravy,2022,74,146471,1,1,4,0.00524,0.723,0.772,1.15e-05,0.367,-6.784,0.0792,0.58,102.004,Betty (Get Money)
+911 - En Vivo,"Fuerza Regida, Grupo Frontera",2022,78,175424,0,1,4,0.528,0.641,0.517,0,0.136,-5.472,0.0673,0.642,127.902,911 (En Vivo)
+Paris,Taylor Swift,2022,74,196259,7,1,4,0.112,0.7,0.509,3.27e-05,0.137,-10.547,0.0789,0.345,110.947,Midnights (3am Edition)
+Flower Shops (feat. Morgan Wallen),"ERNEST, Morgan Wallen",2022,69,214405,7,1,3,0.118,0.527,0.461,0,0.0831,-5.908,0.0269,0.227,128.153,FLOWER SHOPS (THE ALBUM)
+Maroon,Taylor Swift,2022,74,218271,7,1,4,0.0593,0.658,0.378,0,0.0976,-8.3,0.0379,0.0382,108.034,Midnights (3am Edition)
+Si Fuera Fácil,Grupo Marca Registrada,2022,79,170496,10,1,3,0.446,0.794,0.677,0.0313,0.076,-9.969,0.0713,0.611,101.467,Si Fuera Fácil
+Forgiveless (feat. Ol' Dirty Bastard),"SZA, Ol' Dirty Bastard",2022,72,141960,9,1,4,0.366,0.668,0.769,0,0.0861,-5.25,0.218,0.469,79.852,SOS
+We Got History,Mitchell Tenpenny,2022,70,203680,0,1,4,0.0014,0.628,0.833,0,0.104,-6.327,0.0311,0.309,98.025,This Is the Heavy
+Sticky,Drake,2022,74,243228,6,1,4,0.0917,0.853,0.495,0.000217,0.0844,-14.63,0.14,0.0774,137.027,"Honestly, Nevermind"
+Heavy Eyes,Zach Bryan,2022,69,190780,5,1,4,0.032,0.471,0.912,0,0.343,-3.032,0.0724,0.613,139.667,American Heartbreak
+Doja,Central Cee,2022,83,97393,6,1,4,0.38,0.911,0.573,0,0.403,-7.43,0.288,0.972,140.04,Doja
+Un Ratito,Bad Bunny,2022,79,176936,0,0,4,0.305,0.787,0.546,4.55e-05,0.122,-7.094,0.0532,0.222,93.05,Un Verano Sin Ti
+La Última Vez - Deluxe,Ivan Cornejo,2022,69,252166,2,0,3,0.622,0.523,0.457,0,0.108,-8.213,0.0296,0.32,141.922,Dañado (Deluxe)
+Don't Think Jesus,Morgan Wallen,2022,69,226975,2,1,3,0.469,0.578,0.431,0,0.137,-7.034,0.0269,0.21,116.979,Don't Think Jesus
+Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa],"Metro Boomin, 21 Savage, Mustafa",2022,72,310960,1,1,4,0.131,0.521,0.526,0.000577,0.173,-8.691,0.276,0.179,161.571,HEROES & VILLAINS
+No Es Por Acá,Carin Leon,2022,79,167692,2,1,3,0.456,0.746,0.37,0,0.106,-6.309,0.0306,0.595,97.568,No Es Por Acá
+Karma,Taylor Swift,2022,74,204852,8,1,4,0.074,0.649,0.622,0,0.594,-7.054,0.0582,0.106,90.024,Midnights (3am Edition)
+Te Felicito,"Shakira, Rauw Alejandro",2022,84,172235,5,1,4,0.234,0.695,0.636,0,0.081,-4.654,0.317,0.575,174.14,Te Felicito
+Fancy Like,Walker Hayes,2022,71,161853,1,1,4,0.111,0.647,0.765,0,0.315,-6.459,0.06,0.855,79.994,Country Stuff The Album
+Está Dañado,Ivan Cornejo,2022,70,201195,8,1,3,0.501,0.578,0.459,1.86e-05,0.143,-11.938,0.041,0.164,160.065,Dañado
+Everything She Ain’t,Hailey Whitters,2022,69,151973,2,1,4,0.175,0.796,0.621,0,0.274,-6.129,0.0346,0.808,121.904,Everything She Ain’t
+Spread Thin,Mariah the Scientist,2022,71,202520,6,0,4,0.0553,0.621,0.411,0,0.0816,-8.261,0.0333,0.357,110.113,Buckles Laboratories Presents: The Intermission
+Love Lost,"Mac Miller, The Temper Trap",2022,74,162876,2,1,4,0.528,0.735,0.812,0,0.186,-4.417,0.151,0.584,109.835,"I Love Life, Thank You"
+Hanging With Wolves,Lil Durk,2022,71,205893,11,0,4,0.0168,0.823,0.636,0,0.108,-7.239,0.0612,0.5,151.978,Hanging With Wolves
+Stick Season,Noah Kahan,2022,71,182347,9,1,4,0.799,0.664,0.5,0,0.0966,-6.935,0.0651,0.801,117.896,Stick Season
+pushin P (feat. Young Thug),"Gunna, Future, Young Thug",2022,74,136267,1,0,1,0.00783,0.773,0.422,0.00693,0.129,-4.572,0.187,0.488,77.502,DS4EVER
+"You're On Your Own, Kid",Taylor Swift,2022,74,194207,2,1,4,0.416,0.694,0.38,8.47e-06,0.126,-10.307,0.0614,0.376,120.044,Midnights (3am Edition)
+Pop Out (feat. Nardo Wick),"Lil Baby, Nardo Wick",2022,70,195197,1,1,4,0.00248,0.474,0.576,0.000309,0.174,-6.963,0.257,0.285,157.947,It's Only Me
+Love Of My Life,Harry Styles,2022,76,191638,7,1,4,0.669,0.555,0.536,0,0.0623,-8.233,0.0452,0.203,118.057,Harry's House
+Glimpse of Us,Joji,2022,78,233456,8,1,3,0.891,0.44,0.317,4.78e-06,0.141,-9.258,0.0531,0.268,169.914,SMITHEREENS
+Homesick,Noah Kahan,2022,70,194417,6,1,4,0.0261,0.503,0.643,2.27e-05,0.314,-6.494,0.0407,0.43,169.955,Stick Season
+Puro Campeón,"Grupo Marca Registrada, Luis R Conriquez",2022,79,196437,10,1,4,0.361,0.851,0.542,3.73e-06,0.132,-8.152,0.122,0.789,101.896,Puro Campeón
+Midnight Rain,Taylor Swift,2022,74,174783,0,1,4,0.71,0.636,0.377,6.51e-05,0.115,-11.721,0.0708,0.23,139.966,Midnights (3am Edition)
+Un Coco,Bad Bunny,2022,80,196413,11,1,4,0.207,0.839,0.69,8.33e-06,0.176,-4.464,0.0615,0.744,151.991,Un Verano Sin Ti
+Fall in Love with You.,Montell Fish,2022,74,132000,4,1,3,0.92,0.538,0.0203,0.019,0.104,-23.163,0.0437,0.103,121.447,JAMIE
+From Austin,Zach Bryan,2022,69,207453,0,1,4,0.633,0.5,0.485,1.26e-06,0.107,-7.94,0.0422,0.379,109.755,American Heartbreak
+Bye Bye,"Marshmello, Juice WRLD",2022,73,108499,3,0,4,0.0574,0.645,0.525,0,0.505,-5.399,0.0355,0.238,83.018,Bye Bye
+Your Heart Or Mine,Jon Pardi,2022,69,161200,5,0,4,0.0539,0.639,0.713,0,0.102,-4.368,0.0337,0.717,86.1,Mr. Saturday Night
+Grapejuice,Harry Styles,2022,74,191959,5,1,4,0.357,0.645,0.721,0.143,0.204,-4.394,0.0336,0.88,182.928,Harry's House
+New Opp,Sha Gz,2022,71,93858,0,1,4,0.369,0.766,0.623,3.11e-06,0.151,-8.994,0.277,0.45,148.86,New Opp
+Bigger Than The Whole Sky,Taylor Swift,2022,74,218503,6,1,4,0.826,0.422,0.235,0.00648,0.115,-12.379,0.0568,0.068,165.71,Midnights (3am Edition)
+Bejeweled,Taylor Swift,2022,73,194166,7,1,4,0.0661,0.7,0.55,0.000102,0.091,-9.13,0.0653,0.412,164.003,Midnights (3am Edition)
+Los Collares,"Oscar Maydon, El Padrinito Toys",2022,81,148793,1,1,3,0.208,0.645,0.712,0,0.3,-5.787,0.188,0.805,136.724,Los Collares
+Victoria's Secret,Jax,2022,73,176125,6,1,4,0.00655,0.586,0.556,0,0.0836,-7.639,0.0592,0.517,167.018,Victoria’s Secret
+How Do I Say Goodbye,Dean Lewis,2022,81,163603,8,1,4,0.214,0.4,0.641,0,0.0656,-6.303,0.0674,0.393,81.552,How Do I Say Goodbye
+PUNTO 40,"Rauw Alejandro, Baby Rasta",2022,80,190654,0,1,4,0.00127,0.873,0.826,0.0361,0.311,-0.722,0.0876,0.201,106.972,PUNTO 40
+Flowers,Lauren Spencer Smith,2022,74,157373,3,1,4,0.869,0.684,0.449,0,0.0881,-9.738,0.611,0.341,66.165,Flowers
+IF YOU GO DOWN (I'M GOIN' DOWN TOO),Kelsea Ballerini,2022,69,166036,11,1,4,0.454,0.676,0.856,0,0.141,-4.35,0.0393,0.965,144.092,SUBJECT TO CHANGE
+Otro Atardecer,"Bad Bunny, The Marías",2022,78,244444,2,1,4,0.59,0.777,0.595,0.00139,0.0669,-6.79,0.0375,0.546,108.02,Un Verano Sin Ti
+Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],"Jung Kook, BTS, FIFA Sound",2022,84,201391,0,1,4,0.158,0.71,0.879,0.00142,0.439,-4.218,0.0422,0.341,114.993,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]
+After LIKE,IVE,2022,80,176973,0,1,4,0.103,0.68,0.922,0,0.0877,-1.215,0.121,0.799,125.014,After LIKE
+Super Gremlin,Kodak Black,2022,70,200548,2,1,4,0.00265,0.825,0.414,0,0.357,-6.634,0.144,0.106,72.993,Back For Everything
+Besos Moja2,"Wisin & Yandel, ROSALÍA",2022,84,229065,5,0,4,0.0584,0.736,0.727,1.91e-06,0.0976,-4.642,0.0571,0.644,94.048,La Última Misión
+Siempre Pendientes,"Peso Pluma, Luis R Conriquez",2022,79,186828,0,1,3,0.331,0.774,0.748,0.0057,0.126,-7.086,0.0352,0.714,135.929,Siempre Pendientes
+About Damn Time,Lizzo,2022,77,191938,10,0,4,0.0974,0.836,0.743,0,0.335,-6.305,0.0653,0.723,108.965,Special
+Way of the Triune God - Hallelujah Version,Tyler Childers,2022,68,208813,10,1,4,0.629,0.696,0.583,0,0.123,-6.384,0.0307,0.543,79.057,Can I Take My Hounds to Heaven?
+Tatuajes - Deluxe,Ivan Cornejo,2022,68,198000,5,1,4,0.844,0.621,0.256,0.000352,0.138,-11.78,0.0282,0.205,130.123,Dañado (Deluxe)
+LOKERA,"Rauw Alejandro, Lyanno, Brray",2022,81,195294,11,0,4,0.21,0.834,0.828,5.91e-06,0.103,-2.657,0.0452,0.58,102.019,LOKERA
+Run BTS,BTS,2022,81,204940,8,1,4,0.0201,0.724,0.818,0,0.0358,-3.747,0.168,0.696,77.004,Proof
+RAVE,Dxrk ダーク,2022,80,169245,8,1,4,0.235,0.716,0.748,0.849,0.114,-6.06,0.0356,0.338,119.918,RAVE
+Enough,charlieonnafriday,2022,73,185267,7,1,4,0.22,0.745,0.543,0,0.174,-8.137,0.0396,0.242,139.964,Enough
+ALIEN SUPERSTAR,Beyoncé,2022,76,215460,10,0,4,0.00453,0.545,0.641,6.59e-05,0.171,-6.398,0.0998,0.464,121.892,RENAISSANCE
+Andamos Mejor,Los Gemelos De Sinaloa,2022,75,137184,9,1,4,0.28,0.855,0.59,0.0982,0.149,-8.55,0.0751,0.283,110.016,Andamos Mejor
+NOSTYLIST,Destroy Lonely,2022,71,180000,11,0,4,0.0396,0.567,0.773,0,0.111,-5.166,0.0775,0.496,160.08,NO STYLIST
+Ch y la Pizza,"Fuerza Regida, Natanael Cano",2022,80,136913,8,1,3,0.401,0.661,0.6,0,0.141,-4.495,0.125,0.848,148.666,Ch y la Pizza
+Daydreaming,Harry Styles,2022,74,187342,4,0,4,0.311,0.707,0.811,0.0152,0.131,-5.298,0.0304,0.899,113.971,Harry's House
+Dancin’ In The Country,Tyler Hubbard,2022,69,179645,7,1,4,0.00408,0.655,0.869,0,0.104,-4.807,0.0633,0.541,114.984,Dancin' In The Country
+Every Night Every Morning,Maddie & Tae,2022,69,196890,7,1,4,0.00799,0.618,0.75,0,0.141,-4.608,0.0287,0.619,123.885,Every Night Every Morning
+True Love,"Kanye West, XXXTENTACION",2022,74,148571,5,0,4,0.0182,0.712,0.861,6.09e-06,0.511,-5.487,0.25,0.388,84.042,True Love
+ULALA (OOH LA LA),"Myke Towers, Daddy Yankee",2022,82,188009,0,0,4,0.0462,0.872,0.681,1.38e-05,0.129,-4.348,0.11,0.481,96.986,ULALA (OOH LA LA)
+Hurt,NewJeans,2022,77,177947,10,0,4,0.731,0.599,0.446,0,0.105,-6.511,0.0833,0.567,179.877,NewJeans 1st EP 'New Jeans'
+Left and Right (Feat. Jung Kook of BTS),"Charlie Puth, Jung Kook, BTS",2022,80,154487,2,1,4,0.619,0.881,0.592,1.32e-05,0.0901,-4.898,0.0324,0.719,101.058,Left and Right (Feat. Jung Kook of BTS)
+Vamos Para Arriba,"Junior H, Gabito Ballesteros",2022,78,172227,5,0,3,0.498,0.699,0.51,0,0.22,-7.153,0.0352,0.625,98.07,Vamos Para Arriba
+i'm yours sped up,Isabel LaRosa,2022,79,127781,7,0,1,0.108,0.39,0.752,0.00308,0.555,-7.581,0.19,0.637,128.926,i'm yours
+Mastermind,Taylor Swift,2022,74,191039,4,1,4,0.553,0.662,0.357,0.00129,0.0837,-14.064,0.154,0.124,125.966,Midnights
+On tha linë,Yeat,2022,71,154787,1,0,4,0.00482,0.771,0.594,6.88e-06,0.111,-8.991,0.193,0.119,149.106,2 Alivë
+Put It On Me,YoungBoy Never Broke Again,2022,69,152195,9,1,4,0.0331,0.665,0.666,0,0.0841,-7.009,0.429,0.844,164.205,Realer 2
+BREAK MY SOUL,Beyoncé,2022,75,278282,1,0,4,0.0581,0.693,0.887,2.71e-06,0.27,-5.039,0.0795,0.864,114.942,RENAISSANCE
+Heart Like A Truck,Lainey Wilson,2022,68,199040,9,1,4,0.148,0.587,0.632,1.01e-05,0.158,-5.416,0.0311,0.392,139.974,Bell Bottom Country
+In The Stars,Benson Boone,2022,79,216410,10,1,3,0.338,0.362,0.54,0,0.139,-6.031,0.0528,0.3,78.007,In The Stars
+Vamos Aclarando Muchas Cosas - En Vivo,Codiciado,2022,77,190720,10,1,3,0.761,0.718,0.55,0,0.105,-5.743,0.0381,0.824,107.292,Vamos Aclarando Muchas Cosas (En Vivo)
+Mi Terre CLN,"Fuerza Regida, Juanpa Salazar",2022,75,172056,7,1,3,0.161,0.723,0.697,0,0.0814,-3.643,0.215,0.858,159.01,Pa Que Hablen
+High Infidelity,Taylor Swift,2022,73,231475,10,1,4,0.723,0.646,0.529,0,0.0885,-10.179,0.0864,0.755,87.862,Midnights (3am Edition)
+Nxde,(G)I-DLE,2022,80,178453,4,0,4,0.0413,0.726,0.91,7.81e-06,0.479,-1.948,0.179,0.648,135.966,I love
+Mastermind,Taylor Swift,2022,72,191039,4,1,4,0.571,0.661,0.352,0.00147,0.0884,-14.077,0.117,0.13,125.934,Midnights (3am Edition)
+Count Me Out,Kendrick Lamar,2022,73,283642,4,0,4,0.671,0.776,0.431,0,0.153,-7.544,0.091,0.495,133.999,Mr. Morale & The Big Steppers
+Love & War,Kodak Black,2022,70,239146,11,0,4,0.58,0.762,0.649,1.7e-05,0.0971,-5.624,0.0527,0.501,145.09,Back For Everything
+FreakyT,TiaCorine,2022,68,194306,0,0,4,0.241,0.806,0.542,0.000494,0.113,-7.482,0.064,0.14,142.881,I Can't Wait
+Chale,Eden Muñoz,2022,79,170745,8,1,3,0.395,0.551,0.436,0,0.0719,-8.029,0.0428,0.862,188.651,Chale
+Forever (feat. Fridayy),"Lil Baby, Fridayy",2022,71,167977,4,0,3,0.414,0.462,0.251,0,0.201,-12.072,0.159,0.137,89.705,It's Only Me
+Family Line,Conan Gray,2022,74,216095,6,1,3,0.619,0.326,0.397,0,0.0979,-8.145,0.0461,0.276,153.713,Superache
+Spinnin,"Connor Price, Bens",2022,75,110938,11,0,4,0.226,0.765,0.572,0,0.192,-6.153,0.128,0.475,140.013,Spinnin
+Silent Hill,"Kendrick Lamar, Kodak Black",2022,71,220779,1,0,4,0.438,0.907,0.577,3.19e-05,0.137,-6.737,0.0767,0.801,140.07,Mr. Morale & The Big Steppers
+AMERICA HAS A PROBLEM,Beyoncé,2022,72,198898,1,1,4,0.00348,0.789,0.614,0.00152,0.283,-6.491,0.0579,0.108,126.035,RENAISSANCE
+Poppin,Yeat,2022,70,167187,7,1,4,0.262,0.705,0.613,6.97e-06,0.198,-7.441,0.123,0.259,74.521,2 Alivë
+En La De Ella,"Jhayco, Feid, Sech",2022,80,230653,1,1,4,0.0798,0.816,0.77,0,0.118,-5.477,0.0538,0.671,96.99,En La De Ella
+Thinking 'Bout You (feat. MacKenzie Porter),"Dustin Lynch, MacKenzie Porter",2022,69,170560,8,1,4,0.137,0.403,0.711,0,0.109,-4.189,0.0569,0.801,203.803,Blue In The Sky
+Hrs & Hrs,Muni Long,2022,73,204317,8,0,3,0.579,0.52,0.546,0,0.112,-4.991,0.213,0.634,137.419,Public Displays Of Affection: The Album
+Water Under The Bridge,Sam Hunt,2022,68,169760,5,1,4,0.0697,0.635,0.866,0,0.0955,-2.695,0.0473,0.853,133.889,Water Under The Bridge
+Question...?,Taylor Swift,2022,72,210557,7,1,4,0.226,0.751,0.502,0,0.297,-8.777,0.162,0.112,108.989,Midnights (3am Edition)
+GigaChad Theme - Phonk House Version,g3ox_em,2022,80,146274,9,1,4,0.00166,0.588,0.496,0.936,0.186,-5.947,0.0417,0.582,128.001,GigaChad Theme (Phonk House Version)
+Cinema,Harry Styles,2022,74,243508,9,0,4,0.354,0.829,0.644,0.0511,0.0944,-7.696,0.0427,0.896,105.993,Harry's House
+Mentiras,"Grupo Los de la O, Ivan Cornejo",2022,75,234593,7,1,3,0.218,0.611,0.723,0,0.0715,-6.571,0.213,0.669,195.181,Pura Manzanita Vol. 3
+Rush,Ayra Starr,2022,79,185093,1,1,4,0.0369,0.792,0.503,0.00057,0.0959,-8.044,0.0626,0.381,99.97,Rush
+Banking On Me,Gunna,2022,70,200000,0,0,4,0.613,0.793,0.308,1.68e-05,0.0953,-10.414,0.0466,0.46,135.143,Banking On Me
+El Hijo Mayor,Junior H,2022,80,196500,8,1,3,0.431,0.571,0.567,0,0.129,-6.873,0.0994,0.967,165.332,El Hijo Mayor
+OOGA BOOGA!,Ski Mask The Slump God,2022,69,139038,1,1,4,0.101,0.847,0.916,0.000766,0.118,-5.757,0.222,0.751,104.018,OOGA BOOGA!
+Dua Lipa,Jack Harlow,2022,72,135053,11,1,4,0.00161,0.833,0.652,0.0985,0.106,-6.942,0.0762,0.405,158.022,Come Home The Kids Miss You
+Get to Gettin’ Gone,Bailey Zimmerman,2022,68,182466,6,1,4,0.247,0.59,0.685,0,0.0659,-6.689,0.0308,0.538,146.098,Get to Gettin’ Gone
+Question...?,Taylor Swift,2022,74,210557,7,1,4,0.2,0.751,0.502,0,0.296,-8.763,0.167,0.106,108.943,Midnights
+Snow On The Beach (feat. Lana Del Rey),"Taylor Swift, Lana Del Rey",2022,73,256124,9,1,4,0.735,0.659,0.323,0.00321,0.116,-13.425,0.0436,0.154,110.007,Midnights (3am Edition)
+Fifth of May,Zach Bryan,2022,68,178151,4,1,4,0.391,0.596,0.544,3.06e-06,0.129,-7.039,0.0341,0.707,136.728,The Greatest Day of My Life
+Gatita,Bellakath,2022,81,153063,7,1,4,0.16,0.895,0.847,0.223,0.338,-5.25,0.0519,0.735,101.006,Gatita
+All My Love,Noah Kahan,2022,68,251511,2,1,4,0.32,0.637,0.651,0,0.0938,-7.089,0.0521,0.485,115.926,Stick Season
+Numb Little Bug,Em Beihold,2022,72,169238,8,0,4,0.327,0.742,0.527,0,0.25,-6.892,0.0769,0.638,84.974,Numb Little Bug
+People Watching,Conan Gray,2022,73,158537,5,1,4,0.381,0.53,0.592,0,0.294,-7.281,0.0534,0.544,125.721,Superache
+2 Be Loved (Am I Ready),Lizzo,2022,77,187108,7,1,4,0.0922,0.721,0.769,0,0.0817,-4.111,0.105,0.915,155.932,Special
+Andrea,"Bad Bunny, Buscabulla",2022,77,339612,1,0,4,0.762,0.797,0.616,0.000293,0.0979,-10.229,0.375,0.451,103.071,Un Verano Sin Ti
+Hey Mor,"Ozuna, Feid",2022,82,196600,1,0,4,0.00302,0.901,0.589,0.000237,0.0992,-6.713,0.289,0.399,98.002,Hey Mor
+Less Than Zero,The Weeknd,2022,75,211814,0,1,4,0.00096,0.535,0.791,0.000155,0.0788,-5.55,0.0327,0.5,142.981,Dawn FM
+THE LONELIEST,Måneskin,2022,81,247067,2,1,4,0.00151,0.519,0.595,0,0.0762,-5.001,0.0283,0.237,129.786,THE LONELIEST
+Aces,dkj,2022,74,122250,10,0,4,0.00118,0.602,0.537,0.947,0.289,-11.389,0.0332,0.428,139.94,Aces
+Shut Down,BLACKPINK,2022,76,175889,0,1,3,0.00412,0.82,0.686,0,0.184,-5.102,0.038,0.668,110.058,BORN PINK
+Until I Found You,Stephen Sanchez,2022,77,176667,10,1,3,0.757,0.346,0.5,0,0.189,-6.097,0.0388,0.191,202.466,Easy On My Eyes
+Not Finished,Lil Baby,2022,69,163454,1,1,4,0.0123,0.785,0.524,0,0.365,-7.004,0.122,0.0855,142.007,It's Only Me
+Already Dead,Juice WRLD,2022,71,231221,1,1,4,0.0216,0.744,0.495,0,0.111,-6.311,0.0634,0.128,83.51,Fighting Demons (Deluxe)
+Feel Like This,Ingrid Andress,2022,68,196163,7,1,4,0.141,0.536,0.605,0,0.0614,-5.292,0.0338,0.341,130.053,Good Person
+Gold,Dierks Bentley,2022,68,167760,1,1,4,0.0482,0.674,0.873,0,0.18,-4.256,0.0285,0.946,115.01,Gold
+Vigilante Shit,Taylor Swift,2022,72,164801,4,0,4,0.16,0.87,0.279,1.74e-05,0.121,-11.134,0.364,0.16,79.996,Midnights (3am Edition)
+No Le Aflojo,"Los Gemelos De Sinaloa, Fuerza Regida",2022,73,202876,5,0,4,0.195,0.698,0.687,0,0.0829,-4.115,0.0501,0.773,116.765,No Le Aflojo
+Northern Attitude,Noah Kahan,2022,68,267256,3,1,4,0.113,0.512,0.636,3.8e-05,0.104,-8.087,0.0469,0.312,121.431,Stick Season
+Champagne Face,"$uicideboy$, Germ",2022,68,140289,10,0,4,0.0231,0.894,0.767,2.36e-05,0.574,-4.695,0.137,0.412,144.077,DIRTIESTNASTIEST$UICIDE
+Water (Drowning Pt. 2) [feat. Kodak Black],"A Boogie Wit da Hoodie, Kodak Black",2022,70,206769,0,1,4,0.0392,0.855,0.603,0,0.105,-5.488,0.284,0.494,129.976,Me vs. Myself
+NO SNITCHING (with Dusty Locane),"Lil Mabu, DUSTY LOCANE",2022,71,160007,1,1,4,0.0595,0.729,0.64,0,0.348,-8.8,0.352,0.413,156.029,DOUBLE M'S
+Motorcycle Drive By,Zach Bryan,2022,68,161799,3,1,4,0.0392,0.655,0.682,0,0.67,-4.562,0.0464,0.525,124.306,Summertime Blues
+Pink Noise for Dreaming,Brightlo,2022,70,193250,1,1,5,0.911,0.167,0.113,0.94,0.112,-37.027,0.0649,0.148,124.716,Pink Noise for Dreaming
+Sweet Nothing,Taylor Swift,2022,73,188497,0,1,4,0.964,0.337,0.156,7.72e-05,0.115,-14.919,0.0518,0.39,176.655,Midnights
+Perc & Sex,YN Jay,2022,68,154932,0,0,5,0.362,0.597,0.483,0.000138,0.17,-11.673,0.632,0.285,124.452,Coochie Goat
+6000 Degrees (AH HA),$hyfromdatre,2022,68,102873,2,1,4,0.0365,0.918,0.517,0,0.0998,-7.085,0.156,0.158,131.983,6000 Degrees (AH HA)
+THROW,"Lil Mabu, DD Osama",2022,70,138309,9,0,4,0.262,0.525,0.507,0,0.157,-9.04,0.408,0.353,73.376,THROW
+In The Kitchen,Reneé Rapp,2022,70,227749,0,0,3,0.833,0.364,0.294,0,0.264,-6.578,0.0504,0.125,79.477,Everything To Everyone
+"GRAVITY (FEAT. TYLER, THE CREATOR)","Brent Faiyaz, DJ Dahi, Tyler, The Creator",2022,69,214693,1,0,4,0.167,0.541,0.619,0.00633,0.144,-8.746,0.254,0.491,163.908,WASTELAND
+We Ride,Bryan Martin,2022,68,188483,3,1,4,0.0736,0.62,0.719,8.84e-06,0.185,-4.177,0.0257,0.559,81.991,We Ride
+United In Grief,Kendrick Lamar,2022,72,255378,8,1,3,0.244,0.529,0.845,0,0.143,-8.142,0.404,0.331,85.63,Mr. Morale & The Big Steppers
+Voices In My Head,Falling In Reverse,2022,71,191415,2,0,4,0.0266,0.546,0.898,0,0.129,-3.067,0.162,0.639,173.17,Voices In My Head
+"One Mic, One Gun","Nas, 21 Savage",2022,70,169693,1,1,4,0.0351,0.756,0.916,0,0.241,-2.692,0.207,0.458,149.961,"One Mic, One Gun"
+Una Noche en Medellín,Cris Mj,2022,81,153750,10,0,4,0.0924,0.87,0.548,4.6e-05,0.0534,-5.253,0.077,0.832,96.018,Una Noche en Medellín
+Yo No Soy Celoso,Bad Bunny,2022,76,230704,0,1,4,0.275,0.872,0.588,0,0.17,-6.276,0.0492,0.93,142.004,Un Verano Sin Ti
+Father Time (feat. Sampha),"Kendrick Lamar, Sampha",2022,71,222497,10,0,4,0.181,0.514,0.779,0,0.099,-4.365,0.344,0.517,152.869,Mr. Morale & The Big Steppers
+Talk that Talk,TWICE,2022,77,177467,3,0,4,0.136,0.772,0.907,0,0.334,-2.438,0.124,0.783,119.973,BETWEEN 1&2
+Light Switch,Charlie Puth,2022,77,187704,6,1,4,0.105,0.689,0.627,0.000321,0.0905,-5.692,0.308,0.905,184.008,CHARLIE
+Strange,Miranda Lambert,2022,67,211227,6,1,4,0.0551,0.723,0.633,1.93e-05,0.0665,-6.982,0.0332,0.498,112.022,Palomino
+PUNTO G,Quevedo,2022,85,151325,11,0,4,0.251,0.751,0.761,0.000238,0.0991,-4.113,0.15,0.553,92.032,PUNTO G
+Never Hating (feat. Young Thug),"Lil Baby, Young Thug",2022,69,160777,8,1,4,0.0016,0.879,0.504,0,0.147,-8.284,0.271,0.335,102.929,It's Only Me
+Dance Now (feat. Kenny Mason),"JID, Kenny Mason",2022,70,227556,1,1,4,0.0919,0.786,0.475,9.6e-06,0.176,-10.902,0.248,0.264,135.0,The Forever Story (Extended Version)
+Pretty Girls Walk,Big Boss Vette,2022,68,140053,9,1,4,0.027,0.923,0.678,0.00598,0.0656,-7.124,0.0837,0.72,90.013,Pretty Girls Walk
+Russell County Line,49 Winchester,2022,67,249873,2,1,4,0.169,0.635,0.318,2.43e-05,0.103,-9.053,0.0347,0.395,95.056,Fortune Favors the Bold
+Dos Mil 16,Bad Bunny,2022,78,208615,1,1,3,0.123,0.817,0.67,1.92e-06,0.128,-6.534,0.0506,0.495,130.058,Un Verano Sin Ti
+Feliz Cumpleaños Ferxxo,Feid,2022,85,155960,5,1,4,0.0863,0.865,0.573,0,0.305,-5.501,0.0678,0.563,94.999,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM
+Inseparables,"Yahritza Y Su Esencia, Ivan Cornejo",2022,68,171724,3,1,3,0.726,0.676,0.441,0,0.0884,-6.929,0.0253,0.515,140.091,Inseparables
+Devil Doesn’t Bargain,Alec Benjamin,2022,73,163613,3,1,4,0.577,0.448,0.606,0,0.217,-4.565,0.0609,0.483,121.15,(Un)Commentary
+LOVE YOU BETTER,Future,2022,69,129480,5,1,4,0.478,0.709,0.357,0.000294,0.112,-9.289,0.214,0.544,75.494,I NEVER LIKED YOU
+CASE 143,Stray Kids,2022,76,191965,6,0,4,0.0961,0.812,0.89,0,0.0222,-2.661,0.209,0.69,100.006,MAXIDENT
+Super Freaky Girl,Nicki Minaj,2022,73,170977,2,1,4,0.0509,0.951,0.878,1.61e-05,0.321,-2.565,0.211,0.923,133.014,Queen Radio: Volume 1
+this is what heartbreak feels like,JVKE,2022,72,157636,1,1,4,0.578,0.707,0.474,0,0.11,-4.603,0.0672,0.538,109.991,this is what ____ feels like (Vol. 1-4)
+What Happened To Virgil (feat. Gunna),"Lil Durk, Gunna",2022,69,181393,6,0,4,0.067,0.795,0.526,2e-06,0.134,-9.086,0.204,0.194,140.037,7220
+Ya Te Perdí - Deluxe,Ivan Cornejo,2022,67,264300,8,1,4,0.469,0.55,0.352,7.48e-05,0.119,-9.236,0.0272,0.169,123.794,Dañado (Deluxe)
+I Dream of Chrome,"$uicideboy$, Germ",2022,68,145843,0,1,4,0.0484,0.84,0.934,0,0.0961,-3.717,0.119,0.67,149.994,DIRTIESTNASTIEST$UICIDE
+Un Verano Sin Ti,Bad Bunny,2022,77,148143,5,0,4,0.693,0.503,0.496,0,0.123,-9.123,0.0556,0.412,187.844,Un Verano Sin Ti
+Moth To A Flame (with The Weeknd),"Swedish House Mafia, The Weeknd",2022,78,234000,8,1,4,0.0027,0.553,0.659,0,0.105,-7.295,0.0391,0.105,120.146,Paradise Again
+Hold Me Closer,"Elton John, Britney Spears",2022,79,202246,0,1,4,0.0746,0.667,0.75,0.000198,0.197,-4.602,0.0906,0.486,126.041,Hold Me Closer
+Sometimes,Juice WRLD,2022,69,259672,8,1,4,0.0609,0.674,0.58,0,0.159,-4.866,0.0311,0.0759,121.987,Fighting Demons (Deluxe)
+Talk,Yeat,2022,69,174857,4,0,4,0.0845,0.698,0.763,0,0.54,-4.718,0.229,0.256,139.998,Talk
+blame's on me,Alexander Stewart,2022,77,138375,1,0,3,0.863,0.306,0.121,0,0.167,-17.118,0.0396,0.238,159.08,blame's on me
+No Body,Blake Shelton,2022,67,187640,4,1,4,0.0379,0.739,0.72,0.00267,0.23,-6.695,0.026,0.892,102.997,No Body
+Down In Atlanta,"Pharrell Williams, Travis Scott",2022,74,164041,7,1,3,0.337,0.851,0.819,0.000153,0.0658,-5.173,0.212,0.903,83.154,Down In Atlanta
+Igualito a Mi Apá,"Fuerza Regida, Peso Pluma",2022,75,166821,4,0,4,0.188,0.758,0.812,0,0.0564,-3.272,0.0854,0.795,144.908,Pa Que Hablen
+Coast (feat. Anderson .Paak),"Hailee Steinfeld, Anderson .Paak",2022,72,166720,11,1,4,0.0262,0.701,0.875,7.32e-06,0.137,-4.1,0.0757,0.84,111.976,Coast
+Worth A Shot (feat. Dierks Bentley),"Elle King, Dierks Bentley",2022,67,211933,0,1,4,0.00481,0.554,0.809,0.00156,0.111,-4.893,0.039,0.462,159.989,Worth A Shot (feat. Dierks Bentley)
+Te Amo,Edgardo Nuñez,2022,74,193621,8,1,5,0.368,0.741,0.542,0,0.162,-4.726,0.0262,0.763,79.998,Te Amo
+Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,2022,76,196520,9,1,4,0.899,0.247,0.299,0,0.131,-6.083,0.0315,0.172,177.115,Black Panther: Wakanda Forever - Music From and Inspired By
+DESPECHÁ,ROSALÍA,2022,84,157018,7,1,4,0.184,0.919,0.623,1.63e-05,0.0609,-6.521,0.0992,0.775,130.037,DESPECHÁ
+Como Quieras Quiero,Eden Muñoz,2022,77,122097,10,1,3,0.644,0.555,0.707,1.07e-05,0.101,-7.665,0.12,0.963,185.914,Consejos Gratis
+Calidad,"Grupo Firme, Luis Mexia",2022,79,170053,0,1,3,0.609,0.731,0.491,0,0.262,-3.116,0.029,0.781,132.891,Calidad
+Sweet Nothing,Taylor Swift,2022,71,188497,0,1,4,0.967,0.334,0.161,4.71e-05,0.115,-14.875,0.0506,0.396,176.747,Midnights (3am Edition)
+10 Things I Hate About You,Leah Kate,2022,72,157138,8,1,4,0.00991,0.544,0.786,0,0.169,-2.97,0.0501,0.446,153.967,10 Things I Hate About You
+MAMIII,"Becky G, KAROL G",2022,77,226088,4,0,4,0.0934,0.843,0.7,0,0.14,-3.563,0.0803,0.899,93.991,MAMIII
+LOVE DIVE,IVE,2022,78,177187,1,0,4,0.00379,0.703,0.709,5.43e-05,0.333,-4.169,0.0433,0.538,117.941,LOVE DIVE
+El Apagón,Bad Bunny,2022,74,201816,8,1,4,0.0509,0.629,0.698,0.00166,0.0909,-4.485,0.308,0.599,117.765,Un Verano Sin Ti
+Broadway Girls (feat. Morgan Wallen),"Lil Durk, Morgan Wallen",2022,67,185600,10,1,4,0.0417,0.659,0.745,0,0.296,-3.599,0.0347,0.54,74.967,7220 (Reloaded)
+Cooped Up / Return Of The Mack,"Post Malone, Mark Morrison, Sickick",2022,71,127253,2,1,4,0.01,0.727,0.839,3.63e-06,0.177,-4.781,0.184,0.338,95.485,Cooped Up / Return Of The Mack
+Way Down Yonder,Chase Rice,2022,67,218213,6,0,4,0.17,0.476,0.818,1.24e-05,0.13,-4.259,0.0388,0.626,144.131,Way Down Yonder
+Alone,Rod Wave,2022,66,191159,3,0,4,0.703,0.596,0.545,0,0.0811,-6.911,0.0368,0.0923,82.07,Beautiful Mind
+Sundown Somewhere,Restless Road,2022,67,162842,11,1,4,0.0425,0.602,0.892,1.03e-06,0.172,-4.394,0.0333,0.709,114.034,Sundown Somewhere
+Brown Eyes Baby,Keith Urban,2022,67,224985,8,1,4,0.0906,0.521,0.833,3.13e-06,0.0647,-6.992,0.0313,0.581,141.944,Brown Eyes Baby
+Labyrinth,Taylor Swift,2022,72,247962,0,1,4,0.785,0.406,0.306,0.488,0.122,-15.48,0.0517,0.122,110.014,Midnights
+PAINTING PICTURES,Superstar Pride,2022,68,122070,11,0,4,0.305,0.956,0.515,0,0.156,-9.962,0.337,0.69,119.937,5LBS OF PRESSURE
+LA INOCENTE,"Mora, Feid",2022,84,202174,5,0,4,0.307,0.757,0.789,0,0.0717,-3.46,0.0583,0.464,91.911,MICRODOSIS
+Damn You,Ella Langley,2022,67,183413,4,1,4,0.0508,0.58,0.881,0,0.106,-3.004,0.042,0.384,76.989,Damn You
+F.N.F. (Let's Go),"Hitkidd, GloRilla",2022,67,137580,1,1,4,0.0374,0.864,0.476,0,0.374,-10.068,0.436,0.647,157.144,F.N.F. (Let's Go)
+Shabooya,"Hitkidd, Gloss Up, K Carbon, Slimeroni, Aleza",2022,67,178824,9,0,4,0.00782,0.878,0.62,0,0.0635,-4.956,0.289,0.835,145.016,Shabooya
+Vette Motors,YoungBoy Never Broke Again,2022,67,173419,10,0,4,0.0298,0.83,0.644,0,0.11,-5.431,0.407,0.227,155.103,The Last Slimeto
+Labyrinth,Taylor Swift,2022,71,247962,0,1,4,0.791,0.487,0.313,0.348,0.124,-15.434,0.0487,0.141,110.039,Midnights (3am Edition)
+Wild Flower (with youjeen),"RM, Youjeen",2022,80,273500,8,1,4,0.0282,0.486,0.766,0,0.123,-5.821,0.0938,0.417,154.992,Indigo
+Glitch,Taylor Swift,2022,71,148781,11,0,4,0.361,0.675,0.466,0,0.11,-9.738,0.201,0.347,140.864,Midnights (3am Edition)
+Solo Me Dejaste,Grupo Marca Registrada,2022,74,186709,7,0,3,0.539,0.609,0.515,0.0839,0.0722,-9.843,0.0486,0.853,152.787,Solo Me Dejaste
+Collide (Sped Up Remix),"Justine Skye, Tyga",2022,79,221169,2,0,4,0.0882,0.362,0.432,0,0.264,-9.359,0.112,0.256,81.29,Collide (Remix Pack)
+Girl In Mine,Parmalee,2022,67,155120,8,1,4,0.167,0.459,0.682,0,0.11,-4.235,0.0464,0.887,201.831,Girl In Mine
+Ch y la Pizza,"Fuerza Regida, Natanael Cano",2022,76,136913,8,1,3,0.329,0.628,0.668,0,0.139,-2.722,0.117,0.845,148.746,Pa Que Hablen
+Beat the Odds,Lil Tjay,2022,71,150000,8,0,4,0.054,0.498,0.625,0,0.175,-7.452,0.342,0.478,84.821,Beat the Odds
+DESPECHÁ,ROSALÍA,2022,81,156788,7,1,4,0.146,0.914,0.622,1.68e-05,0.0632,-6.538,0.0892,0.77,130.04,MOTOMAMI +
+Dial Tone,Catch Your Breath,2022,70,200495,4,0,4,0.00118,0.507,0.816,0,0.0972,-5.419,0.0436,0.239,91.068,Dial Tone
+ENERGY (feat. Beam),"Beyoncé, BEAM",2022,72,116727,1,1,4,0.281,0.903,0.519,0.000106,0.155,-9.151,0.26,0.587,114.991,RENAISSANCE
+Sick of U (with Oliver Tree),"BoyWithUke, Oliver Tree",2022,73,168676,0,1,4,0.277,0.676,0.814,0,0.0953,-3.213,0.0585,0.601,92.554,Sick of U
+The 30th,Billie Eilish,2022,73,216448,7,1,4,0.929,0.387,0.135,0,0.0948,-14.398,0.051,0.21,82.987,Guitar Songs
+Treacherous Twins,"Drake, 21 Savage",2022,70,180098,10,0,4,0.0782,0.746,0.517,0,0.137,-7.582,0.327,0.609,88.987,Her Loss
+Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, JID, Arcane, League of Legends",2022,78,173381,11,0,4,0.237,0.728,0.783,0,0.434,-4.424,0.266,0.555,77.011,Mercury - Acts 1 & 2
+Hublot,"Los Farmerz, Los Nuevos Escoltas",2022,72,225250,2,1,1,0.133,0.824,0.672,1.97e-06,0.114,-7.679,0.126,0.797,120.538,Hublot
+All the Time,Zach Bryan,2022,66,199500,4,0,4,0.272,0.422,0.439,0,0.124,-6.606,0.0311,0.277,151.785,Summertime Blues
+CHAO BEBE,"Ovy On The Drums, Ozuna",2022,77,206499,5,0,4,0.649,0.869,0.74,7.95e-06,0.135,-4.699,0.108,0.598,117.949,CHAO BEBE
+Long Live Cowgirls (with Cody Johnson),"Ian Munsick, Cody Johnson",2022,66,184747,10,1,3,0.291,0.233,0.432,0,0.279,-5.957,0.0321,0.286,195.663,Long Live Cowgirls (with Cody Johnson)
+New Gold (feat. Tame Impala and Bootie Brown),"Gorillaz, Tame Impala, Bootie Brown",2022,73,215150,1,0,3,0.0425,0.695,0.923,0.0469,0.116,-3.93,0.0522,0.551,108.014,New Gold (feat. Tame Impala and Bootie Brown)
+Middle of the Ocean,Drake,2022,70,356389,4,0,3,0.18,0.466,0.703,0,0.422,-5.774,0.393,0.25,76.815,Her Loss
+Munch (Feelin’ U),Ice Spice,2022,70,104819,11,0,4,0.291,0.811,0.528,0,0.0787,-7.278,0.275,0.635,166.084,Munch (Feelin’ U)
+La Máquina,"Anuel AA, Jowell & Randy, De La Ghetto, Yailin la Mas Viral",2022,76,296907,11,1,4,0.0308,0.799,0.775,0.00526,0.309,-5.869,0.077,0.605,95.027,LLNM2
+La Llevo Al Cielo (Ft. Ñengo Flow),"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",2022,79,254920,9,0,4,0.105,0.795,0.845,1.14e-05,0.172,-3.809,0.135,0.769,170.023,La Llevo Al Cielo (Ft. Ñengo Flow)
+Her,Megan Thee Stallion,2022,68,137107,1,1,4,0.374,0.945,0.848,3.31e-05,0.101,-4.76,0.326,0.819,119.918,Traumazine
+DEAD MAN WALKING,Brent Faiyaz,2022,69,247080,9,0,4,0.303,0.51,0.272,0,0.0958,-13.763,0.0557,0.435,143.984,WASTELAND
+Hot Shit (feat. Ye & Lil Durk),"Cardi B, Kanye West, Lil Durk",2022,69,211649,9,1,4,0.00152,0.878,0.685,0,0.0753,-5.28,0.225,0.523,157.003,Hot Shit (feat. Ye & Lil Durk)
+Green Green Grass,George Ezra,2022,79,167614,8,1,4,0.0695,0.685,0.738,0,0.128,-4.413,0.0595,0.8,112.972,Gold Rush Kid
+See Red,"TaTa, Jenn Carter",2022,67,120047,6,1,4,0.358,0.661,0.877,0,0.229,-3.85,0.361,0.817,145.169,See Red
+Step Back!,"1nonly, SXMPRA",2022,75,150675,1,1,4,0.185,0.783,0.89,0.00417,0.0969,-5.995,0.2,0.437,127.996,Step Back!
+Nothing Is Lost (You Give Me Strength),The Weeknd,2022,77,267505,5,1,4,0.0002,0.52,0.693,2.2e-05,0.122,-7.704,0.0331,0.12,126.985,Avatar: The Way of Water (Original Motion Picture Soundtrack)
+Dancin' In The Moonlight (feat. Lauren Alaina),"Chris Lane, Lauren Alaina",2022,67,199000,8,0,4,0.0196,0.589,0.829,0,0.128,-4.861,0.0332,0.563,121.998,Dancin' In The Moonlight (feat. Lauren Alaina)
+Fucking Your Culture,$uicideboy$,2022,67,195994,11,1,4,0.0146,0.752,0.807,0.000376,0.8,-4.386,0.172,0.442,87.507,"Sing Me a Lullaby, My Sweet Temptation"
+Dear Reader,Taylor Swift,2022,71,225194,0,1,4,0.481,0.562,0.388,0.00145,0.117,-12.088,0.0705,0.159,107.747,Midnights (3am Edition)
+Ojos Cerrados,"Banda MS de Sergio Lizárraga, Carin Leon",2022,74,180750,7,1,4,0.336,0.513,0.345,0,0.0584,-7.579,0.0691,0.68,79.981,Ojos Cerrados
+Twin (feat. Lil Durk),"Roddy Ricch, Lil Durk",2022,68,148855,11,0,4,0.031,0.785,0.609,5.47e-05,0.096,-8.623,0.186,0.326,83.962,Twin (feat. Lil Durk)
+My Mind & Me,Selena Gomez,2022,75,147597,9,1,4,0.566,0.6,0.389,0,0.0826,-5.727,0.0337,0.244,143.577,My Mind & Me
+METAMORPHOSIS - Sped Up,INTERWORLD,2022,77,110936,11,0,4,0.472,0.679,0.69,0.904,0.181,-10.582,0.0732,0.136,112.478,METAMORPHOSIS (Sped Up)
+JACKIE BROWN,Brent Faiyaz,2022,68,169014,10,1,4,0.65,0.726,0.353,0.002,0.224,-10.273,0.105,0.503,137.66,WASTELAND
+Genesis,$uicideboy$,2022,67,162138,0,1,4,0.0109,0.55,0.762,0.00179,0.398,-7.861,0.32,0.347,200.211,"Sing Me a Lullaby, My Sweet Temptation"
+Solita (En Vivo),"Lenin Ramírez, Luis R Conriquez",2022,77,215984,1,0,1,0.498,0.677,0.657,0,0.0562,-4.657,0.0596,0.812,116.225,Solita (En Vivo)
+Breakfast,Dove Cameron,2022,72,148471,2,0,4,0.0579,0.64,0.553,0,0.0914,-6.42,0.0411,0.486,81.992,Breakfast
+Forget Me,Lewis Capaldi,2022,80,203472,1,0,4,0.296,0.669,0.742,0,0.355,-3.518,0.0441,0.716,101.982,Forget Me
+The Astronaut,JIN,2022,80,282463,5,1,4,0.00446,0.54,0.761,2.5e-06,0.137,-5.356,0.0311,0.215,124.988,The Astronaut
+Ando Enfocado,"Jaziel Avilez, Codiciado, Peso Pluma",2022,75,184107,7,0,3,0.137,0.67,0.661,0,0.0787,-7.165,0.1,0.36,174.902,Ando Enfocado
+Center Core Never More,"$uicideboy$, Germ",2022,67,164723,8,1,4,0.0105,0.655,0.782,0.00367,0.12,-6.825,0.392,0.372,167.003,DIRTIESTNASTIEST$UICIDE
+Hate My Heart,Carrie Underwood,2022,66,183573,7,1,4,0.00958,0.524,0.923,0,0.102,-3.53,0.085,0.318,149.972,Denim & Rhinestones
+"My Swisher Sweet, But My Sig Sauer","$uicideboy$, Germ",2022,67,226932,0,1,4,0.000275,0.683,0.969,0.126,0.94,-3.29,0.171,0.595,170.017,"My Swisher Sweet, But My Sig Sauer"
+Loco Enamorado,"Junior H, Edgardo Nuñez",2022,74,226000,11,0,1,0.0887,0.569,0.38,0,0.16,-7.231,0.092,0.481,77.556,Loco Enamorado
+Agosto,Bad Bunny,2022,76,139041,1,0,4,0.0929,0.849,0.584,6.18e-06,0.492,-8.195,0.115,0.724,115.018,Un Verano Sin Ti
+Dame un Beso y Dime Adios - En Vivo,"Carin Leon, Grupo Yndio",2022,76,239310,9,1,4,0.366,0.379,0.775,0.000135,0.0718,-3.403,0.0415,0.435,144.749,Cura Local (En Vivo)
+Do It Right,Don Toliver,2022,70,174474,5,1,4,0.458,0.662,0.515,0,0.163,-6.867,0.199,0.386,69.808,Do It Right
+Bestie,"DaBaby, YoungBoy Never Broke Again",2022,67,111971,0,1,4,0.0741,0.807,0.625,0,0.487,-6.67,0.351,0.871,146.031,BETTER THAN YOU
+Sacrifice,The Weeknd,2022,75,188918,11,0,4,0.0296,0.735,0.795,3.18e-05,0.0678,-6.523,0.113,0.905,122.0,Dawn FM
+Gilded Lily - Sped Up,Cults,2022,73,192727,1,0,4,0.484,0.382,0.586,7.7e-06,0.167,-6.402,0.031,0.119,68.156,Offering
+Enséñame a Bailar,Bad Bunny,2022,77,176000,8,1,4,0.191,0.81,0.789,1.08e-05,0.467,-5.08,0.0846,0.77,105.009,Un Verano Sin Ti
+Bikini Bottom,Ice Spice,2022,69,106667,8,1,3,0.21,0.749,0.629,1.62e-06,0.0849,-5.434,0.216,0.577,161.945,Bikini Bottom
+Bad Memories (feat. Elley Duhé & FAST BOY),"MEDUZA, James Carter, Elley Duhé, FAST BOY",2022,83,148629,5,0,3,0.118,0.607,0.767,0,0.122,-6.069,0.0474,0.662,123.998,Bad Memories (feat. Elley Duhé & FAST BOY)
+Sweet Little Lies,Rod Wave,2022,65,174750,10,1,4,0.014,0.656,0.679,0,0.101,-8.594,0.0598,0.27,159.978,Beautiful Mind
+Out In The Middle,"Zac Brown Band, Blake Shelton",2022,66,166301,1,1,4,0.0237,0.516,0.867,0,0.106,-3.139,0.0328,0.615,166.031,Out in the Middle
+FEARLESS,LE SSERAFIM,2022,78,168437,7,1,4,0.0508,0.863,0.62,0.00324,0.129,-7.167,0.135,0.432,103.971,FEARLESS
+On A Different Night,Josh Ross,2022,66,189278,1,1,4,0.0168,0.528,0.711,0,0.13,-5.494,0.0326,0.0873,157.99,On A Different Night
+Hotel,Montell Fish,2022,72,197333,0,0,4,0.752,0.228,0.427,0.0167,0.592,-8.739,0.0363,0.192,180.345,Hotel
+Growing Sideways,Noah Kahan,2022,66,255144,7,1,4,0.744,0.665,0.296,0,0.0922,-8.64,0.0276,0.539,89.142,Stick Season
+Sleazy Flow (with Lil Baby) - Remix,"SleazyWorld Go, Lil Baby",2022,67,161355,2,1,4,0.2,0.869,0.298,0,0.0753,-12.076,0.386,0.178,77.47,Sleazy Flow (Remix)
+Typa Girl,BLACKPINK,2022,75,179173,7,1,4,0.0745,0.915,0.621,0,0.628,-6.519,0.1,0.527,131.984,BORN PINK
+Right On,Lil Baby,2022,67,213976,2,1,4,0.0245,0.535,0.618,0,0.103,-5.668,0.382,0.211,165.991,Right On
+Ferrari,"James Hype, Miggy Dela Rosa",2022,82,186662,1,0,4,0.0127,0.847,0.69,6e-05,0.0526,-7.877,0.0493,0.692,125.004,Ferrari
+Valentine,Laufey,2022,70,168907,3,1,4,0.917,0.472,0.204,0,0.107,-13.065,0.0452,0.224,82.51,Everything I Know About Love
+JUST FRIENDS ?,Eem Triplin,2022,67,163892,1,1,4,0.351,0.642,0.282,0,0.264,-15.018,0.4,0.161,147.022,JUST FRIENDS ?
+Hell Yeah,"SoFaygo, Ken Carson",2022,68,168161,9,1,4,0.000113,0.696,0.708,0,0.444,-4.737,0.0438,0.287,142.026,Pink Heartz
+Distraction,Polo G,2022,68,171319,11,1,4,0.16,0.713,0.689,0,0.136,-5.99,0.255,0.63,156.934,Distraction
+B.O.T.A. (Baddest Of Them All) - Edit,"Eliza Rose, Interplanetary Criminal",2022,80,226627,0,1,4,0.164,0.736,0.906,0.585,0.106,-7.589,0.048,0.698,137.001,B.O.T.A. (Baddest Of Them All)
+Walkin,Denzel Curry,2022,68,280000,11,0,4,0.134,0.557,0.654,0,0.291,-7.201,0.196,0.386,135.983,Melt My Eyez See Your Future
+Orange Juice,Noah Kahan,2022,66,297103,9,1,4,0.49,0.647,0.384,6.55e-06,0.121,-10.825,0.0374,0.208,119.831,Stick Season
+Aguacero,Bad Bunny,2022,75,210989,6,0,5,0.423,0.861,0.645,0.000592,0.349,-6.96,0.0743,0.668,121.391,Un Verano Sin Ti
+VETE A LA FREGADA,Eslabon Armado,2022,68,166246,6,1,4,0.0755,0.353,0.701,0,0.191,-5.169,0.0341,0.464,89.739,NOSTALGIA
+Hayloft II,Mother Mother,2022,72,215040,9,0,4,0.0044,0.326,0.866,7.37e-06,0.0912,-4.541,0.101,0.172,178.181,Inside (Deluxe)
+Alone,Burna Boy,2022,77,221747,4,0,4,0.176,0.6,0.659,0,0.111,-7.264,0.0542,0.307,89.955,Black Panther: Wakanda Forever - Music From and Inspired By
+FOR FUN,Lil Uzi Vert,2022,66,188060,7,0,4,0.157,0.775,0.461,0,0.0687,-6.594,0.124,0.131,134.028,RED & WHITE
+AWKWARD FREESTYLE,Eem Triplin,2022,66,127765,5,0,4,0.152,0.646,0.465,0,0.194,-10.486,0.436,0.198,157.919,AWKWARD FREESTYLE
+Something in the Orange - Z&E's Version,Zach Bryan,2022,66,254258,7,1,4,0.416,0.594,0.382,0,0.117,-5.432,0.0292,0.223,110.237,American Heartbreak
+In My Head,Lil Tjay,2022,73,135264,1,1,4,0.159,0.684,0.545,0,0.102,-6.885,0.121,0.407,143.049,In My Head
+Notti Bop,"Kyle Richh, TaTa, Jenn Carter",2022,66,225875,2,1,4,0.44,0.782,0.624,0,0.119,-10.807,0.415,0.673,142.107,Notti Bop
+Burn,Juice WRLD,2022,68,217222,1,0,4,0.149,0.354,0.475,0.034,0.21,-9.333,0.0425,0.0393,114.975,Fighting Demons (Deluxe)
+Hero,"Martin Garrix, JVKE",2022,76,160714,9,0,4,0.316,0.534,0.696,0,0.248,-5.211,0.0694,0.251,168.149,Hero
+2 Be Loved (Am I Ready),Lizzo,2022,73,187108,7,1,4,0.0922,0.721,0.769,0,0.0817,-4.111,0.105,0.915,155.932,Special
+New Drank,LUCKI,2022,66,88894,11,0,4,0.00183,0.703,0.599,0,0.117,-10.215,0.143,0.695,131.051,New Drank
+uh oh,Tate McRae,2022,71,169722,10,0,4,0.257,0.625,0.604,2.06e-05,0.129,-7.415,0.339,0.372,174.089,uh oh
+Did you know that there's a tunnel under Ocean Blvd,Lana Del Rey,2022,74,285051,0,1,4,0.794,0.431,0.34,0.0108,0.12,-9.384,0.0311,0.0529,119.877,Did you know that there's a tunnel under Ocean Blvd
+MAMIII,"Becky G, KAROL G",2022,75,226093,4,0,4,0.0845,0.836,0.703,0,0.138,-3.554,0.0657,0.902,94.048,ESQUEMAS
+Cooped Up (with Roddy Ricch),"Post Malone, Roddy Ricch",2022,71,185857,0,1,4,0.038,0.669,0.773,0,0.113,-5.619,0.153,0.377,93.923,Twelve Carat Toothache
+After Hours,charlieonnafriday,2022,67,157667,6,1,4,0.115,0.798,0.458,0,0.145,-8.278,0.0504,0.198,133.972,ONNAFRIDAY
+MANIAC,Stray Kids,2022,74,182758,1,1,5,0.154,0.581,0.8,0,0.0697,-2.613,0.411,0.709,119.872,ODDINARY
+Feliz Cumpleaños Ferxxo,Feid,2022,82,156400,5,1,4,0.102,0.87,0.55,0,0.293,-5.537,0.0722,0.566,95.019,Feliz Cumpleaños Ferxxo
+Lost Me,Giveon,2022,72,180954,2,0,4,0.525,0.428,0.443,1.76e-05,0.219,-8.955,0.101,0.2,87.934,Give Or Take
+Bad Habit - Sped Up,Steve Lacy,2022,73,191336,9,1,4,0.808,0.709,0.679,4.61e-05,0.428,-4.828,0.0588,0.852,102.653,Bad Habit (Sped Up)
+BUCKHEAD,"$uicideboy$, Germ",2022,66,183919,11,1,4,0.00026,0.759,0.833,0.0573,0.178,-5.01,0.0779,0.522,140.026,DIRTIESTNASTIEST$UICIDE
+Perro Abandonado,Ivan Cornejo,2022,65,211199,11,0,3,0.492,0.561,0.635,1.27e-06,0.0945,-8.668,0.0345,0.4,147.094,Dañado
+You and I,d4vd,2022,69,151695,10,0,4,0.259,0.474,0.919,0.945,0.341,-5.702,0.0381,0.445,90.225,You and I
+SMOKE IT OFF!,"Lumi Athena, jnhygs",2022,72,120001,8,1,4,0.000119,0.378,0.824,0,0.359,-6.482,0.159,0.495,148.161,SMOKE IT OFF!
+STAYING ALIVE (feat. Drake & Lil Baby),"DJ Khaled, Drake, Lil Baby",2022,70,178176,4,0,4,0.068,0.718,0.461,0,0.283,-7.676,0.0797,0.181,129.953,STAYING ALIVE (feat. Drake & Lil Baby)
+KAPITOL DENIM,"LUCKI, Future",2022,67,116133,1,1,4,0.244,0.804,0.375,0,0.0954,-12.951,0.312,0.687,123.958,FLAWLESS LIKE ME
+Self Esteem (featuring NLE Choppa),"Lambo4oe, NLE Choppa",2022,70,216032,2,1,4,0.022,0.434,0.669,0,0.121,-7.463,0.0409,0.125,96.679,Self Esteem (featuring NLE Choppa)
+Soy El Unico,Yahritza Y Su Esencia,2022,69,214000,4,0,1,0.451,0.708,0.449,0,0.111,-4.369,0.0286,0.63,84.396,Obsessed (Deluxe)
+IDGAF (with blackbear),"BoyWithUke, blackbear",2022,71,140667,5,1,4,0.427,0.782,0.728,0,0.25,-5.93,0.0768,0.876,97.975,Serotonin Dreams
+Tocame,La Santa Grifa,2022,73,233064,11,0,4,0.198,0.647,0.367,0,0.109,-14.356,0.595,0.714,99.803,Fuera de Órbita
+Quittin' Time,Zach Bryan,2022,65,220885,0,0,4,0.215,0.557,0.725,9.21e-06,0.217,-5.79,0.0388,0.54,143.34,Summertime Blues
+Baby Girl,Disco Lines,2022,74,111074,2,1,4,0.0921,0.73,0.907,0.114,0.23,-3.72,0.0606,0.249,120.968,Baby Girl
+PLASTIC OFF THE SOFA,Beyoncé,2022,70,254319,1,1,4,0.14,0.618,0.712,4.53e-06,0.575,-8.246,0.114,0.305,97.057,RENAISSANCE
+Songs We Used To Sing,ERNEST,2022,65,185731,4,1,4,0.434,0.359,0.579,0,0.104,-5.752,0.0282,0.274,89.721,Songs We Used To Sing
+highway 95,Baby Keem,2022,68,91783,7,1,4,0.0548,0.77,0.836,0,0.143,-5.322,0.065,0.425,84.944,The Melodic Blue (Deluxe)
+Llorar y Llorar - con Carin Leon,"Mau y Ricky, Carin Leon",2022,75,169705,10,1,3,0.554,0.62,0.436,0,0.0891,-8.108,0.213,0.368,172.854,Llorar y Llorar (con Carin Leon)
+Please Don't Go,Wyatt Flores,2022,65,181499,6,0,4,0.379,0.683,0.554,0.00011,0.0845,-7.487,0.05,0.452,85.455,Please Don't Go
+Ya No Somos Ni Seremos,Christian Nodal,2022,78,185723,7,1,4,0.437,0.588,0.452,0,0.344,-4.75,0.0268,0.734,139.953,Ya No Somos Ni Seremos
+Modo Maldito,"Fuerza Regida, Grupo Marca Registrada",2022,72,134624,5,0,3,0.4,0.763,0.767,0,0.127,-4.181,0.201,0.725,87.502,Pa Que Hablen
+Very Few Friends,Saint Levant,2022,74,132500,6,0,4,0.162,0.777,0.469,0.00239,0.108,-8.344,0.163,0.557,136.05,Very Few Friends
+Give You What You Want,Lil Tjay,2022,71,159331,10,0,4,0.222,0.691,0.656,0.00111,0.153,-5.673,0.0679,0.393,89.467,Give You What You Want
+Con La Brisa,"Foudeqush, Ludwig Göransson",2022,74,167387,2,0,4,0.47,0.608,0.429,0.245,0.129,-10.336,0.0316,0.242,113.818,Black Panther: Wakanda Forever - Music From and Inspired By
+MIDNIGHT,"PLAYAMANE, Nateki",2022,77,121972,1,1,4,0.0053,0.633,0.433,0.28,0.145,-8.833,0.229,0.373,122.088,MIDNIGHT
+Get Away,Young Dolph,2022,66,180760,1,1,4,0.0431,0.839,0.642,6.76e-05,0.148,-5.581,0.0535,0.211,140.078,Get Away
+Calm Down,Rema,2022,80,219813,11,1,4,0.376,0.811,0.781,0.001,0.121,-6.333,0.0428,0.824,107.007,Calm Down
+I'M THAT GIRL,Beyoncé,2022,71,208014,5,0,4,0.0616,0.554,0.535,1.32e-05,0.124,-8.959,0.186,0.136,105.865,RENAISSANCE
+Violet,"Connor Price, Killa",2022,71,122880,8,0,4,0.0177,0.924,0.716,1.15e-06,0.128,-7.158,0.0541,0.48,119.973,Violet
+NEON BLADE,MoonDeity,2022,77,265263,7,1,4,0.0284,0.548,0.996,0.92,0.595,-2.169,0.112,0.893,94.999,NEON BLADE
+Systëm,Yeat,2022,68,166591,0,0,4,0.183,0.72,0.671,1.81e-06,0.124,-6.195,0.333,0.504,150.121,Lyfë
+Impurities,LE SSERAFIM,2022,73,196365,9,0,4,0.231,0.715,0.757,0,0.0656,-4.746,0.0373,0.464,90.065,ANTIFRAGILE
+cinderella's dead,EMELINE,2022,72,120666,6,0,4,0.33,0.596,0.607,0,0.103,-6.179,0.168,0.531,119.882,cinderella's dead
+Never Sleep (with Lil Baby feat. Travis Scott),"NAV, Lil Baby, Travis Scott",2022,68,185786,1,1,4,0.00639,0.819,0.651,0,0.122,-5.829,0.169,0.501,139.957,Never Sleep
+Cheshire,ITZY,2022,75,182453,7,1,4,0.332,0.79,0.838,7.07e-06,0.357,-3.183,0.0501,0.738,98.966,CHESHIRE
+Words (feat. Zara Larsson),"Alesso, Zara Larsson",2022,78,142677,10,0,4,0.0245,0.739,0.586,0.000252,0.308,-5.079,0.0472,0.444,124.026,Words (feat. Zara Larsson)
+Freestyle 2,Ken Carson,2022,66,138319,1,0,5,0.00402,0.636,0.705,0,0.105,-7.774,0.24,0.679,95.921,X
+Destroy Myself Just For You,Montell Fish,2022,69,146000,0,1,4,0.904,0.512,0.186,0.0281,0.11,-16.028,0.0373,0.191,59.677,JAMIE
+NO SECRET (feat. Drake),"DJ Khaled, Drake",2022,70,47354,1,0,3,0.195,0.398,0.626,2.55e-05,0.16,-4.164,0.0367,0.0404,106.733,GOD DID
+Qué Agonía,"Yuridia, Ángela Aguilar",2022,80,152923,11,1,4,0.56,0.732,0.573,9.34e-06,0.0543,-5.733,0.0237,0.882,97.502,Qué Agonía
+Boyfriends,Harry Styles,2022,71,194544,0,1,4,0.935,0.417,0.202,0,0.108,-10.976,0.0357,0.323,118.029,Harry's House
+Lock On Me (with Travis Scott & Future),"Metro Boomin, Travis Scott, Future",2022,70,174707,10,1,4,0.511,0.746,0.497,2.2e-05,0.0988,-8.313,0.227,0.169,93.971,HEROES & VILLAINS
+Callaita,"Bad Bunny, Tainy",2022,74,250534,2,1,4,0.597,0.608,0.626,2.16e-06,0.25,-4.773,0.301,0.246,176.086,Un Verano Sin Ti
+El Chamaquito,"Virlan Garcia, Angel Cervantes",2022,77,139863,0,1,4,0.744,0.905,0.421,3.77e-05,0.0763,-9.433,0.0387,0.955,103.992,El Chamaquito
+AVA,Natalie Jane,2022,73,159339,3,0,4,0.155,0.578,0.471,0,0.0779,-6.379,0.0417,0.233,86.982,AVA
+just wanna rock (Lil Uzi Vert) - Sped Up Version,"sped up nightcore, Lil Uzi Vert",2022,70,100383,1,1,4,0.0099,0.544,0.546,0.00027,0.392,-14.475,0.0923,0.151,161.76,just wanna rock (Lil Uzi Vert) [Sped Up Version]
+Feeling Like The End,Joji,2022,71,102480,2,1,4,0.299,0.794,0.668,0.00104,0.0899,-7.689,0.0646,0.632,148.016,SMITHEREENS
+Texas,BigXthaPlug,2022,64,146133,1,0,4,0.0128,0.764,0.629,0,0.231,-5.985,0.268,0.351,145.028,Texas
+Don't Play That,"King Von, 21 Savage",2022,66,133613,10,0,4,0.0748,0.947,0.605,7.54e-06,0.0901,-8.621,0.346,0.656,129.988,What It Means To Be King
+Pointless,Lewis Capaldi,2022,78,235752,4,1,3,0.0686,0.325,0.59,0,0.104,-3.943,0.0495,0.278,180.449,Pointless
+This Love (Taylor’s Version),Taylor Swift,2022,71,250100,4,1,4,0.302,0.47,0.494,0,0.0672,-8.672,0.0349,0.0524,144.039,This Love (Taylor’s Version)
+Sorry for the Delay,"$uicideboy$, Germ",2022,66,172400,2,1,4,0.00951,0.787,0.889,0.000322,0.652,-3.125,0.128,0.677,156.027,DIRTIESTNASTIEST$UICIDE
+double take,dhruv,2022,79,171743,8,1,4,0.845,0.656,0.436,0,0.221,-11.141,0.0744,0.196,109.239,rapunzel
+Locksmith,Sadie Jean,2022,71,164082,1,1,4,0.559,0.566,0.348,7.66e-06,0.113,-10.726,0.0458,0.374,98.734,Locksmith
+Churchill Downs (feat. Drake),"Jack Harlow, Drake",2022,70,309327,11,1,4,0.615,0.71,0.522,0,0.11,-9.102,0.36,0.37,96.448,Come Home The Kids Miss You
+Bam Bam (feat. Ed Sheeran),"Camila Cabello, Ed Sheeran",2022,78,206071,8,1,4,0.182,0.756,0.697,0,0.333,-6.377,0.0401,0.956,94.996,Bam Bam (feat. Ed Sheeran)
+BIBI Vengeance,BIBI,2022,77,165135,11,0,4,0.0272,0.442,0.748,0.000128,0.0642,-4.718,0.0895,0.408,99.981,Lowlife Princess: Noir
+When You're Gone,Shawn Mendes,2022,76,172267,5,1,4,0.0248,0.603,0.691,0,0.583,-5.805,0.0372,0.577,147.148,When You're Gone
+Underrated,Zoe Osama,2022,64,155467,1,1,4,0.148,0.956,0.617,0,0.141,-7.526,0.267,0.739,101.991,Underrated
+SPLAT,Connor Price,2022,69,125685,7,1,4,0.0608,0.908,0.45,0,0.0663,-7.174,0.314,0.515,108.056,SPLAT
+Mine Again,Zach Bryan,2022,65,224188,7,1,4,0.0441,0.494,0.653,1.42e-05,0.0898,-6.493,0.0632,0.336,153.97,American Heartbreak
+Toxic,BoyWithUke,2022,73,168067,11,1,4,0.749,0.609,0.619,0,0.264,-5.677,0.311,0.689,179.71,Serotonin Dreams
+Hell Yeah,"SoFaygo, Ken Carson",2022,66,168161,9,1,4,0.000113,0.696,0.708,0,0.444,-4.737,0.0438,0.287,142.026,Hell Yeah
+Malas Rachas,"Tony Aguirre, Luis R Conriquez, Los Dareyes De La Sierra",2022,74,260285,3,1,4,0.246,0.7,0.799,0,0.124,-4.185,0.0392,0.79,119.295,Malas Rachas
+Shut Down,BLACKPINK,2022,74,175889,0,1,3,0.00327,0.818,0.69,0,0.186,-5.119,0.0454,0.688,110.071,BORN PINK
+Warrior of the Mind,"Jorge Rivera-Herrans, Teagan Earley",2022,70,208000,1,0,4,0.568,0.685,0.742,0,0.102,-5.872,0.162,0.392,120.05,EPIC: The Troy Saga (Original Concept Album)
+MISA MISA!,"CORPSE, Scarlxrd, Kordhell",2022,70,85895,1,1,4,0.0302,0.672,0.981,2.36e-05,0.648,-1.252,0.181,0.694,95.014,MISA MISA!
+I'M ON ONE (feat. Drake),"Future, Drake",2022,67,236187,11,1,4,0.0103,0.773,0.707,1.04e-05,0.296,-5.71,0.0568,0.113,76.977,I NEVER LIKED YOU
+BABYDOLL (Speed),Ari Abdul,2022,76,156651,11,1,4,0.0813,0.552,0.582,0.205,0.177,-5.535,0.0404,0.538,105.483,BABYDOLL (Speed)
+X ÚLTIMA VEZ,"Daddy Yankee, Bad Bunny",2022,76,192477,7,1,4,0.0789,0.812,0.855,0.000167,0.108,-3.725,0.0554,0.573,90.04,LEGENDADDY
+HALAZIA,ATEEZ,2022,73,197026,6,0,4,0.000677,0.482,0.884,0.000575,0.0883,-4.538,0.0668,0.377,171.915,SPIN OFF : FROM THE WITNESS
+Heyy,Lil Baby,2022,65,192727,7,1,5,0.00299,0.494,0.667,0,0.0815,-4.632,0.263,0.179,88.028,It's Only Me
+Love For The Streets,Young Dolph,2022,66,185280,2,1,4,0.172,0.799,0.733,1.7e-05,0.332,-6.234,0.216,0.753,146.051,Paper Route Frank
+Sweetest Pie,"Megan Thee Stallion, Dua Lipa",2022,72,201334,7,1,4,0.167,0.814,0.628,0,0.101,-7.178,0.221,0.677,123.977,Sweetest Pie
+She Calls Me Back,Noah Kahan,2022,65,243816,11,1,4,0.0853,0.752,0.679,0,0.28,-6.453,0.0391,0.704,127.945,Stick Season
+SHADOW,"ONIMXRU, SMITHMANE",2022,76,162042,7,1,4,0.000166,0.721,0.692,0.275,0.104,-2.927,0.0414,0.531,120.005,SHADOW
+THE DEATH OF PEACE OF MIND,Bad Omens,2022,68,241499,0,0,4,0.0869,0.469,0.713,0.000188,0.129,-5.619,0.0461,0.267,154.994,THE DEATH OF PEACE OF MIND
+Pistol,Cigarettes After Sex,2022,66,234174,7,1,4,0.522,0.653,0.442,0.699,0.107,-11.727,0.0337,0.363,109.971,Pistol
+Savior,"Kendrick Lamar, Baby Keem, Sam Dew",2022,68,224466,8,1,5,0.495,0.605,0.692,0,0.303,-7.45,0.446,0.685,124.84,Mr. Morale & The Big Steppers
+No Horse To Ride,Luke Grimes,2022,65,133874,2,1,4,0.143,0.674,0.334,0.000698,0.11,-7.726,0.0277,0.352,120.972,No Horse To Ride
+Fuera De Servicio,El Fantasma,2022,71,154869,8,1,4,0.675,0.778,0.445,2.05e-06,0.283,-5.178,0.0416,0.969,116.973,Fuera De Servicio
+Escapism.,"RAYE, 070 Shake",2022,78,272373,2,1,4,0.138,0.538,0.742,4.67e-05,0.0934,-5.355,0.114,0.25,96.107,Escapism. (Sped Up)
+DICE,NMIXX,2022,75,165747,7,1,4,0.0848,0.556,0.798,0,0.33,-3.331,0.254,0.628,131.096,ENTWURF
+COZY,Beyoncé,2022,70,210372,7,1,5,0.000828,0.556,0.63,0.00468,0.155,-8.15,0.102,0.367,149.147,RENAISSANCE
+Somethin' Bout You,Mickey Guyton,2022,65,156906,4,1,4,0.0979,0.667,0.826,0,0.151,-3.412,0.0266,0.665,112.041,Somethin' Bout You
+Blessing,Lil Tecca,2022,67,144594,1,0,4,0.338,0.703,0.636,0,0.0981,-8.652,0.177,0.496,132.986,Blessing
+ZOMBIFIED,Falling In Reverse,2022,68,218521,10,0,4,0.000141,0.544,0.911,8.89e-06,0.333,-3.681,0.0422,0.558,91.033,ZOMBIFIED
+Why Not,Ghostface Playa,2022,76,165000,9,1,4,0.000718,0.725,0.984,0.895,0.372,-1.638,0.0351,0.931,119.983,Why Not
+Belly Dancer,"Imanbek, BYOR",2022,81,151475,1,1,4,0.0582,0.845,0.797,5.57e-06,0.167,-4.984,0.139,0.422,121.985,Belly Dancer
+dec 11th,Giveon,2022,69,73209,5,1,4,0.624,0.571,0.37,0,0.662,-11.797,0.116,0.918,59.886,Give Or Take
+love.,Kid Cudi,2022,65,328573,5,1,4,0.146,0.574,0.736,1.66e-05,0.407,-4.743,0.0465,0.344,138.501,The Boy Who Flew To The Moon (Vol. 1)
+Bel Mercy,Jengi,2022,65,169606,1,1,4,0.231,0.945,0.759,0.651,0.0989,-5.971,0.0865,0.688,127.024,Bel Mercy
+Love Overdose,Rod Wave,2022,64,142286,1,1,1,0.0191,0.658,0.572,0,0.0892,-9.966,0.039,0.293,139.933,Jupiter's Diary: 7 Day Theory
+Blow,Moneybagg Yo,2022,66,182533,11,0,4,0.0579,0.815,0.742,0,0.345,-4.896,0.245,0.584,137.036,Blow
+In A Minute,Lil Baby,2022,67,200471,4,0,5,0.0279,0.626,0.583,0,0.112,-6.102,0.334,0.133,113.42,It's Only Me
+because i liked a boy,Sabrina Carpenter,2022,70,196458,11,1,4,0.363,0.386,0.592,0,0.117,-7.299,0.374,0.161,146.879,emails i can't send
+STAYING ALIVE (feat. Drake & Lil Baby),"DJ Khaled, Drake, Lil Baby",2022,69,178176,4,0,4,0.0668,0.677,0.495,0,0.319,-7.174,0.0821,0.152,129.974,GOD DID
+Last Last,Burna Boy,2022,75,172342,3,0,4,0.131,0.795,0.565,0,0.0802,-4.457,0.0948,0.55,87.925,"Love, Damini"
+Helmet,Steve Lacy,2022,66,201547,9,0,4,0.0994,0.612,0.675,0,0.217,-6.518,0.0231,0.763,97.04,Gemini Rights
+Herinneringen,Sohn Aelia,2022,71,172357,0,1,1,0.99,0.0685,0.00342,0.91,0.106,-37.156,0.0418,0.0581,73.644,Herinneringen
+Late July,Zach Bryan,2022,64,178020,2,1,4,0.736,0.532,0.354,0,0.11,-8.938,0.0504,0.419,151.266,American Heartbreak
+what made you think?,Avery Anna,2022,64,221107,5,1,3,0.23,0.564,0.469,0,0.107,-5.648,0.0297,0.186,124.041,what made you think?
+girlfriend,hemlocke springs,2022,67,133151,11,0,4,0.218,0.763,0.759,4.24e-05,0.0724,-3.925,0.0906,0.964,146.006,girlfriend
+Home Ain't Home (feat. Rod Wave),"YoungBoy Never Broke Again, Rod Wave",2022,64,141166,0,1,4,0.424,0.773,0.602,0,0.125,-6.777,0.173,0.553,82.055,The Last Slimeto
+Never Gonna Not Dance Again,P!nk,2022,77,225789,5,0,4,0.0273,0.668,0.802,0,0.163,-4.005,0.0917,0.769,113.796,Never Gonna Not Dance Again
+Crystals,Isolate.exe,2022,77,139200,11,1,4,0.438,0.692,0.729,0.656,0.0939,-10.435,0.0554,0.13,100.015,Crystals
+Wreckage,Nate Smith,2022,66,212747,10,1,4,0.0452,0.563,0.575,0,0.101,-5.072,0.0266,0.162,145.103,Wreckage
+"Everywhere, Everything",Noah Kahan,2022,64,257668,11,1,3,0.378,0.456,0.383,0,0.138,-9.184,0.0344,0.301,179.772,Stick Season
+Love You Again,Chase Matthew,2022,64,173636,10,0,4,0.214,0.564,0.823,0,0.432,-5.319,0.0297,0.472,132.113,Love You Again
+KU LO SA - A COLORS SHOW,Oxlade,2022,78,147581,10,0,4,0.307,0.649,0.655,0,0.22,-5.534,0.0652,0.793,92.9,KU LO SA - A COLORS SHOW
+No Me Quise Ir,Ivan Cornejo,2022,65,210347,6,1,4,0.0101,0.342,0.463,0.000712,0.12,-11.716,0.0354,0.187,85.05,Dañado
+Dear Alcohol,Dax,2022,66,236308,1,1,4,0.258,0.817,0.501,0,0.102,-9.623,0.0481,0.408,129.979,Dear Alcohol
+Me On You,Muscadine Bloodline,2022,65,167267,11,0,4,0.221,0.72,0.798,0,0.181,-5.42,0.0359,0.949,97.918,Me On You
+SI SUPIERAS,"Eslabon Armado, DannyLux",2022,68,227815,0,1,3,0.208,0.642,0.768,0,0.225,-3.674,0.0248,0.546,97.485,NOSTALGIA
+ADDICTIONS (FEAT. Tre' Amani),"Brent Faiyaz, Tre' Amani",2022,67,192011,10,0,4,0.0209,0.889,0.489,1.78e-05,0.0814,-8.587,0.108,0.843,93.039,WASTELAND
+PSYCHO,"Anne-Marie, Aitch",2022,75,162493,9,1,4,0.0138,0.62,0.681,0,0.0248,-4.915,0.356,0.741,160.743,PSYCHO
+El Belicon,"Peso Pluma, Raul Vega",2022,74,214398,8,1,3,0.434,0.409,0.713,0.000719,0.206,-6.713,0.03,0.725,97.029,El Belicón
+We'll Never Have Sex,Leith Ross,2022,67,99621,2,1,3,0.959,0.365,0.07,0.000977,0.111,-17.095,0.0838,0.443,174.053,We'll Never Have Sex
+Talk 2 Me,Montell Fish,2022,68,139806,11,1,4,0.816,0.464,0.126,3.67e-06,0.559,-16.383,0.0647,0.181,103.176,JAMIE
+an Interlude Called “Circus” (feat. Eryn Allen Kane),"Saba, Eryn Allen Kane",2022,68,62973,2,1,4,0.0742,0.839,0.363,0,0.171,-13.572,0.0647,0.285,106.737,Few Good Things
+"My Swisher Sweet, But My Sig Sauer","$uicideboy$, Germ",2022,65,226932,0,1,4,0.000275,0.683,0.969,0.126,0.94,-3.29,0.171,0.595,170.017,DIRTIESTNASTIEST$UICIDE
+Rackz got më (feat. Gunna),"Yeat, Gunna",2022,67,181440,5,0,4,0.00439,0.788,0.603,0.000232,0.144,-6.959,0.1,0.216,142.943,2 Alivë
+In A Minute,Lil Baby,2022,68,200471,4,0,4,0.0336,0.643,0.605,0,0.112,-5.968,0.297,0.145,84.216,In A Minute
+Over,Lucky Daye,2022,69,207413,6,0,4,0.502,0.65,0.555,0,0.104,-5.971,0.0719,0.352,103.081,Candydrip
+Yet To Come,BTS,2022,78,193594,1,1,4,0.0432,0.559,0.885,0,0.333,-4.515,0.189,0.683,172.029,Proof
+Skyline,Khalid,2022,70,182895,11,1,5,0.0179,0.733,0.653,0.0218,0.184,-6.094,0.0391,0.752,119.996,Skyline
+CHURCH GIRL,Beyoncé,2022,69,224473,2,1,4,0.0381,0.792,0.919,5.1e-06,0.368,-5.688,0.276,0.22,92.028,RENAISSANCE
+Me Hiciste un Loco,Ivan Cornejo,2022,64,206919,1,1,3,0.624,0.443,0.46,0.000229,0.103,-10.971,0.0636,0.256,158.366,Dañado
+HEATED,Beyoncé,2022,70,260771,1,1,4,0.0636,0.785,0.732,0.000807,0.265,-5.724,0.164,0.496,110.952,RENAISSANCE
+Like A Villain,Bad Omens,2022,68,210685,7,1,4,0.000696,0.456,0.915,9.95e-05,0.428,-4.508,0.206,0.403,154.946,THE DEATH OF PEACE OF MIND
+Pink Venom,BLACKPINK,2022,73,186964,4,1,4,0.0145,0.693,0.734,0,0.217,-6.189,0.202,0.708,180.06,BORN PINK
+Memory to Drown,Bryan Martin,2022,65,215048,6,1,4,0.0957,0.662,0.781,8e-05,0.123,-3.294,0.0245,0.641,126.028,Self Inflicted Scars
+So Good,Halsey,2022,69,176059,3,0,4,0.0385,0.576,0.627,0,0.181,-4.649,0.0449,0.311,164.998,So Good
+Wish on an Eyelash,Mallrat,2022,68,58930,2,1,3,0.885,0.418,0.288,0.0316,0.115,-10.597,0.0351,0.352,89.861,Butterfly Blue
+Break My Heart,Rod Wave,2022,64,169412,1,1,4,0.00792,0.722,0.483,0,0.0977,-8.458,0.0455,0.355,85.007,Jupiter's Diary: 7 Day Theory
+THE SHADE,Rex Orange County,2022,79,181507,5,1,4,0.391,0.898,0.509,0,0.0876,-7.973,0.062,0.727,119.869,WHO CARES?
+POP!,NAYEON,2022,75,168107,2,1,4,0.0361,0.795,0.859,0,0.0321,-2.994,0.0542,0.356,96.986,IM NAYEON
+Wrath,Freddie Dredd,2022,68,113547,2,1,4,0.0931,0.789,0.541,0.0281,0.137,-6.449,0.0733,0.732,149.229,Freddie's Inferno
+YUKON (INTERLUDE),Joji,2022,69,141093,6,0,4,0.383,0.736,0.71,0.0351,0.395,-8.497,0.091,0.0728,82.482,SMITHEREENS
+The Serpent and the Rainbow,"$uicideboy$, Germ",2022,65,177290,0,1,4,0.00147,0.78,0.78,0,0.472,-2.857,0.0858,0.446,118.014,DIRTIESTNASTIEST$UICIDE
+Celestial,Ed Sheeran,2022,80,209027,2,1,4,0.0529,0.574,0.852,0,0.161,-1.248,0.0397,0.501,123.038,Celestial
+BREAK MY SOUL,Beyoncé,2022,73,278282,1,0,4,0.0575,0.687,0.887,2.21e-06,0.27,-5.04,0.0826,0.853,114.941,BREAK MY SOUL
+Where I Go (feat. H.E.R.),"NxWorries, Anderson .Paak, H.E.R., Knxwledge",2022,66,201027,1,0,4,0.735,0.62,0.396,0.000985,0.0976,-15.498,0.206,0.774,87.865,Where I Go (feat. H.E.R.)
+Normal,Feid,2022,80,171880,4,0,4,0.034,0.709,0.56,0,0.315,-4.867,0.171,0.541,170.082,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM
+I Guess It’s Fuck Me,Drake,2022,67,263988,7,1,4,0.499,0.385,0.34,1.2e-05,0.196,-11.754,0.051,0.0398,83.947,Her Loss
+One Right Now (with The Weeknd),"Post Malone, The Weeknd",2022,71,192721,1,1,4,0.0363,0.682,0.764,0,0.103,-5.411,0.0477,0.701,97.023,Twelve Carat Toothache
+Fall In Love Alone,Stacey Ryan,2022,80,205428,7,0,4,0.316,0.676,0.625,0.000119,0.127,-5.455,0.0711,0.522,171.883,Fall In Love Alone
+Conceited,Flo Milli,2022,65,146441,8,1,4,0.0634,0.978,0.683,5.88e-05,0.523,-5.743,0.0981,0.419,118.041,Conceited
+Sour Grapes,LE SSERAFIM,2022,73,196540,6,0,4,0.395,0.779,0.801,0,0.108,-5.564,0.0457,0.72,139.998,FEARLESS
+VIRGO'S GROOVE,Beyoncé,2022,69,368758,11,0,4,0.0781,0.683,0.85,1.09e-06,0.741,-5.042,0.0699,0.598,107.988,RENAISSANCE
+Mbappe,Eladio Carrion,2022,76,147692,7,1,4,0.548,0.712,0.684,0,0.168,-4.887,0.0512,0.513,130.038,SEN2 KBRN VOL. 2
+House On Fire,Bailey Zimmerman,2022,64,220800,0,1,4,0.57,0.584,0.5,0,0.079,-8.167,0.0315,0.426,124.996,Leave The Light On
+Last Night Lonely,Jon Pardi,2022,64,182161,6,1,4,0.00544,0.652,0.813,0,0.101,-2.842,0.0268,0.851,102.987,Mr. Saturday Night
+"LOCK IT UP (feat. Yeat, midwxst & Matt Ox)","Whethan, midwxst, Yeat, Matt Ox",2022,66,183411,1,1,4,0.0114,0.741,0.787,0,0.261,-3.653,0.0373,0.296,122.978,MIDNIGHT
+No L's,Smino,2022,65,175019,1,1,4,0.156,0.786,0.65,0,0.127,-6.472,0.31,0.492,130.993,Luv 4 Rent
+New Perspective,Noah Kahan,2022,64,256871,5,1,4,0.264,0.685,0.522,1.31e-06,0.0837,-9.635,0.0415,0.509,156.529,Stick Season
+Me Fui de Vacaciones,Bad Bunny,2022,76,180930,10,1,4,0.229,0.714,0.645,0.00083,0.0942,-5.493,0.0514,0.434,85.046,Un Verano Sin Ti
+Sentosa,"Peso Pluma, Tornillo, Polo Gonzalez, Garena Free Fire",2022,73,151595,9,0,4,0.031,0.824,0.636,1.19e-06,0.0979,-6.677,0.294,0.672,174.072,Sentosa
+2AM,SZA,2022,66,242823,9,0,4,0.438,0.504,0.267,0,0.141,-13.678,0.406,0.392,83.966,Ctrl (Deluxe)
+THIQUE,Beyoncé,2022,68,244792,5,0,4,0.0616,0.823,0.536,0.0143,0.326,-10.123,0.319,0.537,128.955,RENAISSANCE
+cómo dormiste?,Rels B,2022,82,112572,1,1,5,0.238,0.627,0.429,0,0.122,-8.255,0.234,0.565,126.426,cómo dormiste?
+Show Me,Joey Bada$$,2022,67,220387,6,1,4,0.222,0.599,0.646,4.36e-06,0.128,-6.326,0.337,0.638,176.153,2000
+Torpedo,Rae Sremmurd,2022,66,240968,11,0,4,0.000502,0.84,0.63,0.00136,0.128,-5.671,0.0579,0.14,123.994,Torpedo
+Bustdown Rollie Avalanche,"Kai Cenat, NLE Choppa",2022,67,165744,1,1,4,0.00207,0.793,0.764,0,0.14,-4.536,0.253,0.219,139.155,Bustdown Rollie Avalanche
+The Greatest Day of My Life,Zach Bryan,2022,64,238624,3,1,4,0.839,0.535,0.314,7.33e-05,0.104,-10.563,0.0491,0.301,150.065,The Greatest Day of My Life
+Dutton Ranch Freestyle,David Morris,2022,64,143787,11,0,4,0.00395,0.834,0.651,5.18e-06,0.139,-5.844,0.0618,0.8,121.984,Dutton Ranch Freestyle
+Understand,BoyWithUke,2022,71,171947,6,0,4,0.81,0.828,0.658,1.06e-06,0.277,-6.19,0.14,0.917,103.051,Serotonin Dreams
+1AM FREESTYLE,Joji,2022,69,113067,0,0,4,0.748,0.615,0.541,0.00268,0.12,-6.307,0.0263,0.124,126.049,SMITHEREENS
+Pink Venom,BLACKPINK,2022,72,186964,0,1,4,0.0202,0.798,0.697,0,0.259,-7.139,0.0891,0.745,90.031,Pink Venom
+Ice Cream Truck,SugarHill Keem,2022,66,106728,6,0,4,0.105,0.752,0.647,1.57e-06,0.0943,-9.41,0.341,0.802,144.005,KING OF DRILL
+Cabron Yo Puedo,Grupo Origen,2022,72,195895,2,0,3,0.594,0.636,0.48,0,0.0752,-5.919,0.101,0.884,178.924,Cabron Yo Puedo
+By Your Side,Rod Wave,2022,64,194051,8,1,4,0.0345,0.649,0.508,3.59e-05,0.0736,-10.232,0.0959,0.405,157.975,Beautiful Mind
+Belico El Asunto (En Vivo),"Codiciado, Grupo Arriesgado",2022,71,208680,5,1,3,0.805,0.761,0.477,0,0.163,-4.32,0.0514,0.967,112.276,Belico El Asunto (En Vivo)
+Left and Right (Feat. Jung Kook of BTS),"Charlie Puth, Jung Kook, BTS",2022,78,154487,2,1,4,0.619,0.881,0.592,1.32e-05,0.0901,-4.898,0.0324,0.719,101.058,CHARLIE
+Astronomy,Conan Gray,2022,70,243907,4,0,3,0.578,0.474,0.343,2.65e-05,0.305,-8.571,0.027,0.152,145.115,Superache
+El Fugitivo - En Vivo,Grupo Arriesgado,2022,71,178000,1,1,3,0.359,0.633,0.812,1.76e-06,0.228,-5.874,0.14,0.954,167.105,El Fugitivo (En Vivo)
+"Going, Going, Gone - Acoustic",Luke Combs,2022,65,166101,6,1,4,0.901,0.408,0.306,0,0.114,-8.334,0.0413,0.323,168.066,"Going, Going, Gone (Acoustic)"
+Miss You - Sped Up Version,"Oliver Tree, sped up nightcore",2022,75,171702,0,1,4,0.0141,0.527,0.66,0.0185,0.156,-10.692,0.0877,0.283,173.979,Miss You (Sped Up Version)
+Can't Wait,SugarHill Keem,2022,65,102868,1,1,4,0.147,0.835,0.709,0,0.113,-10.193,0.377,0.698,140.102,KING OF DRILL
+doomsday,Lizzy McAlpine,2022,66,268433,1,1,3,0.583,0.404,0.268,0,0.102,-9.631,0.0341,0.124,134.587,five seconds flat
+Oh Caroline,The 1975,2022,71,212568,2,1,4,0.363,0.646,0.85,4.01e-05,0.0994,-5.466,0.0428,0.819,96.538,Being Funny In A Foreign Language
+Before You,Benson Boone,2022,72,187941,8,0,3,0.15,0.269,0.373,0,0.129,-7.113,0.0371,0.321,202.899,Before You
+Nail Tech,Jack Harlow,2022,68,206385,1,1,4,0.00508,0.677,0.557,8.36e-06,0.0984,-8.409,0.0694,0.1,150.127,Nail Tech
+712PM,Future,2022,66,173187,5,0,4,0.0355,0.711,0.686,0,0.124,-6.409,0.271,0.536,146.971,I NEVER LIKED YOU
+Fine,Kyle Hume,2022,66,150006,1,1,4,0.411,0.623,0.568,0,0.214,-4.537,0.0495,0.681,78.133,Fine
+Backstage Passes (feat. Jack Harlow),"EST Gee, Jack Harlow",2022,65,158431,1,1,4,0.145,0.855,0.478,0,0.101,-8.31,0.345,0.536,153.074,I Never Felt Nun
+Freaky Deaky,"Tyga, Doja Cat",2022,69,215281,2,0,4,0.019,0.799,0.653,0,0.0935,-5.453,0.037,0.236,104.019,Freaky Deaky
+Start Nowhere,Sam Hunt,2022,64,193400,7,1,4,0.192,0.421,0.644,0,0.15,-3.904,0.0273,0.372,82.962,Start Nowhere
+TOMBOY,(G)I-DLE,2022,75,174387,1,0,4,0.00988,0.755,0.87,0,0.0917,-2.414,0.0936,0.645,124.032,I NEVER DIE
+Heyy,Lil Baby,2022,64,192727,7,1,5,0.00256,0.493,0.666,0,0.0797,-4.525,0.268,0.164,87.932,Heyy
+C'est La Vie (with bbno$ & Rich Brian),"Yung Gravy, bbno$, Rich Brian",2022,67,160162,9,1,4,0.0566,0.888,0.778,0,0.0653,-3.671,0.0945,0.774,142.128,C'est La Vie
+Up There Down Here,Jake Owen,2022,64,200400,4,1,4,0.234,0.517,0.901,0,0.317,-3.51,0.039,0.567,150.033,Up There Down Here
+Happiest Year,Jaymes Young,2022,72,228443,1,1,3,0.885,0.502,0.168,0,0.111,-14.061,0.0486,0.355,112.881,Feel Something (Deluxe)
+Everything She Ain’t,Hailey Whitters,2022,64,151973,2,1,4,0.175,0.796,0.621,0,0.274,-6.129,0.0346,0.808,121.904,Raised
+Detox,Lil Baby,2022,67,161637,1,1,4,0.027,0.845,0.503,0,0.116,-7.021,0.334,0.416,147.031,Detox
+$uicideboy$ Were Better In 2015,$uicideboy$,2022,64,143347,5,0,4,0.0301,0.883,0.822,1.7e-06,0.111,-4.029,0.108,0.327,110.024,"Sing Me a Lullaby, My Sweet Temptation"
+Gasoline,"Nic D, Connor Price",2022,67,103236,11,1,4,0.194,0.668,0.541,0,0.201,-7.794,0.296,0.894,200.163,Gasoline
+The View Between Villages,Noah Kahan,2022,64,215342,1,1,4,0.84,0.313,0.172,7.67e-05,0.0718,-13.905,0.0443,0.0489,153.069,Stick Season
+Us Then,Zach Bryan,2022,63,166342,0,1,4,0.0664,0.587,0.683,1.01e-05,0.211,-4.622,0.0371,0.763,127.749,Summertime Blues
+Walk,Kodak Black,2022,64,166039,8,1,4,0.037,0.817,0.512,0,0.216,-6.943,0.0984,0.17,130.04,Walk/Spin
+Summertime Blues,Zach Bryan,2022,63,181239,1,1,4,0.794,0.552,0.411,3.5e-06,0.248,-7.946,0.0434,0.501,78.095,Summertime Blues
+Give You the World,Steve Lacy,2022,65,273787,0,0,4,0.83,0.574,0.369,0.234,0.0976,-9.251,0.0262,0.41,73.013,Gemini Rights
+Te Felicito,Gerardo Coronel,2022,75,224524,0,1,4,0.672,0.478,0.384,0,0.13,-5.03,0.0433,0.548,77.022,Te Felicito
+Hot In It,"Tiësto, Charli XCX",2022,76,129817,7,1,4,0.00445,0.748,0.841,1.33e-06,0.0413,-5.08,0.177,0.717,123.045,Hot In It
+#miles,skaiwater,2022,67,115138,8,0,4,0.489,0.39,0.305,0.0687,0.155,-13.392,0.0555,0.166,157.155,#miles
+Last Time (feat. G Herbo),"A Boogie Wit da Hoodie, G Herbo",2022,65,179210,5,0,4,0.423,0.738,0.582,0,0.117,-7.196,0.167,0.696,97.025,Me vs. Myself
+Wrapped Around Your Finger,Post Malone,2022,68,193565,2,1,4,0.0493,0.744,0.628,0,0.317,-5.435,0.0287,0.539,119.966,Twelve Carat Toothache
+Hold My Hand,Lady Gaga,2022,74,225300,7,1,3,0.0387,0.519,0.617,0,0.401,-4.287,0.0313,0.222,147.708,"Hold My Hand (Music From The Motion Picture ""Top Gun: Maverick"")"
+Note to Self,Randy Houser,2022,64,195217,1,1,4,0.11,0.613,0.626,0.000914,0.112,-6.486,0.0332,0.188,84.984,Note To Self
+vice city,XXXTENTACION,2022,68,220709,9,0,4,0.00596,0.853,0.467,0.00171,0.203,-6.843,0.195,0.329,87.023,vice city
+Marisola - Remix,"Cris Mj, Duki, Nicki Nicole, Standly, Stars Music Chile",2022,85,237474,1,1,4,0.173,0.765,0.872,5.65e-06,0.0749,-5.863,0.0498,0.722,94.999,Marisola (Remix)
+AVOID ME,KUTE,2022,74,105789,6,0,4,0.123,0.656,0.964,0.813,0.78,-2.087,0.0964,0.965,114.007,AVOID ME
+maybe (feat. Bring Me The Horizon),"Machine Gun Kelly, Bring Me The Horizon",2022,70,170134,5,0,4,0.000735,0.601,0.92,0,0.0998,-4.802,0.0505,0.537,88.014,mainstream sellout
+Habits,Genevieve Stokes,2022,71,136733,9,1,4,0.854,0.663,0.287,6.85e-06,0.346,-9.469,0.0344,0.438,82.457,Habits
+I hope that you think of me,"Pity Party (Girls Club), Lucys",2022,67,128000,3,1,4,0.0625,0.845,0.455,6.41e-05,0.108,-9.857,0.045,0.65,105.0,Hard Times / Bad Trips
+LOOSE CHANGE,Brent Faiyaz,2022,65,226011,1,0,4,0.753,0.574,0.369,0,0.147,-8.931,0.0814,0.44,84.975,WASTELAND
+Jump Around - 30 Years Remaster,House Of Pain,2022,70,218547,4,0,4,0.0553,0.811,0.823,4.52e-06,0.158,-5.921,0.0423,0.827,106.929,House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]
+In Constant Sorrow,$uicideboy$,2022,64,158517,6,1,4,0.113,0.707,0.672,1.03e-05,0.103,-6.186,0.0864,0.326,129.951,"Sing Me a Lullaby, My Sweet Temptation"
+Bad Decisions (with BTS & Snoop Dogg),"benny blanco, BTS, Snoop Dogg",2022,76,172714,0,1,4,0.0185,0.762,0.861,0,0.264,-3.296,0.0955,0.955,120.048,Bad Decisions (with BTS & Snoop Dogg)
+I Can't - Sped Up,Montana99,2022,67,121270,9,1,4,0.0525,0.574,0.597,0,0.112,-7.999,0.324,0.629,192.289,I Can't - Sped Up
+Tishomingo,Zach Bryan,2022,63,188883,6,1,4,0.309,0.56,0.576,2.08e-05,0.0988,-6.92,0.03,0.478,133.491,American Heartbreak
+Good Boy Gone Bad,TOMORROW X TOGETHER,2022,73,191038,1,1,4,0.0159,0.475,0.695,0,0.125,-5.919,0.102,0.552,100.009,minisode 2: Thursday's Child
+Dead Opps,"DD Osama, Notti Osama",2022,64,130090,7,1,4,0.501,0.649,0.893,0,0.333,-7.616,0.782,0.388,145.865,Dead Opps
+WFM,RealestK,2022,70,136000,1,1,4,0.72,0.437,0.184,0.00253,0.113,-17.667,0.0313,0.247,80.088,Dreams 2 Reality
+One Day Tonight,Noah Thompson,2022,63,165509,1,1,4,0.334,0.62,0.524,0,0.161,-7.613,0.0294,0.599,108.87,One Day Tonight
+Over Now,Kameron Marlowe,2022,63,221733,1,1,4,0.0813,0.561,0.764,0,0.108,-4.313,0.0432,0.356,117.058,We Were Cowboys
+LA FAMA,"ROSALÍA, The Weeknd",2022,75,188107,0,0,4,0.947,0.766,0.295,4.44e-05,0.119,-7.893,0.0464,0.805,136.016,MOTOMAMI
+Deep Down (feat. Never Dull),"Alok, Ella Eyre, Kenny Dope, Never Dull",2022,78,165753,0,1,4,0.0112,0.687,0.818,0,0.248,-4.221,0.0778,0.886,125.952,Deep Down (feat. Never Dull)
+Dangerous State of Mind,Chri$tian Gate$,2022,66,115621,3,0,4,0.0563,0.697,0.874,0,0.103,-4.045,0.0992,0.712,150.047,Dangerous State of Mind
+Los Cachos,"Piso 21, Manuel Turizo",2022,77,212304,0,1,4,0.108,0.774,0.73,0,0.194,-3.865,0.134,0.421,91.966,Los Cachos
+Murda Musik (feat. Destroy Lonely),"Ken Carson, Destroy Lonely",2022,65,176578,1,1,4,0.0456,0.763,0.654,0,0.108,-7.042,0.229,0.334,156.085,X
+Ya Me Entere - En Vivo,"De Parranda, Grupo Frontera",2022,69,222681,9,1,4,0.21,0.609,0.573,0,0.218,-8.514,0.0955,0.483,153.995,Ya Me Entere (En Vivo)
+Como Jordan,Junior H,2022,75,225152,6,0,3,0.028,0.714,0.873,0,0.191,-2.39,0.0311,0.628,112.503,Mi Vida En Un Cigarro 2
+Jigsaw,Key Glock,2022,64,153048,1,1,4,0.00296,0.75,0.714,0.000113,0.137,-9.032,0.134,0.254,160.036,PRE5L
+Men On The Moon,Chelsea Cutler,2022,67,220798,8,1,4,0.0211,0.552,0.517,0.00612,0.152,-7.906,0.0245,0.105,79.512,Men On The Moon
+G Nikes (feat. Polo G),"Nardo Wick, Polo G",2022,64,206968,1,1,4,0.0716,0.808,0.644,0,0.085,-6.167,0.329,0.512,151.098,Who is Nardo Wick?? (Deluxe)
+I'm In Love With You,The 1975,2022,71,262624,2,1,4,0.169,0.668,0.902,8.74e-05,0.198,-3.924,0.0386,0.913,119.008,Being Funny In A Foreign Language
+October Passed Me By,girl in red,2022,69,165592,0,1,4,0.761,0.445,0.367,0.075,0.0987,-13.086,0.0452,0.202,155.675,October Passed Me By
+Acting Up,Big Moochie Grape,2022,65,116493,9,1,4,0.0721,0.827,0.652,0,0.111,-5.951,0.209,0.394,127.96,East Haiti Baby
+Never Til Now (feat. Brett Young),"Ashley Cooke, Brett Young",2022,64,173534,10,1,4,0.75,0.382,0.408,0,0.127,-7.552,0.0407,0.128,77.063,Already Drank That Beer
+Butter,BTS,2022,76,164952,8,1,4,0.00323,0.759,0.459,0,0.0788,-5.187,0.0948,0.695,109.997,Proof
+FTCU (feat. GloRilla & Gangsta Boo),"Latto, GloRilla, Gangsta Boo",2022,64,145655,10,0,4,0.0369,0.894,0.633,0,0.178,-5.294,0.298,0.578,145.11,FTCU (feat. GloRilla & Gangsta Boo)
+El Rayo,Asael gonzález,2022,71,218059,5,0,3,0.163,0.735,0.812,0,0.101,-7.97,0.0759,0.894,153.858,El Rayo
+HANDSOMER (Remix) (Feat. Ktlyn),"Russ, Ktlyn",2022,64,143415,8,1,4,0.176,0.891,0.62,1.59e-06,0.103,-6.822,0.157,0.535,82.035,HANDSOMER (Remix) (Feat. Ktlyn)
+Jupiter's Diary,Rod Wave,2022,63,147611,9,1,4,0.159,0.706,0.48,0.000108,0.314,-11.65,0.0827,0.232,162.004,Jupiter's Diary: 7 Day Theory
+PURE/HONEY,Beyoncé,2022,69,288255,1,1,4,0.0122,0.857,0.558,4.8e-05,0.288,-7.888,0.134,0.453,123.973,RENAISSANCE
+NIGHT RIDER,Joji,2022,68,127987,8,1,4,0.617,0.768,0.754,0.919,0.11,-6.713,0.141,0.0388,85.016,SMITHEREENS
+ICU,Coco Jones,2022,64,241624,8,1,3,0.753,0.584,0.453,0,0.111,-6.682,0.0661,0.328,124.913,What I Didn't Tell You
+Lifestyle,Homixide Gang,2022,64,137143,9,1,4,0.00455,0.727,0.792,0.000102,0.39,-6.094,0.232,0.516,144.054,Homixide Lifestyle
+TRUCK BED,HARDY,2022,63,167535,0,1,4,0.0875,0.662,0.77,0,0.35,-4.887,0.0367,0.769,132.057,TRUCK BED
+she's all i wanna be,Tate McRae,2022,71,206772,2,0,4,0.0134,0.614,0.644,7.07e-06,0.117,-5.372,0.0426,0.651,160.036,she's all i wanna be
+ROLLING STONE,Brent Faiyaz,2022,65,162007,11,0,3,0.903,0.462,0.273,3.71e-05,0.101,-11.768,0.0622,0.334,141.33,WASTELAND
+"You, Me, And Whiskey","Justin Moore, Priscilla Block",2022,63,187941,0,0,4,0.0803,0.555,0.88,0,0.174,-4.351,0.0535,0.422,144.076,"You, Me, And Whiskey"
+If You Still Wit Me (feat. Lil Baby),"Finesse2tymes, Lil Baby",2022,64,128000,2,1,3,0.0906,0.519,0.766,0,0.287,-6.519,0.345,0.449,100.281,90 Days
+Sunshine,"Tyga, Jhené Aiko, Pop Smoke",2022,69,188964,7,1,4,0.0267,0.746,0.647,0,0.052,-6.673,0.106,0.393,97.989,Sunshine
+NEED A FAVOR,Jelly Roll,2022,63,197400,6,1,4,0.0123,0.504,0.771,1.89e-05,0.078,-4.231,0.0319,0.555,157.985,NEED A FAVOR
+Y'all Life,Walker Hayes,2022,63,192053,2,1,4,0.0107,0.607,0.757,0,0.158,-6.778,0.0601,0.662,164.096,Y'all Life
+Purple Hearts,"Kendrick Lamar, Summer Walker, Ghostface Killah",2022,67,329295,3,0,4,0.167,0.567,0.824,2.65e-06,0.149,-6.973,0.296,0.737,138.202,Mr. Morale & The Big Steppers
+World Cup,IShowSpeed,2022,71,256706,1,1,3,0.181,0.41,0.82,0,0.679,-4.252,0.376,0.303,81.202,World Cup
+Vapor,"Wisin & Yandel, Rauw Alejandro",2022,71,208895,11,0,4,0.066,0.803,0.779,2.23e-05,0.111,-4.449,0.0694,0.317,94.009,La Última Misión
+Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes),"Dreamville, JID, J. Cole, Kenny Mason, Sheck Wes",2022,65,309323,7,1,4,0.266,0.671,0.857,0,0.668,-5.435,0.292,0.597,118.574,D-Day: A Gangsta Grillz Mixtape
+dirty dancer,Orion Sun,2022,66,169720,7,0,4,0.376,0.702,0.525,0.0667,0.119,-5.028,0.0313,0.515,113.856,dirty dancer
+Marie,Sleepy Hallow,2022,67,182507,7,0,4,0.707,0.742,0.498,0,0.109,-6.121,0.0498,0.926,99.95,Marie
+For My Hand (feat. Ed Sheeran),"Burna Boy, Ed Sheeran",2022,77,159124,9,1,4,0.161,0.87,0.479,0.000157,0.209,-7.779,0.165,0.717,104.059,"Love, Damini"
+Enloquecido,Grupo Arriesgado,2022,71,212915,5,1,4,0.242,0.784,0.732,0,0.203,-6.006,0.0536,0.681,98.052,Enloquecido
+Forever,Rod Wave,2022,62,214186,3,1,4,0.566,0.626,0.524,1.14e-05,0.103,-8.987,0.0411,0.451,129.996,Beautiful Mind
+Memories,Conan Gray,2022,70,248819,11,1,4,0.00979,0.34,0.684,0,0.348,-6.306,0.044,0.556,112.969,Memories
+Cabo,Koe Wetzel,2022,62,243797,4,0,4,0.0172,0.64,0.601,0,0.356,-7.172,0.0372,0.205,126.951,Hell Paso
+morphine (da ways),redveil,2022,66,117072,11,1,4,0.178,0.389,0.693,0.000866,0.127,-6.537,0.235,0.513,80.882,learn 2 swim
+U-Digg (feat. 42 Dugg & Veeze),"Lil Baby, 42 Dugg, Veeze",2022,63,235501,1,1,4,0.00253,0.824,0.583,0,0.266,-6.537,0.147,0.154,147.496,U-Digg (feat. 42 Dugg & Veeze)
+Mas Que Amigos - En Vivo,Grupo Frontera,2022,68,187929,7,1,4,0.057,0.651,0.423,0,0.186,-11.99,0.0494,0.782,143.894,"En Vivo, Vol.1"
+Anxiety,Megan Thee Stallion,2022,64,135867,8,0,4,0.233,0.951,0.766,0,0.118,-4.65,0.259,0.686,126.989,Traumazine
+CRY,Parker Jack,2022,69,135419,1,1,4,0.836,0.676,0.481,1.02e-06,0.0982,-11.254,0.154,0.608,152.003,CRY
+SUMMER RENAISSANCE,Beyoncé,2022,69,273998,1,1,4,0.0843,0.674,0.625,0.0015,0.11,-9.593,0.0514,0.208,120.004,RENAISSANCE
+New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix,"Gorillaz, Tame Impala, Dom Dolla, Bootie Brown",2022,70,274142,4,0,4,0.012,0.716,0.897,0.262,0.325,-7.185,0.0629,0.358,127.03,New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]
+Se Acabo - En Vivo,"Lenin Ramírez, Fuerza Regida, Banda Renovacion",2022,70,230000,2,1,4,0.515,0.593,0.364,0,0.348,-7.242,0.175,0.652,83.133,Se Acabo (En Vivo)
+Stoned,Parker McCollum,2022,62,188291,9,1,4,0.028,0.512,0.615,0,0.352,-6.625,0.0393,0.476,123.979,Stoned
+FOREVER (with 6LACK),"Jessie Reyez, 6LACK",2022,66,223160,2,0,4,0.543,0.815,0.606,2.03e-05,0.114,-4.496,0.0586,0.484,114.009,YESSIE
+Afraid To Feel,LF SYSTEM,2022,78,177525,1,1,4,0.0166,0.578,0.912,0.00362,0.273,-3.929,0.114,0.68,127.87,Afraid To Feel
+pg baby,redveil,2022,66,156800,10,0,4,0.0401,0.325,0.8,0,0.142,-8.719,0.486,0.885,80.628,learn 2 swim
+Watermelon Moonshine,Lainey Wilson,2022,63,208853,1,1,4,0.47,0.739,0.413,2.51e-05,0.131,-6.709,0.0282,0.649,139.921,Bell Bottom Country
+Fuentes De Ortiz,Julión Álvarez y su Norteño Banda,2022,75,213333,10,1,4,0.392,0.825,0.481,0,0.0971,-6.404,0.0372,0.961,119.985,"De Hoy En Adelante, Que Te Vaya Bien"
+Candy,NCT DREAM,2022,75,217067,1,1,4,0.0538,0.65,0.964,0,0.245,-1.329,0.0348,0.836,120.008,Candy - Winter Special Mini Album
+she's all i wanna be,Tate McRae,2022,70,207120,2,0,4,0.0129,0.602,0.626,9.02e-06,0.144,-5.323,0.0396,0.619,160.118,i used to think i could fly
+Colorado,Reneé Rapp,2022,65,172846,5,1,4,0.0145,0.815,0.474,1.82e-05,0.154,-7.517,0.0417,0.559,120.025,Everything To Everyone
+American Teenager,Ethel Cain,2022,66,258419,4,1,4,0.00305,0.415,0.748,0,0.0903,-5.008,0.0481,0.154,120.056,Preacher’s Daughter
+Préstame Tu Corazón,Efecto Elegante,2022,69,182073,2,0,3,0.65,0.606,0.29,0,0.0809,-9.84,0.0378,0.643,144.583,Préstame Tu Corazón
+Vienna,Matt Schuster,2022,63,189000,5,1,4,0.821,0.516,0.362,0,0.117,-8.689,0.0296,0.238,129.496,Vienna
+Betty (Get Money),Yung Gravy,2022,65,145301,1,1,4,0.00416,0.735,0.783,2.23e-06,0.35,-6.577,0.0688,0.6,102.003,Marvelous
+Birthday Cake,Dylan Conrique,2022,70,205280,3,1,4,0.955,0.436,0.255,3.28e-05,0.106,-8.623,0.0364,0.15,113.265,Birthday Cake
+Mad Riches,Sonder,2022,65,116129,3,0,4,0.948,0.395,0.241,0.000418,0.117,-11.555,0.045,0.248,77.873,Too Late To Die Young
+40s N 9s,DD Osama,2022,64,145607,11,0,4,0.279,0.8,0.65,0,0.0888,-9.954,0.388,0.341,159.954,40s N 9s
+emails i can’t send,Sabrina Carpenter,2022,68,104408,7,1,3,0.757,0.515,0.387,0,0.622,-10.614,0.192,0.408,86.313,emails i can't send
+Scopin,Kordhell,2022,75,101633,8,1,4,0.065,0.809,0.972,0.12,0.0311,-1.653,0.0616,0.641,98.013,Scopin
+Delincuente,"Tokischa, Anuel AA, Ñengo Flow",2022,75,226491,2,1,4,0.0576,0.798,0.71,0.025,0.4,-3.39,0.0973,0.662,97.875,Delincuente
+WARNING - Sped Up,MC ORSEN,2022,74,108672,8,1,4,0.0144,0.768,0.858,0.861,0.0829,-4.629,0.0767,0.522,143.56,WARNING (Sped Up)
+feelz,Lil Peep,2022,65,145267,10,1,4,0.0379,0.746,0.856,0,0.264,-6.278,0.0645,0.93,147.626,feelz
+Bam Bam (feat. Ed Sheeran),"Camila Cabello, Ed Sheeran",2022,76,206071,8,1,4,0.182,0.756,0.697,0,0.333,-6.377,0.0401,0.956,94.996,Familia
+HOT,SEVENTEEN,2022,73,197587,5,0,4,0.0539,0.765,0.777,2.58e-06,0.338,-4.376,0.0399,0.64,111.944,SEVENTEEN 4th Album 'Face the Sun'
+Nothing Even Matters,SiR,2022,64,219130,4,0,4,0.46,0.545,0.768,0,0.118,-5.249,0.269,0.557,115.052,Nothing Even Matters
+En El Radio Un Cochinero,Victor Cibrian,2022,72,223431,6,0,3,0.466,0.696,0.623,8.61e-06,0.0983,-8.738,0.0438,0.965,154.028,En El Radio Un Cochinero
+Stand On It,Lil Baby,2022,64,166889,11,0,4,0.0325,0.728,0.496,0,0.0916,-7.298,0.127,0.214,86.468,It's Only Me
+Buddy,"Connor Price, Hoodie Allen",2022,66,117940,6,0,4,0.204,0.914,0.506,0,0.103,-5.373,0.223,0.428,140.015,Buddy
+NEVEREVER,Destroy Lonely,2022,65,144000,8,1,4,0.0452,0.784,0.538,0,0.112,-6.952,0.177,0.326,140.115,NS+ (ULTRA)
+In The Yuma (feat. Aatig),"Chris Lake, Aatig",2022,69,156216,1,0,4,0.000394,0.846,0.891,0.803,0.124,-4.902,0.0652,0.94,126.029,In The Yuma (feat. Aatig)
+See Wat I’m Sayin,"Moneybagg Yo, CMG The Label",2022,63,146732,1,1,4,0.0324,0.936,0.497,0,0.111,-7.185,0.41,0.364,138.016,See Wat I’m Sayin
+PRINCE OF DARKNESS,"SHADXWBXRN, ARCHEZ, KXNVRA",2022,73,123871,8,1,4,0.153,0.685,0.93,0.841,0.168,-4.65,0.0398,0.487,124.011,PRINCE OF DARKNESS
+DESPECHÁ RMX,"ROSALÍA, Cardi B",2022,74,170828,9,0,4,0.235,0.954,0.582,1.26e-06,0.0572,-5.744,0.0727,0.884,130.008,DESPECHÁ RMX
+Relaxing Brown Noise 256 Hz Smooth Q,Jane Color,2022,66,179470,8,1,4,0.815,0.165,0.266,0.901,0.0992,-38.151,0.135,0.0267,76.211,Relaxing Brown Noise 256 Hz
+BABY OTAKU,"Pablito Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",2022,77,176471,9,1,4,0.0492,0.835,0.747,0,0.055,-4.65,0.083,0.432,102.003,BABY OTAKU
+Ciudad Peligrosa,"Edgardo Nuñez, Junior H",2022,70,226000,7,0,3,0.489,0.765,0.303,0,0.299,-12.367,0.0506,0.596,94.289,Ciudad Peligrosa
+Baby Shark,RALAN STYLES,2022,65,156060,1,1,4,0.156,0.843,0.28,1.38e-05,0.134,-9.723,0.336,0.407,160.005,Baby Shark
+rockhardt,Carbon,2022,66,158108,7,0,4,1.83e-05,0.458,0.693,0.00154,0.372,-9.316,0.0369,0.137,147.913,rockhardt
+Por Clave el 13,Betillo Guerrero,2022,71,190851,7,1,4,0.787,0.786,0.67,1.04e-05,0.0357,-4.086,0.0389,0.973,123.654,Seguimos Irremediables
+Miles,SZA,2022,65,69729,7,1,5,0.965,0.64,0.356,0.000214,0.109,-11.563,0.0612,0.574,122.531,Ctrl (Deluxe)
+MJ (feat. Quezz Ruthless),"Big Scarr, Quezz Ruthless",2022,62,161427,11,1,4,0.183,0.798,0.458,1.04e-05,0.122,-10.04,0.389,0.539,132.002,Big Grim Reaper: The Return
+Break My Heart,Rod Wave,2022,63,169412,1,1,4,0.0166,0.701,0.562,1.2e-05,0.352,-8.915,0.0381,0.354,84.994,Break My Heart
+Y Sigues Siendo Tú,"Grupo Marca Registrada, Grupo Arriesgado",2022,71,155819,11,1,4,0.455,0.688,0.525,0,0.119,-6.566,0.0623,0.717,76.398,Haciendo Magia
+Just a Man,"Jorge Rivera-Herrans, EPIC Ensemble",2022,65,150000,5,1,5,0.681,0.311,0.449,0,0.145,-7.754,0.0335,0.444,106.783,EPIC: The Troy Saga (Original Concept Album)
+Deuce,"41, Kyle Richh, Jenn Carter",2022,63,127883,1,1,4,0.151,0.732,0.636,0,0.101,-6.514,0.321,0.211,136.896,Deuce
+Trouble With A Heartbreak,Jason Aldean,2022,62,196027,5,1,4,0.23,0.582,0.797,0,0.132,-4.926,0.0334,0.595,135.973,GEORGIA
+Me Tocó Morir,"Fuerza Regida, Alfredo Olivas",2022,72,144640,0,0,3,0.421,0.723,0.617,0,0.109,-3.69,0.0497,0.973,150.075,Sigan Hablando
+Back Flippin,Luh Tyler,2022,63,142629,1,1,4,0.00976,0.81,0.379,0,0.112,-6.77,0.27,0.381,87.572,Back Flippin
+In My Room,Chance Peña,2022,69,177609,4,1,3,0.521,0.408,0.338,0.000639,0.0732,-13.626,0.0431,0.1,133.943,In My Room
+DEMONS IN MY SOUL,"SCXR SOUL, Sx1nxwy",2022,76,120594,2,1,4,0.0249,0.765,0.428,0.92,0.297,-2.789,0.0492,0.422,100.006,DEMONS IN MY SOUL
+Crazy What Love Can Do,"David Guetta, Becky Hill, Ella Henderson",2022,78,169756,4,0,4,0.0282,0.601,0.713,0,0.158,-3.758,0.0449,0.464,122.872,Crazy What Love Can Do
+Legends,Juice WRLD,2022,66,192036,8,0,4,0.114,0.586,0.82,0,0.134,-4.791,0.072,0.391,142.107,Fighting Demons (Deluxe)
+sTraNgeRs,Bring Me The Horizon,2022,70,195748,5,1,3,0.000231,0.346,0.939,0,0.433,-3.061,0.182,0.526,183.147,sTraNgeRs
+naked freestyle,Baby Keem,2022,64,108500,2,1,4,0.327,0.748,0.561,0,0.16,-7.095,0.0931,0.111,60.034,The Melodic Blue (Deluxe)
+For Tonight,Giveon,2022,68,192257,9,1,4,0.102,0.606,0.513,0,0.156,-8.756,0.0524,0.177,79.9,Give Or Take
+bank account (with Lil Uzi Vert),"Baby Keem, Lil Uzi Vert",2022,64,214240,11,0,4,0.011,0.859,0.721,0,0.484,-3.369,0.237,0.689,148.015,The Melodic Blue (Deluxe)
+IT'S YOU (feat. keshi),"MAX, keshi",2022,70,173428,2,1,4,0.835,0.697,0.368,0.00016,0.135,-9.708,0.056,0.451,90.011,IT'S YOU (feat. keshi)
+Blue Flame,LE SSERAFIM,2022,71,201895,4,0,4,0.0281,0.781,0.725,0,0.0761,-3.571,0.0452,0.765,112.045,FEARLESS
+Woke Up in Love,"Kygo, Gryffin, Calum Scott",2022,72,216873,2,1,4,0.225,0.643,0.585,0,0.0927,-5.994,0.0369,0.188,106.015,Woke Up in Love
+3AM on Glenwood,21 Savage,2022,65,178329,1,1,4,0.0533,0.475,0.692,6.49e-06,0.18,-8.327,0.398,0.241,181.167,Her Loss
+Rumors (feat. Lil Durk),"Gucci Mane, Lil Durk",2022,64,185856,2,1,4,0.0499,0.688,0.842,0,0.241,-4.211,0.264,0.416,159.897,Rumors (feat. Lil Durk)
+Mercury,Steve Lacy,2022,65,295413,9,0,3,0.543,0.699,0.75,0.0137,0.333,-6.481,0.0542,0.887,151.035,Gemini Rights
+Inner Peace,Sabrina McGregor,2022,67,179222,5,1,3,0.977,0.127,0.00488,0.828,0.115,-35.14,0.0478,0.136,146.626,Inner Peace
+HOME,Mike Dimes,2022,64,174915,0,0,4,0.347,0.895,0.467,0,0.214,-5.78,0.378,0.433,118.016,IN DIMES WE TRUST
+off the leash! (feat. yvngxchris and Luisss),"tana, yvngxchris, Luisss",2022,65,192115,9,1,4,0.0651,0.658,0.683,0,0.2,-8.219,0.319,0.178,144.001,off the leash!
+Sleazy Flow (feat. Lil Baby) - Remix,"SleazyWorld Go, Lil Baby",2022,63,161355,2,1,4,0.18,0.86,0.299,0,0.0759,-12.066,0.412,0.165,77.461,Where The Shooters Be
+Arson,j-hope,2022,76,159762,1,1,4,0.00813,0.938,0.798,7.03e-05,0.146,-3.998,0.103,0.265,99.992,Jack In The Box
+Vete,Grupo Frontera,2022,68,175471,10,1,4,0.0653,0.644,0.544,0,0.0775,-7.072,0.0371,0.857,142.666,Vete
+Doin' This,Luke Combs,2022,64,254173,1,1,4,0.166,0.588,0.55,8.67e-06,0.11,-5.878,0.0269,0.39,115.01,Growin' Up
+Waddup (feat. Polo G),"PGF Nuk, Polo G",2022,62,181540,1,1,4,0.187,0.706,0.637,0,0.199,-7.261,0.35,0.289,76.062,Waddup (feat. Polo G)
+Mi Momento,Luis R Conriquez,2022,71,162624,5,1,3,0.411,0.713,0.838,2.94e-05,0.0867,-4.538,0.0383,0.909,163.988,"Corridos Bélicos, Vol. 3"
+Tripping Over Air,Aidan Bissett,2022,66,182383,11,1,4,0.00185,0.622,0.799,1.08e-06,0.269,-4.811,0.0342,0.6,116.985,Tripping Over Air
+Fat Funny Friend,Maddie Zahm,2022,68,199765,0,1,4,0.625,0.498,0.452,0,0.0836,-7.887,0.124,0.265,107.728,Fat Funny Friend
+SOLD OUT,HARDY,2022,62,202912,9,1,4,0.00556,0.504,0.893,1.83e-05,0.34,-4.801,0.0488,0.333,145.005,SOLD OUT
+Wandered To LA (with Justin Bieber),"Juice WRLD, Justin Bieber",2022,66,188833,0,1,4,0.0518,0.687,0.643,3.31e-06,0.11,-4.763,0.0406,0.418,135.068,Fighting Demons (Deluxe)
+W.I.T.C.H.,Devon Cole,2022,67,132133,7,1,4,0.104,0.868,0.66,0,0.0755,-3.834,0.0526,0.963,121.925,W.I.T.C.H.
+Never Leave,Bailey Zimmerman,2022,62,207568,9,1,4,0.523,0.503,0.643,1.23e-06,0.0661,-6.586,0.0304,0.345,148.11,Never Leave
+Normal,Feid,2022,78,171987,4,0,4,0.0397,0.712,0.557,0,0.27,-4.861,0.115,0.594,170.079,Normal
+Prohibidox,Feid,2022,79,166253,1,0,4,0.0451,0.647,0.801,0,0.0628,-2.946,0.249,0.517,180.108,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM
+Cooped Up (with Roddy Ricch),"Post Malone, Roddy Ricch",2022,68,185857,0,1,4,0.038,0.669,0.773,0,0.113,-5.619,0.153,0.377,93.923,Cooped Up
+You In A Honky Tonk,Randall King,2022,62,183570,9,1,4,0.121,0.626,0.705,1.67e-05,0.341,-5.911,0.0256,0.62,103.936,Shot Glass
+That That (prod. & feat. SUGA of BTS),"PSY, SUGA",2022,75,174647,4,1,4,0.0299,0.905,0.962,0,0.0272,-3.197,0.0856,0.906,129.969,PSY 9th
+Half Of Me,"Thomas Rhett, Riley Green",2022,63,183027,7,1,4,0.00683,0.575,0.842,0,0.279,-5.058,0.0348,0.665,111.995,Where We Started
+Starved,Zach Bryan,2022,62,282816,2,1,3,0.267,0.332,0.382,0.0268,0.094,-8.963,0.0366,0.113,161.083,Starved
+ULTRA SOLO REMIX,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",2022,79,322347,1,1,4,0.0777,0.909,0.824,0.00387,0.0638,-4.627,0.0797,0.585,109.97,ULTRA SOLO REMIX
+F.N.F (Let's Go) - Remix,"Hitkidd, GloRilla, Latto, JT",2022,62,247763,1,1,4,0.00733,0.869,0.759,0,0.366,-4.886,0.262,0.499,156.973,F.N.F. (Let's Go) [Remix]
+Used (feat. Don Toliver),"SZA, Don Toliver",2022,65,146947,10,0,4,0.363,0.733,0.685,0.000238,0.333,-6.228,0.0533,0.837,150.073,SOS
+The Rumbling,SiM,2022,68,220799,5,0,4,5.62e-05,0.459,0.878,0.000307,0.371,-1.399,0.0688,0.494,144.852,The Rumbling
+snowfall (Slowed + Reverb),"Øneheart, reidenshi",2022,71,150661,9,1,4,0.932,0.397,0.0521,0.874,0.229,-29.745,0.0313,0.101,77.982,snowfall (Slowed + Reverb)
+Qué Agonía,"Yuridia, Ángela Aguilar",2022,77,152923,11,1,4,0.56,0.732,0.573,9.34e-06,0.0543,-5.733,0.0237,0.882,97.502,Pa' Luego Es Tarde
+High,The Chainsmokers,2022,69,175163,0,1,4,0.0492,0.601,0.787,0,0.142,-6.178,0.031,0.525,134.981,So Far So Good
+A Neutral Place,Logan Docherty,2022,67,169353,0,1,3,0.993,0.135,0.00607,0.892,0.0858,-36.472,0.0393,0.0893,68.103,A Neutral Place
+Same God (feat. Jonsal Barrientes),"Elevation Worship, Jonsal Barrientes",2022,63,481803,1,1,4,0.203,0.41,0.462,0,0.372,-10.061,0.0315,0.0917,144.398,LION
+Never Sleep (with Lil Baby feat. Travis Scott),"NAV, Lil Baby, Travis Scott",2022,65,185786,1,1,4,0.00913,0.814,0.676,0,0.13,-5.602,0.153,0.51,139.946,Demons Protected By Angels
+sun and moon,anees,2022,69,151508,6,0,4,0.457,0.815,0.442,0,0.101,-7.462,0.107,0.706,90.019,sun and moon
+Raydar,JID,2022,64,204909,4,0,4,0.0582,0.596,0.59,3.26e-06,0.103,-7.625,0.38,0.453,156.924,The Forever Story (Extended Version)
+'68 Fastback,Zach Bryan,2022,62,193127,7,1,3,0.749,0.366,0.276,2.91e-06,0.274,-7.201,0.0312,0.298,162.051,American Heartbreak
+2 Sugar (feat. Ayra Starr),"Wizkid, Ayra Starr",2022,70,187907,6,0,4,0.0498,0.914,0.643,0,0.0618,-3.862,0.134,0.764,105.033,"More Love, Less Ego"
+Pass The Nirvana,Pierce The Veil,2022,63,197374,2,1,4,0.00098,0.543,0.895,0.000547,0.155,-4.576,0.0881,0.623,143.007,Pass The Nirvana
+Back and Forth (feat. EST Gee),"Lil Baby, EST Gee",2022,63,121479,5,0,4,0.00777,0.811,0.463,0,0.0955,-7.029,0.0964,0.258,162.008,It's Only Me
+Make You Mine,Giveon,2022,65,200192,5,0,4,0.87,0.551,0.37,0,0.122,-10.194,0.0551,0.241,137.265,Give Or Take
+Wonderful Wayne & Jackie Boy,"Babyface Ray, Lil Durk",2022,63,133953,11,1,4,0.0305,0.806,0.715,0,0.391,-5.024,0.291,0.319,172.138,MOB
+Éxtasis,"Manuel Turizo, Maria Becerra",2022,76,191607,7,1,4,0.276,0.829,0.747,0,0.339,-3.511,0.149,0.576,98.03,Éxtasis
+223's (feat. BabyTron),"midwxst, BabyTron",2022,62,133136,0,1,4,0.00657,0.469,0.703,4.4e-05,0.553,-6.032,0.297,0.311,97.522,BACK IN ACTION 3.0
+LA NENA DE ARGENTINA,Maria Becerra,2022,77,151988,5,0,4,0.0984,0.531,0.58,0.000201,0.101,-4.688,0.188,0.887,169.865,LA NENA DE ARGENTINA
+Blue,Zach Bryan,2022,62,218680,2,1,4,0.408,0.597,0.469,0.000277,0.135,-6.838,0.0276,0.409,139.422,American Heartbreak
+Polaroid Love,ENHYPEN,2022,73,184602,7,0,4,0.458,0.738,0.67,0,0.361,-3.766,0.0439,0.651,138.055,DIMENSION : ANSWER
+Mr. Morale,"Kendrick Lamar, Tanna Leone",2022,66,210841,9,1,3,0.283,0.727,0.53,2.76e-05,0.392,-8.616,0.312,0.258,174.025,Mr. Morale & The Big Steppers
+Girl Like Me,Dove Cameron,2022,68,148800,5,0,4,0.0248,0.729,0.646,0,0.168,-7.953,0.0686,0.54,125.007,Girl Like Me
+Stars Like Confetti,Dustin Lynch,2022,63,194267,10,1,4,0.00714,0.623,0.874,0,0.143,-3.058,0.0329,0.961,109.97,Blue In The Sky
+yeaaaa,Rollin Thrax,2022,63,128057,10,0,4,0.00872,0.866,0.557,1.81e-05,0.0871,-7.617,0.399,0.371,135.118,yeaaaa
+Heaven Takes You Home (feat. Connie Constance),"Swedish House Mafia, Connie Constance",2022,74,214071,0,0,4,0.0124,0.665,0.738,0.00598,0.0923,-5.931,0.0379,0.0389,125.037,Paradise Again
+Stay Alive (Prod. SUGA of BTS),Jung Kook,2022,75,210928,2,0,4,0.299,0.512,0.76,0,0.103,-5.889,0.0682,0.495,130.096,Stay Alive (Prod. SUGA of BTS)
+Hold That Heat (feat. Travis Scott),"Southside, Future, Travis Scott",2022,66,221538,2,1,4,0.0295,0.744,0.608,0,0.397,-6.386,0.0442,0.0692,130.045,Hold That Heat (feat. Travis Scott)
+Outrunnin' Your Memory,"Luke Combs, Miranda Lambert",2022,65,254747,1,0,4,0.0974,0.601,0.836,0,0.106,-3.42,0.0342,0.338,127.934,Growin' Up
+Finally At Ease,Molecular Clouds,2022,66,160000,4,1,4,0.861,0.166,0.00398,0.906,0.112,-34.203,0.0515,0.113,128.278,Finally At Ease
+Invincible (feat. Daniel Caesar),"Omar Apollo, Daniel Caesar",2022,65,216160,6,0,4,0.224,0.555,0.474,0.00426,0.162,-11.706,0.0668,0.262,134.89,Ivory
+Morena,Tornillo,2022,68,220274,8,0,4,0.38,0.895,0.744,0,0.155,-7.046,0.26,0.924,146.02,Morena
+No Deal,Rod Wave,2022,62,187730,10,1,4,0.0478,0.752,0.523,0,0.0622,-8.033,0.355,0.192,81.48,Beautiful Mind
+With you,"Jimin, HA SUNG WOON",2022,75,201905,3,1,3,0.639,0.532,0.426,0,0.134,-6.117,0.0288,0.137,149.898,"Our Blues, Pt. 4 (Original Television Soundtrack)"
+PLAYA DEL INGLÉS,"Quevedo, Myke Towers",2022,81,237525,7,0,4,0.0822,0.793,0.736,0,0.109,-3.254,0.0469,0.656,112.993,PLAYA DEL INGLÉS
+Hard to Love,BLACKPINK,2022,70,162570,5,1,4,0.00616,0.654,0.768,0,0.202,-5.007,0.0431,0.505,104.97,BORN PINK
+My Friends (feat. Lil Durk),"Ty Dolla $ign, Mustard, Lil Durk",2022,64,158168,8,1,4,0.0558,0.633,0.478,0,0.202,-8.039,0.044,0.441,169.961,My Friends (feat. Lil Durk)
+Can't Stop Won't Stop (feat. Kodak Black),"King Combs, Kodak Black",2022,62,158350,2,1,4,0.177,0.906,0.807,0,0.11,-4.401,0.294,0.813,96.961,Can't Stop Won't Stop (feat. Kodak Black)
+Maybe You’re The Problem,Ava Max,2022,71,190319,9,1,4,0.0453,0.53,0.835,0,0.0637,-3.69,0.11,0.471,166.02,Maybe You’re The Problem
+Esta Noche,Yahritza Y Su Esencia,2022,65,189750,2,0,3,0.474,0.697,0.755,0,0.115,-4.568,0.0366,0.623,147.964,Obsessed (Deluxe)
+Please Do Not Lean (feat. BADBADNOTGOOD),"Daniel Caesar, BADBADNOTGOOD",2022,65,240938,1,1,4,0.241,0.67,0.41,8.55e-06,0.167,-13.444,0.0381,0.46,127.972,Please Do Not Lean
+Yungen (feat. Jack Harlow),"Rod Wave, Jack Harlow",2022,62,226115,11,1,4,0.309,0.614,0.744,1.14e-06,0.173,-5.52,0.125,0.589,146.02,Beautiful Mind
+Money Conversations,A Boogie Wit da Hoodie,2022,63,191861,4,0,4,0.0473,0.718,0.741,0,0.0563,-5.335,0.29,0.365,174.107,Me vs. Myself
+Punk Tactics,Joey Valence & Brae,2022,65,143552,1,0,4,0.0159,0.513,0.974,0,0.0712,-1.113,0.508,0.503,195.767,Punk Tactics
+141,Banda MS de Sergio Lizárraga,2022,69,171621,5,0,3,0.128,0.79,0.543,1.76e-06,0.153,-6.952,0.0298,0.794,122.451,141
+Mountain Song,Flatland Cavalry,2022,62,249920,11,1,4,0.27,0.551,0.451,0.259,0.117,-10.683,0.03,0.19,91.962,Mountain Song
+Massive,Drake,2022,70,336924,4,0,3,0.114,0.499,0.671,0.0169,0.148,-6.774,0.0561,0.0557,124.994,"Honestly, Nevermind"
+ay! (feat. Lil Wayne),"Machine Gun Kelly, Lil Wayne",2022,65,124188,2,1,4,0.05,0.742,0.617,5.92e-05,0.0711,-6.689,0.0345,0.491,147.002,mainstream sellout
+Gasoline,The Weeknd,2022,67,212166,6,0,4,0.000582,0.728,0.741,0.00206,0.33,-7.075,0.0473,0.31,123.006,Dawn FM
+Murder In My Mind - Sped Up,Kordhell,2022,72,115200,2,1,4,0.00364,0.598,0.994,0.0617,0.397,-0.89,0.404,0.151,151.135,Murder In My Mind (Sped Up)
+WASTE - Sped Up Version,Kxllswxtch,2022,71,100500,2,0,4,0.836,0.592,0.227,0.00535,0.116,-10.329,0.031,0.178,79.365,WASTE
+j's lullaby (darlin' i'd wait for you),Delaney Bailey,2022,65,290132,8,1,4,0.498,0.54,0.11,0.000614,0.0781,-19.885,0.0328,0.172,76.068,j's lullaby (darlin' i'd wait for you)
+YOU'RE TOO SLOW!,squirl beats,2022,68,78759,1,1,4,0.000993,0.415,0.707,0.426,0.418,-5.426,0.0399,0.273,170.625,YOU'RE TOO SLOW!
+Plan B,Megan Thee Stallion,2022,63,163765,8,1,4,0.0668,0.787,0.522,0,0.108,-5.872,0.463,0.666,170.439,Plan B
+Lux Æterna,Metallica,2022,61,205680,11,0,4,1.15e-05,0.386,0.996,0.000836,0.116,-2.96,0.0754,0.188,130.573,Lux Æterna
+Take me home,PinkPantheress,2022,65,200653,11,0,4,0.173,0.573,0.66,0.149,0.111,-8.304,0.0609,0.461,172.072,Take me home
+Waiting,Bailey Zimmerman,2022,62,217600,6,1,4,0.389,0.514,0.626,3.19e-06,0.0834,-6.507,0.0288,0.3,150.047,Leave The Light On
+Drowning - Sped Up Version,"sped up nightcore, A Boogie Wit da Hoodie, Kodak Black",2022,67,174517,8,0,4,0.343,0.759,0.903,0,0.121,-5.287,0.0785,0.878,154.825,Drowning (Sped Up Version)
+Emergency Contact,Pierce The Veil,2022,64,240000,3,1,4,0.000469,0.541,0.826,0,0.711,-4.214,0.0361,0.402,113.03,Emergency Contact
+MOVE (feat. Grace Jones & Tems),"Beyoncé, Grace Jones, Tems",2022,67,203383,1,1,4,0.0165,0.876,0.628,0.0339,0.0938,-6.595,0.0935,0.809,118.028,RENAISSANCE
+Hurt No More,CHASE WRIGHT,2022,62,176781,6,1,4,0.182,0.45,0.855,0,0.135,-3.475,0.0379,0.552,180.0,Hurt No More
+Ballin,Mike Sherm,2022,61,125587,1,1,4,0.0256,0.971,0.509,0,0.103,-9.752,0.342,0.426,106.977,Ballin
+AMAZING,Rex Orange County,2022,72,209200,8,1,4,0.279,0.719,0.461,0,0.0875,-8.191,0.0454,0.548,123.915,WHO CARES?
+Mary On A Cross,Ghost,2022,70,244804,11,1,4,0.000187,0.467,0.9,0.000493,0.105,-4.505,0.0451,0.554,130.027,[MESSAGE FROM THE CLERGY]
+Conceited,Flo Milli,2022,63,146855,8,1,4,0.0566,0.984,0.719,9.88e-05,0.517,-5.119,0.0893,0.437,118.015,"You Still Here, Ho ?"
+Ojalá,"The Rudeboyz, Maluma, Adam Levine",2022,73,189080,7,1,4,0.325,0.765,0.624,0,0.104,-4.932,0.0929,0.277,92.984,Ojalá
+How Do I Say Goodbye,Dean Lewis,2022,74,163603,8,1,4,0.214,0.4,0.641,0,0.0656,-6.303,0.0674,0.393,81.552,The Hardest Love
+Fuera del mercado,Danny Ocean,2022,79,159849,8,1,4,0.32,0.453,0.673,0,0.131,-5.649,0.144,0.266,92.06,@dannocean
+Players - DJ Smallz 732 - Jersey Club Remix,"Coi Leray, DJ Smallz 732",2022,71,117027,1,1,4,0.101,0.926,0.557,0.0165,0.0817,-8.322,0.103,0.716,136.018,Players
+Bájale,Eden Muñoz,2022,72,162833,7,0,3,0.524,0.709,0.686,0,0.158,-7.459,0.0361,0.63,103.452,Consejos Gratis
+25k jacket (feat. Lil Baby),"Gunna, Lil Baby",2022,64,120000,5,0,4,0.16,0.903,0.537,0,0.129,-6.854,0.283,0.737,115.013,DS4EVER
+WHITE HOUSE (feat. Babyface Ray),"LUCKI, Babyface Ray",2022,62,154599,2,1,4,0.00212,0.809,0.501,2.97e-06,0.102,-11.157,0.249,0.152,136.975,FLAWLESS LIKE ME
+Feline (with Polo G & Trippie Redd),"Juice WRLD, Polo G, Trippie Redd",2022,64,212204,0,1,5,0.0208,0.575,0.619,0,0.103,-6.663,0.322,0.296,110.109,Fighting Demons (Deluxe)
+How Could You,Jessie Murph,2022,67,187813,11,1,3,0.834,0.573,0.17,3.08e-06,0.108,-10.576,0.0555,0.28,146.749,How Could You
+Jus bëtter,Yeat,2022,64,188240,10,0,4,0.018,0.708,0.561,0,0.106,-8.453,0.0828,0.106,74.041,2 Alivë
+Krank,Yeat,2022,64,175998,10,0,4,0.0126,0.788,0.61,0,0.124,-7.211,0.384,0.363,142.008,Lyfë
+Du würdest dich schlecht fühlen,cherilyn Schoemaker,2022,72,32855,4,1,4,0.922,0.113,0.102,0.836,0.139,-33.825,0.0449,0.0533,174.048,Du würdest dich schlecht fühlen
+JACK,HARDY,2022,62,168630,7,1,4,0.0295,0.551,0.6,2.94e-06,0.291,-5.501,0.0295,0.493,125.019,JACK
+Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",2022,66,182667,5,0,4,0.152,0.526,0.606,2.36e-06,0.194,-5.3,0.259,0.492,116.622,HEROES & VILLAINS (Heroes Version)
+Extssy Model,Junior H,2022,75,240654,4,0,3,0.0839,0.675,0.725,0,0.334,-4.766,0.0334,0.469,92.513,Mi Vida En Un Cigarro 2
+Junio,Maluma,2022,75,168601,11,0,4,0.0999,0.85,0.756,0,0.0873,-3.439,0.0407,0.896,120.024,Junio
+"Sun Down, I'm Up - Sped Up & Pitched",Lil Yawh,2022,66,95971,11,0,4,0.6,0.801,0.358,0.928,0.145,-12.681,0.079,0.228,121.052,"Sun Down, I'm Up (Sped Up & Pitched)"
+engravings,Ethan Bortnick,2022,67,180187,5,0,4,0.222,0.647,0.657,0.00231,0.143,-8.101,0.05,0.39,139.038,engravings
+Light,Mina Rojas,2022,66,169685,11,1,3,0.976,0.177,0.00876,0.888,0.106,-33.699,0.0409,0.0481,70.331,Light
+Cracker Island (feat. Thundercat),"Gorillaz, Thundercat",2022,68,213750,2,0,4,0.00343,0.741,0.913,0.103,0.325,-3.34,0.0465,0.643,120.012,Cracker Island (feat. Thundercat)
+Seven,Natalie Jane,2022,66,124373,8,1,4,0.119,0.822,0.255,0,0.128,-9.83,0.349,0.377,136.024,Seven
+Speak Up,Is0kenny,2022,63,104960,2,1,4,0.233,0.787,0.412,0.0831,0.117,-11.016,0.391,0.277,154.966,Speak Up
+Lethal Weapon,Baby Smoove,2022,61,131616,1,1,4,0.356,0.67,0.326,3.16e-06,0.144,-14.898,0.225,0.204,83.997,Im Still Serious 2
+she,Jelly Roll,2022,61,173933,6,1,4,0.0748,0.484,0.699,0,0.101,-5.147,0.0276,0.256,145.974,she
+Masterpiece,Motionless In White,2022,64,206648,10,0,4,0.000109,0.324,0.863,0,0.311,-3.716,0.123,0.394,177.985,Scoring The End Of The World
+In Jesus Name (God Of Possible),Katy Nichole,2022,62,222039,6,1,4,0.287,0.504,0.706,0,0.0772,-5.093,0.0424,0.146,141.74,In Jesus Name (God Of Possible) [Piano Version]
+All Is Well,Hans Williams,2022,63,150968,2,1,4,0.832,0.676,0.33,0,0.133,-6.92,0.0257,0.185,77.523,All Is Well
+"Come On, Let's Go (with Nigo)","Tyler, The Creator, Nigo",2022,64,199500,11,1,4,0.136,0.732,0.734,0.000901,0.165,-7.968,0.0974,0.488,145.722,I Know NIGO!
+VISTA AL MAR,Quevedo,2022,82,180673,0,0,4,0.803,0.759,0.561,0.121,0.101,-5.643,0.131,0.491,104.915,VISTA AL MAR
+make up sex (feat. blackbear),"Machine Gun Kelly, blackbear",2022,66,122570,5,0,4,0.00156,0.665,0.678,0,0.474,-4.122,0.0315,0.682,131.986,mainstream sellout
+Tjärnheden,Farsjön,2022,68,100441,11,0,3,0.993,0.435,0.00661,0.939,0.102,-32.108,0.0433,0.203,95.626,Fjäderlätt
+IDGAF (with blackbear),"BoyWithUke, blackbear",2022,67,140665,5,1,4,0.426,0.783,0.75,0,0.241,-5.762,0.078,0.88,97.953,IDGAF

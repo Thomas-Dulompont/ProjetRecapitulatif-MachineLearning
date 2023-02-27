@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/57f08d46678240a7b600335f86696bdd/artifacts
+end_time: 1676986825273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57f08d46678240a7b600335f86696bdd
+run_name: stately-pug-180
+run_uuid: 57f08d46678240a7b600335f86696bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676986823260
+status: 3
+tags: []
+user_id: apprenant

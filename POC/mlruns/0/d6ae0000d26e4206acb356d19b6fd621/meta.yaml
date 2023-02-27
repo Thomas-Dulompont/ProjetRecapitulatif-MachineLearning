@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d6ae0000d26e4206acb356d19b6fd621/artifacts
+deleted_time: 1677057268897
+end_time: 1677056706774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d6ae0000d26e4206acb356d19b6fd621
+run_name: clean-bat-593
+run_uuid: d6ae0000d26e4206acb356d19b6fd621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677056698571
+status: 3
+tags: []
+user_id: apprenant

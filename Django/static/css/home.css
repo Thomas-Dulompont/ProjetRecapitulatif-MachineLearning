@@ -4,16 +4,6 @@
   padding: 0;
 }
 
-body {
-  background: #333;
-  height: 100vh;
-  background-image: url('../img/pexels-dmitry-demidov-3783471.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  overflow-x: hidden;
-}
-
 .container-first {
   position: absolute;
   top: 30%;
@@ -22,11 +12,13 @@ body {
 
 h1 {
   text-transform: uppercase;
-  font-size: 5rem;
+  font-size: 5.5rem;
   color: #f1f1f1;
   font-family: Abril fatface, sans-serif;
   filter: brightness(2);
-  text-shadow: 5px 5px 5px rgb(0, 0, 1); 
+  text-shadow: 5px 5px rgb(0, 0, 1); 
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
 }
 
 h1 span {
@@ -34,10 +26,13 @@ h1 span {
 }
 
 h2 {
-  font-size: 2rem;
-  color: #f1f1f1;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #ffffff;
   font-family: Abril fatface, sans-serif;
-  text-shadow: 5px 5px 5px rgba(0,0,0.5,0.5); 
+  text-shadow: 2px 2px rgba(0,0,0.5,0.5);
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: rgb(109, 67, 0)
 }
 
 h2 span {

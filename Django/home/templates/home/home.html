@@ -1,18 +1,16 @@
 {% extends 'base.html' %}
 
-{% block content %}
-
+{% block head%} 
 {% load static %}
-
+<link rel="preload" href="{% static 'css/home.css' %}" as="style">
 <link rel="stylesheet" href="{% static 'css/home.css' %}">
 
-{% comment %} <div class="container">
-    <h1><span>E</span><span>c</span><span>h</span><span>o</span> <span>Tunes</span></h1> 
-    <h2><span><p class="gras_italique_serif"> 
-        Classiques intemporels ou simples succès éphémères ?</p></span>
-    <h3><span><p class="gras_italique_serif">
-        Découvrez si les tubes d'hier seraient des hits d'aujourd'hui !</p></span>
-</div> {% endcomment %}
+<title>Accueil</title>
+{% endblock head %}
+
+
+{% block content %}
+
 <div class="lignes">
     <div class="l1"></div>
     <div class="l2"></div>
@@ -34,84 +32,11 @@
   
     <li class="bulle"><a  href={% url 'login' %}><img src={% static 'img/signin.png' %}  class="logo-medias"></li>
     <li class="bulle"><a  href={% url 'signup' %}><img src={% static 'img/signup.png' %}  class="logo-medias"></li>
-    <li class="bulle"><img src={% static 'img/info.png' %}  class="logo-medias"></li>
+    <li class="bulle"><a  href={% url 'info' %}><img src={% static 'img/info.png' %}  class="logo-medias"></li>
 </ul>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
 <script src="{% static 'js/home.js' %}"></script>
-
-{% load widget_tweaks %}
-
-   {% comment %} <style>
-      .container {
-        margin: auto;
-        padding: 20px;
-        max-width: 600px;
-      }
-
-      input[type=text] {
-        width: 100%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        display: inline-block;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        box-sizing: border-box;
-      }
-
-      input[type=submit] {
-        background-color: #4CAF50;
-        color: white;
-        padding: 12px 20px;
-        border: none;
-        border-radius: 4px;
-        cursor: pointer;
-      }
-
-      input[type=submit]:hover {
-        background-color: #45a049;
-      }
-
-      @media screen and (max-width: 600px) {
-        input[type=text] {
-          width: 100%;
-        }
-      }
-    </style> 
-     <div class="container">
-      <div class="row">
-        <div class="col-md-6 offset-md-3">
-      <form method="post">
-      {% csrf_token %}
-        <div class="form-group">
-            <label for="music-name">Nom de la musique:</label>
-            {{ form.Name|add_class:"form-control" }}
-        </div>
-        <div class="text-center">
-          <input type="submit" class="btn btn-primary" value="Rechercher">
-        </div>
-       </form>
-      </div>
-    </div>
-  </div> 
-
-  {% if data_dict.Name == "1" %}
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 offset-md-3">
-            <h1 class="text-center" style="color: green;">Oui !</h1>
-          </div>
-        </div>
-      </div> 
-  {% elif data_dict.Name == "0" %}
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 offset-md-3">
-            <h1 class="text-center" style="color: red;">Non !</h1>
-          </div>
-        </div>
-      </div> 
-  {% endif %} {% endcomment %}
 
 
 {% endblock content%} 

@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block head%} 
+    
+{% load static %}
+
+    <link rel="stylesheet" href="{% static 'css/profil.css' %}">
+
+  <title>Mon profil</title>
+
+
+{% endblock head %}
+
+{% block content %}
+
+<header>
+    <div class="container-first">
+        <h1><span>Bienvenue, </span> <span>{{ user.username }}</span></h1> 
+    </div>
+    <div class="bulle"><a  href={% url 'home' %}><img src={% static 'img/deconnexion.png' %}  class="logo-medias"></a></div>
+</header>
+
+{% comment %} <div class="container h-100">
+  <h1>Bienvenue sur votre profil {{ user.username }}</h1>
+  <h2>Votre historique de recherche</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Recherche</th>
+        <th>Réponse</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for search in searches %}
+      <tr>
+        <td>{{ search.search_text }}</td>
+        <td>{% if search.success %}Succès{% else %}Échec{% endif %}</td>
+        <td>{{ search.created_at }}</td>
+      </tr>
+      {% empty %}
+      <tr>
+        <td colspan="3">Vous n'avez pas encore effectué de recherche</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <h2>Rechercher une musique</h2>
+  <form method="POST">
+    {% csrf_token %}
+    <div class="form-group">
+      <label for="music_name">Nom de la musique</label>
+      <input type="text" class="form-control" id="music_name" name="music_name" placeholder="Entrez le nom de la musique">
+    </div>
+    <div class="form-group">
+      <label for="artist_name">Nom de l'artiste</label>
+      <input type="text" class="form-control" id="artist_name" name="artist_name" placeholder="Entrez le nom de l'artiste">
+    </div>
+    <button type="submit" class="btn btn-primary">Rechercher</button>
+  </form>
+
+  {% if prediction %}
+  <h2>Résultat de la recherche</h2>
+  <p>{% if prediction.success %}Succès{% else %}Échec{% endif %}</p>
+  <h3>Informations de la chanson</h3>
+  <p>Titre : {{ prediction.title }}</p>
+  <p>Artiste : {{ prediction.artist }}</p>
+  <p>Album : {{ prediction.album }}</p>
+  <p>Date de sortie : {{ prediction.release_date }}</p>
+  {% endif %}
+</div> {% endcomment %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+<script src="{% static 'js/profil.js' %}"></script>
+{% endblock %}

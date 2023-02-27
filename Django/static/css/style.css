@@ -1,10 +1,14 @@
-
-body, html{
-    height: 100vh;
-    margin: 0;
-    background-image: url('../img/pexels-dmitry-demidov-3783471.jpg');
-    background-size: cover;
+body {
+  height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  background-image: url('../img/pexels-dmitry-demidov-3783471.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  backdrop-filter: blur(1px);
 }
+
 
 .col-md-6 {
     border: 1px solid rgb(0, 0, 0);

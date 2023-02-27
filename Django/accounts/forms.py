@@ -1,11 +1,12 @@
 from django.contrib.auth.forms import UserCreationForm
-from django.contrib.auth.models import User
+from .models import CustomUser
+from django import forms
 
 class UserFormCustom(UserCreationForm):
     # email = forms.EmailField(required=True)
 
     class Meta(UserCreationForm.Meta):
-        model = User
+        model = CustomUser
         fields = ['username','email','password1','password2']
 
     def __init__(self, *args, **kwargs):

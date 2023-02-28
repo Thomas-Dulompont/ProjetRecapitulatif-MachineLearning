@@ -10,7 +10,7 @@ import pandas as pd
 pickle_in = open('XGBoost_model2.pkl', 'rb') 
 model =pickle.load(pickle_in)
 
-def get_prediction(duration_ms, key, mode, time_signature, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, tempo,genre):
+def get_prediction(duration_ms, key, mode, time_signature, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, tempo, genre):
     x = [[duration_ms, key, mode, time_signature, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, tempo,genre]]
     print(x)  # Add this line to see the value of x
     df = pd.DataFrame(x, columns=['duration_ms', 'key', 'mode', 'time_signature', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'valence', 'tempo','genre'])
@@ -19,10 +19,8 @@ def get_prediction(duration_ms, key, mode, time_signature, acousticness, danceab
     return prediction[0]
 
 
-
 # initiate API
 app = FastAPI()
-
 
 # define model for post request.
 class ModelParams(BaseModel):

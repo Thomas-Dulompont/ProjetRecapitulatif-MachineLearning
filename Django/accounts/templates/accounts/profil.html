@@ -1,7 +1,8 @@
 {% extends 'base.html' %}
 
 {% block head%} 
-    
+
+{% load widget_tweaks %}
 {% load static %}
 
     <link rel="stylesheet" href="{% static 'css/profil.css' %}">
@@ -26,23 +27,32 @@
           <form method="POST">
             {% csrf_token %}
             <div class="form-group">
-              <label for="music_name">Nom de la musique</label>
-              <input type="text" class="form-control" id="music_name" name="music_name" placeholder="Entrez le nom de la musique">
+              <label for="music_name">Nom de la musique:</label>
+              {{form.music_name|add_class:"form-control"}}
             </div>
             <div class="form-group">
-              <label for="artist_name">Nom de l'artiste</label>
-              <input type="text" class="form-control" id="artist_name" name="artist_name" placeholder="Entrez le nom de l'artiste">
+              <label for="artist_name">Nom de l'artiste:</label>
+              {{form.artist_name|add_class:"form-control"}}
             </div>
             <button type="submit" class="btn btn-primary">Rechercher</button>
           </form>
           <div style="padding: 20px;"><h2>Résultat de la recherche :</h2></div>
           
           {% if prediction %}
-          <p>{% if prediction.success %}Succès{% else %}Échec{% endif %}</p>
+          <p>{{prediction}}</p>
           <h3>Informations de la chanson</h3>
           <p>Titre : {{ prediction.title }}</p>
           <p>Artiste : {{ prediction.artist }}</p>
           <p>Album : {{ prediction.album }}</p>
+          {% if album_image_url %}
+            <img src="{{ album_image_url }}">
+          {% endif %}
+          {% if preview_url %}
+              <audio controls>
+                <source src="{{ preview_url }}" type="audio/mpeg">
+                Your browser does not support the audio element.
+              </audio>
+            {% endif %}
           <p>Date de sortie : {{ prediction.release_date }}</p>
           {% endif %}
         </div>
@@ -59,17 +69,14 @@
               </tr>
             </thead>
             <tbody>
-              {% for search in searches %}
-              <tr>
-                <td>{{ search.search_text }}</td>
-                <td>{% if search.success %}Succès{% else %}Échec{% endif %}</td>
-                <td>{{ search.created_at }}</td>
-              </tr>
-              {% empty %}
-              <tr>
-                <td colspan="3">Vous n'avez pas encore effectué de recherche</td>
-              </tr>
-              {% endfor %}
+              {% for search in history %}
+                <tr>
+                    <td>{{ search.song_title }}</td>
+                    <td>{{ search.artist_name }}</td>
+                    <td>{{ search.prediction_score }}</td>
+                    <td>{{ search.search_date }}</td>
+                </tr>
+            {% endfor %}
             </tbody>
           </table>
         </div>

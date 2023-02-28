@@ -100,3 +100,8 @@ height: 40px;
   display: flex;
   justify-content: space-around;
 }
+
+.form-control{
+  background-color: lightgray;
+  color: gray;
+}

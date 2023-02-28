@@ -82,6 +82,8 @@ def search_music(request):
 
         return render(request, 'accounts/profil.html', context)
 
-    context = {'form':form}
+    history = SearchHistory.objects.filter(user=request.user)
+    context = {'form':form, 'history': history }
+
     return render(request, 'accounts/profil.html', context)
 

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a405fb392da644419b92724a76799bd4/artifacts
+end_time: 1677510436777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a405fb392da644419b92724a76799bd4
+run_name: secretive-rook-533
+run_uuid: a405fb392da644419b92724a76799bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677510434108
+status: 3
+tags: []
+user_id: apprenant

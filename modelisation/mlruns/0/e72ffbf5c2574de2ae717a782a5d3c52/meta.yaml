@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e72ffbf5c2574de2ae717a782a5d3c52/artifacts
+end_time: 1677582739584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e72ffbf5c2574de2ae717a782a5d3c52
+run_name: entertaining-doe-792
+run_uuid: e72ffbf5c2574de2ae717a782a5d3c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677582736782
+status: 3
+tags: []
+user_id: apprenant

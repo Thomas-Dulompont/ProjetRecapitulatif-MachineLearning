@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15ab920029ba463690b1265c7a512db0/artifacts
+end_time: 1677599752306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15ab920029ba463690b1265c7a512db0
+run_name: abundant-loon-512
+run_uuid: 15ab920029ba463690b1265c7a512db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677599749658
+status: 3
+tags: []
+user_id: apprenant

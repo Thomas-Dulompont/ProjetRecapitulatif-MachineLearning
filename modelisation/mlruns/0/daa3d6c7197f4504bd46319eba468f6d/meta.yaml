@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/daa3d6c7197f4504bd46319eba468f6d/artifacts
+end_time: 1677581512083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daa3d6c7197f4504bd46319eba468f6d
+run_name: valuable-cod-999
+run_uuid: daa3d6c7197f4504bd46319eba468f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677581509105
+status: 3
+tags: []
+user_id: apprenant

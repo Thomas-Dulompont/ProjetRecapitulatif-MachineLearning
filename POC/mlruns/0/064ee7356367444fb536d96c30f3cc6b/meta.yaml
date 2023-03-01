@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/064ee7356367444fb536d96c30f3cc6b/artifacts
+end_time: 1677056978949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 064ee7356367444fb536d96c30f3cc6b
+run_name: tasteful-cow-941
+run_uuid: 064ee7356367444fb536d96c30f3cc6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677056977211
+status: 3
+tags: []
+user_id: apprenant

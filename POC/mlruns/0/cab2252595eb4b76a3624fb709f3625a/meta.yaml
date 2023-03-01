@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/cab2252595eb4b76a3624fb709f3625a/artifacts
+deleted_time: 1677057268896
+end_time: 1677056896342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cab2252595eb4b76a3624fb709f3625a
+run_name: ambitious-slug-176
+run_uuid: cab2252595eb4b76a3624fb709f3625a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677056894575
+status: 3
+tags: []
+user_id: apprenant

@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block head%} 
+{% load static %}
+<link rel="preload" href="{% static 'css/home.css' %}" as="style">
+<link rel="stylesheet" href="{% static 'css/home.css' %}">
+
+<title>Accueil</title>
+{% endblock head %}
+
+
+{% block content %}
+
+<div class="lignes">
+    <div class="l1"></div>
+    <div class="l2"></div>
+</div>
+
+<div class="container-first">
+    <h1><span>E</span><span>c</span><span>h</span><span>o</span> <span>Tunes</span></h1> 
+    <div class="container-second">
+        <h2><span><p class="gras_italique_serif"> 
+            Classiques intemporels ou simples succès éphémères ?</p></span>
+        <h2><span><p class="gras_italique_serif">
+            Découvrez si les tubes d'hier seraient des hits d'aujourd'hui !</p></span>
+    </div>
+</div>
+
+<img src={% static 'img/vinyle.svg' %}  class="logo">
+
+<ul class="medias">
+  
+    <li class="bulle"><a  href={% url 'login' %}><img src={% static 'img/signin.png' %}  class="logo-medias"></li>
+    <li class="bulle"><a  href={% url 'signup' %}><img src={% static 'img/signup.png' %}  class="logo-medias"></li>
+    <li class="bulle"><a  href={% url 'info' %}><img src={% static 'img/info.png' %}  class="logo-medias"></li>
+</ul>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+<script src="{% static 'js/home.js' %}"></script>
+
+
+{% endblock content%} 

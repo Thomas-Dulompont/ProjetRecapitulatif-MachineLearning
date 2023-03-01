@@ -41,9 +41,6 @@
           {% if prediction %}
           <p>{{prediction}}</p>
           <h3>Informations de la chanson</h3>
-          <p>Titre : {{ prediction.title }}</p>
-          <p>Artiste : {{ prediction.artist }}</p>
-          <p>Album : {{ prediction.album }}</p>
           {% if album_image_url %}
             <img src="{{ album_image_url }}">
           {% endif %}

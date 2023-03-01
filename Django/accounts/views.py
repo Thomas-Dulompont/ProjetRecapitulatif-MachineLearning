@@ -50,6 +50,7 @@ def search_music(request):
 
         # Appel de l'API Spotify pour obtenir les informations sur la musique
         data, album_image_url, preview_url = ApiSpotify(music_name, artist_name)
+
         # Ajout de l'information de genre à la donnée récupérée
         data['genre'] = 'samba'
 
@@ -62,7 +63,6 @@ def search_music(request):
         # Envoi de la requête POST à l'API de prédiction
         response = requests.post("http://localhost:8001/predict", json=data_cleaned)
         prediction = json.loads(response.text)
-        print(prediction)
 
         # Enregistrement de l'historique de recherche
         search_history = SearchHistory(
@@ -73,7 +73,6 @@ def search_music(request):
             search_date=timezone.now()
         )
 
-        print(search_history)
         search_history.save()
 
         history = SearchHistory.objects.filter(user=request.user)

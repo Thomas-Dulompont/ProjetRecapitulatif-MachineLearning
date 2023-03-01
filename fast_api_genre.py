@@ -6,7 +6,7 @@ from typing import Optional
 from pydantic import BaseModel
 import pickle
 import pandas as pd
-data = pd.read_csv("analyse2.csv")
+#data = pd.read_csv("analyse2.csv")
 scaler = StandardScaler()
 pickle_in = open('modele_genre.pickle', 'rb') 
 model =pickle.load(pickle_in)
@@ -47,11 +47,15 @@ def get_prediction(duration_ms, key, mode, time_signature, acousticness, danceab
 import pandas as pd
 
 # Charger les données
-data = pd.read_csv('analyse2.csv')
+#data = pd.read_csv('analyse2.csv')
 
 # Définir une fonction de conversion qui mappe les codes de catégorie en étiquettes de genre lisibles
-genre_map = dict(enumerate(data['genre'].astype('category').cat.categories))
-
+#genre_map = dict(enumerate(data['genre'].astype('category').cat.categories))
+genre_map = {0: 'acoustic', 1: 'ambiant', 2: 'ambient', 3: 'anime', 4: 'blues', 5: 'classical',
+ 6: 'comedy', 7: 'dance', 8: 'drum-and-bass', 9: 'electro', 10: 'funk', 11: 'garage',
+  12: 'groove', 13: 'hard', 14: 'hip-hop', 15: 'honky-tonk',
+   16: 'industrial', 17: 'jazz', 18: 'metal',
+ 19: 'new-age', 20: 'party', 21: 'pop', 22: 'r-n-b', 23: 'reggae', 24: 'rock', 25: 'world-music'}
 def get_genre_label(genre_code):
     if genre_code in genre_map:
         return genre_map[genre_code]

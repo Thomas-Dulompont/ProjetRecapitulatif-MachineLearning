@@ -51,7 +51,7 @@ def search_music(request):
         # Appel de l'API Spotify pour obtenir les informations sur la musique
         data, album_image_url, preview_url = ApiSpotify(music_name, artist_name)
 
-        # Ajout de l'information de genre à la donnée récupérée
+        # Ajout de l'information de genre à la donnée récupérée (samba=default)
         data['genre'] = 'samba'
 
         # Sélection des clés d'intérêt pour la prédiction
@@ -60,6 +60,13 @@ def search_music(request):
         # Sélection des données à envoyer pour la prédiction
         data_cleaned = {cle: data[cle] for cle in liste_cle}
 
+
+        response = requests.post("http://20.19.69.164:8002/predict", json=data_cleaned)
+        genre = json.loads(response.text)
+        
+        data['genre'] = genre
+        print(genre)
+        
         # Envoi de la requête POST à l'API de prédiction
         response = requests.post("http://20.74.31.67:8001/predict", json=data_cleaned)
         prediction = json.loads(response.text)

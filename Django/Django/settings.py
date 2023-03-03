@@ -29,7 +29,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', '20.19.110.137']
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', '20.74.31.67', '20.19.112.238']
 
 # Application definition
 
@@ -81,32 +81,13 @@ WSGI_APPLICATION = 'Django.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
-DB_USERNAME = os.getenv('POSTGRES_USER')
-DB_PASSWORD = os.getenv('POSTGRES_PASSWORD')
-DB_DATABASE = os.getenv('POSTGRES_DB')
-DB_HOST = os.getenv('POSTGRES_HOST')
-DB_PORT = os.getenv('POSTGRES_PORT')
-POSTGRES_AVAIL = all(
-    [DB_USERNAME,
-    DB_PASSWORD,
-    DB_DATABASE,
-    DB_HOST,
-    DB_PORT]
-    )
-
-POSTGRES_RDY = str(os.getenv('POSTGRES_RDY')) == '1'
-
-if POSTGRES_AVAIL and POSTGRES_RDY:
-    DATABASES = {
-        'default': {
-        'ENGINE' : 'django.db.backends.postgresql',
-        'NAME' : DB_DATABASE,
-        'USER' : DB_USERNAME,
-        'PASSWORD' : DB_PASSWORD,
-        'HOST' : DB_HOST,
-        'PORT' : DB_PORT
-        }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
+}
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators

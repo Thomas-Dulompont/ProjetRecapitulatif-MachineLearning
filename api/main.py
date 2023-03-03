@@ -7,14 +7,14 @@ from pydantic import BaseModel
 import pickle
 import pandas as pd
 
-pickle_in = open('XGBoost_model2.pkl', 'rb') 
+pickle_in = open('XGBoost_model.pkl', 'rb') 
 model =pickle.load(pickle_in)
 
 def get_prediction(duration_ms, key, mode, time_signature, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, tempo,genre):
     x = [[duration_ms, key, mode, time_signature, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, tempo,genre]]
     print(x)  # Add this line to see the value of x
     df = pd.DataFrame(x, columns=['duration_ms', 'key', 'mode', 'time_signature', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'valence', 'tempo','genre'])
-    model = pickle.load(open("XGBoost_model2.pkl", "rb"))
+    model = pickle.load(open("XGBoost_model.pkl", "rb"))
     prediction = model.predict(df)
     return prediction[0]
 

@@ -14,7 +14,7 @@ model =pickle.load(pickle_in)
 
 
 # Charger le modèle de clustering
-kmeans = pickle.load(open("/home/apprenant/Bureau/Projet/Recapitulatif/modele_cluster.pickle", "rb"))
+kmeans = pickle.load(open("modele_cluster.pickle", "rb"))
 
 # Définir une fonction pour prédire le genre_cluster
 def predict_genre_cluster(duration_ms, key, mode, time_signature, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, tempo):

@@ -93,3 +93,14 @@ def search_music(request):
 
     return render(request, 'accounts/profil.html', context)
 
+from django.shortcuts import render
+
+def handler404(request, exception):
+    return render(request, 'erros/404.html', status=404)
+
+def handler500(request):
+    return render(request, 'errors/500.html', status=500)
+
+def handler400(request, exception):
+    return render(request, 'erros/400.html', status=400)
+    

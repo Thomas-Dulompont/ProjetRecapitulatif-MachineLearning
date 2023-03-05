@@ -62,14 +62,14 @@ def search_music(request):
             data_cleaned = {cle: data[cle] for cle in liste_cle}
 
 
-            # response = requests.post("http://20.19.69.164:8002/predict", json=data_cleaned)
-            # genre = json.loads(response.text)
+            response = requests.post("http://20.199.3.18:8002/predict", json=data_cleaned)
+            genre = json.loads(response.text)
 
-            # data['genre'] = genre
-            # print(genre)
+            data['genre'] = genre
+            print(genre)
 
             # Envoi de la requête POST à l'API de prédiction
-            response = requests.post("http://localhost:8001/predict", json=data_cleaned)
+            response = requests.post("http://20.74.122.25:8001/predict", json=data_cleaned)
             prediction = f"{int(round(json.loads(response.text),0))}/100"
 
             # Enregistrement de l'historique de recherche

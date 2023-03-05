@@ -66,10 +66,10 @@ def search_music(request):
         
         data['genre'] = genre
         print(genre)
-        
+
         # Envoi de la requête POST à l'API de prédiction
         response = requests.post("http://20.74.31.67:8001/predict", json=data_cleaned)
-        prediction = json.loads(response.text)
+        prediction = f"{int(round(json.loads(response.text),0))}/100"
 
         # Enregistrement de l'historique de recherche
         search_history = SearchHistory(
@@ -83,6 +83,7 @@ def search_music(request):
         search_history.save()
 
         history = SearchHistory.objects.filter(user=request.user)
+        
         # Ajout de l'image de l'album à la variable context
         context = {'form': form, 'prediction': prediction, 'album_image_url': album_image_url, 'preview_url': preview_url, 'history' : history}
 

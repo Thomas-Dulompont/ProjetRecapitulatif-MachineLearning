@@ -78,12 +78,19 @@ height: 40px;
 
 .container-search {
   padding-right: 15px;
+  max-height: 650px;
+  overflow: scroll;
 }
 
 .container-history {
   padding-left: 15px;
-  max-height: 500px;
+  max-height: 650px;
   overflow: scroll;
+}
+
+.container-search img {
+  max-width: 100%;
+  height: auto;
 }
 
 @media (max-width: 768px) {

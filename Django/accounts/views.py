@@ -44,57 +44,64 @@ from django.contrib.auth.decorators import login_required
 def search_music(request):
     form = MusicSearchForm()
     if request.method == 'POST':
+        if 'search_music' in request.POST:
 
-        music_name = request.POST.get('music_name')
-        artist_name = request.POST.get('artist_name')
+            music_name = request.POST.get('music_name')
+            artist_name = request.POST.get('artist_name')
 
-        # Appel de l'API Spotify pour obtenir les informations sur la musique
-        data, album_image_url, preview_url = ApiSpotify(music_name, artist_name)
+            # Appel de l'API Spotify pour obtenir les informations sur la musique
+            data, album_image_url, preview_url = ApiSpotify(music_name, artist_name)
 
-        # Ajout de l'information de genre à la donnée récupérée (samba=default)
-        data['genre'] = 'samba'
+            # Ajout de l'information de genre à la donnée récupérée (samba=default)
+            data['genre'] = 'samba'
 
-        # Sélection des clés d'intérêt pour la prédiction
-        liste_cle = ['duration_ms', 'key', 'mode', 'time_signature', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'valence', 'tempo', 'genre']
+            # Sélection des clés d'intérêt pour la prédiction
+            liste_cle = ['duration_ms', 'key', 'mode', 'time_signature', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'valence', 'tempo', 'genre']
 
-        # Sélection des données à envoyer pour la prédiction
-        data_cleaned = {cle: data[cle] for cle in liste_cle}
+            # Sélection des données à envoyer pour la prédiction
+            data_cleaned = {cle: data[cle] for cle in liste_cle}
 
 
-        response = requests.post("http://20.19.69.164:8002/predict", json=data_cleaned)
-        genre = json.loads(response.text)
-        
-        data['genre'] = genre
-        print(genre)
+            # response = requests.post("http://20.19.69.164:8002/predict", json=data_cleaned)
+            # genre = json.loads(response.text)
 
-        # Envoi de la requête POST à l'API de prédiction
-        response = requests.post("http://20.74.31.67:8001/predict", json=data_cleaned)
-        prediction = f"{int(round(json.loads(response.text),0))}/100"
+            # data['genre'] = genre
+            # print(genre)
 
-        # Enregistrement de l'historique de recherche
-        search_history = SearchHistory(
-            user=request.user,
-            song_title=music_name,
-            artist_name=artist_name,
-            prediction_score=prediction,
-            search_date=timezone.now()
-        )
+            # Envoi de la requête POST à l'API de prédiction
+            response = requests.post("http://localhost:8001/predict", json=data_cleaned)
+            prediction = f"{int(round(json.loads(response.text),0))}/100"
 
-        search_history.save()
+            # Enregistrement de l'historique de recherche
+            search_history = SearchHistory(
+                user=request.user,
+                song_title=music_name,
+                artist_name=artist_name,
+                prediction_score=prediction,
+                search_date=timezone.now()
+            )
 
-        history = SearchHistory.objects.filter(user=request.user)
-        
-        # Ajout de l'image de l'album à la variable context
-        context = {'form': form, 'prediction': prediction, 'album_image_url': album_image_url, 'preview_url': preview_url, 'history' : history}
+            search_history.save()
 
-        return render(request, 'accounts/profil.html', context)
+            history = SearchHistory.objects.filter(user=request.user)
+
+            # Ajout de l'image de l'album à la variable context
+            context = {'form': form, 'prediction': prediction, 'album_image_url': album_image_url, 'preview_url': preview_url, 'history' : history}
+
+            return render(request, 'accounts/profil.html', context)
+    
+        elif 'delete_history' in request.POST:
+            
+            history = SearchHistory.objects.filter(user=request.user)
+            # Suppression de l'historique de recherche
+            history.delete()
+
+            return redirect('profil')
 
     history = SearchHistory.objects.filter(user=request.user)
     context = {'form':form, 'history': history }
 
     return render(request, 'accounts/profil.html', context)
-
-from django.shortcuts import render
 
 
 def handler404(request, exception):

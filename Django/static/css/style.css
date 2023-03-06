@@ -1,0 +1,48 @@
+body {
+  height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  background-image: url('../img/pexels-dmitry-demidov-3783471.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  backdrop-filter: blur(1px);
+}
+
+
+.col-md-6 {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 2em;
+    color: white;
+  }
+ 
+.form-group{
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+  }
+
+@media only screen and (min-width: 767px) and (max-width: 1200px) {
+  .form-control {
+      max-width: 400px;
+  }
+
+  .col-md-6 {
+    border: 1px solid #000;
+    background-color: rgba(0, 0, 0, 0.663);
+    padding: 2em;
+    color: white;
+    width: 500px;
+    margin: 0px;
+}
+
+  .container{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.form-control{
+  background-color: lightgray;
+}

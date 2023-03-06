@@ -1,0 +1,91 @@
+{% extends 'base.html' %}
+
+{% block head%} 
+
+{% load widget_tweaks %}
+{% load static %}
+
+    <link rel="stylesheet" href="{% static 'css/profil.css' %}">
+
+  <title>Mon profil</title>
+
+
+{% endblock head %}
+
+{% block content %}
+
+<header>
+      <h1><span>Bienvenue, </span> <span>{{ user.username }}</span></h1> 
+  
+    <div class="bulle"><a  href={% url 'home' %}><img src={% static 'img/deconnexion.png' %}  class="logo-medias"></a></div>
+</header>
+<main>
+  <div class="container">
+      <div class="col-md-6">
+        <div class="container-search">
+          <h2>Rechercher une musique</h2>
+          <form method="POST">
+            {% csrf_token %}
+            <div class="form-group">
+              <label for="music_name">Nom de la musique:</label>
+              {{form.music_name|add_class:"form-control"}}
+            </div>
+            <div class="form-group">
+              <label for="artist_name">Nom de l'artiste:</label>
+              {{form.artist_name|add_class:"form-control"}}
+            </div>
+            <button type="submit" class="btn btn-primary" name="search_music">Rechercher</button>
+          </form>
+          <div style="padding: 20px;"><h2>Résultat de la recherche :</h2></div>
+          
+          {% if prediction %}
+          <p>{{prediction}}</p>
+          <h3>Informations de la chanson</h3>
+          {% if album_image_url %}
+            <img src="{{ album_image_url }}">
+          {% endif %}
+          {% if preview_url %}
+              <audio controls>
+                <source src="{{ preview_url }}" type="audio/mpeg">
+                Your browser does not support the audio element.
+              </audio>
+            {% endif %}
+          {% endif %}
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="container-history">
+          <h2>Votre historique de recherche</h2>
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Musique</th>
+                <th>Artiste</th>
+                <th>Score</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for search in history %}
+                <tr>
+                    <td>{{ search.song_title }}</td>
+                    <td>{{ search.artist_name }}</td>
+                    <td>{{ search.prediction_score }}</td>
+                    <td>{{ search.search_date }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        <form method="post">
+          {% csrf_token %}
+          <button type="submit" class="btn btn-danger" name="delete_history">Effacer l'historique</button>
+      </form>      
+      </div>
+  </div>
+
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+<script src="{% static 'js/profil.js' %}"></script>
+{% endblock %}

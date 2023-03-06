@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/info.css' %}">
+
+<title>À propos de notre application</title>
+
+{% endblock head %}
+
+{% block content %}
+
+    <header>
+      <div class="about"><h1>À propos de notre application</h1></div>
+      <div class="bulle"><a  href={% url 'home' %}><img src={% static 'img/home.svg' %}  class="logo-medias"></a></div>
+    </header>
+
+    <div class="container">
+      <p>
+        Notre application a été conçue pour répondre aux besoins de tous ceux qui
+        cherchent une façon rapide et facile d'analyser les caractéristiques
+        musicales d'un morceau et de déterminer s'il aurait connu le même succès
+        s'il avait été sorti récemment.
+      </p>
+
+      <div class="features">
+        <div class="feature">
+          <h2>Interface utilisateur intuitive</h2>
+          <p>
+            Notre interface utilisateur intuitive est conçue pour être facile à
+            utiliser pour tout le monde, même les novices en matière de
+            technologie.
+          </p>
+        </div>
+
+        <div class="feature">
+          <h2>Analyse précise des caractéristiques musicales</h2>
+          <p>
+            Notre application utilise des algorithmes avancés pour analyser les
+            caractéristiques musicales d'un morceau et fournir une évaluation
+            précise de son potentiel de succès.
+          </p>
+        </div>
+
+        <div class="feature">
+          <h2>Données mises à jour régulièrement</h2>
+          <p>
+            Nous mettons constamment à jour notre base de données de morceaux de
+            musique pour nous assurer que nos utilisateurs ont accès aux
+            informations les plus récentes
+
+{% endblock content %}

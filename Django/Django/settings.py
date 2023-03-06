@@ -30,6 +30,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = ['*']
+CSRF_TRUSTED_ORIGINS = ["http://echo-tunes.e7fsbucdbjdud2gx.francecentral.azurecontainer.io:8000", "http://echo-tunes.e7fsbucdbjdud2gx.francecentral.azurecontainer.io"]
 
 # Application definition
 

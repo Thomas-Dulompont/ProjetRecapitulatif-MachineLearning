@@ -34,7 +34,7 @@
               <label for="artist_name">Nom de l'artiste:</label>
               {{form.artist_name|add_class:"form-control"}}
             </div>
-            <button type="submit" class="btn btn-primary">Rechercher</button>
+            <button type="submit" class="btn btn-primary" name="search_music">Rechercher</button>
           </form>
           <div style="padding: 20px;"><h2>Résultat de la recherche :</h2></div>
           
@@ -50,7 +50,6 @@
                 Your browser does not support the audio element.
               </audio>
             {% endif %}
-          <p>Date de sortie : {{ prediction.release_date }}</p>
           {% endif %}
         </div>
       </div>
@@ -78,6 +77,10 @@
             </tbody>
           </table>
         </div>
+        <form method="post">
+          {% csrf_token %}
+          <button type="submit" class="btn btn-danger" name="delete_history">Effacer l'historique</button>
+      </form>      
       </div>
   </div>
 

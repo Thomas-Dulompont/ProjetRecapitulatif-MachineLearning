@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f4bd24b7dd4b4df5a2a2711117d9f596/artifacts
+end_time: 1677661470150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4bd24b7dd4b4df5a2a2711117d9f596
+run_name: delicate-snail-273
+run_uuid: f4bd24b7dd4b4df5a2a2711117d9f596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677661467257
+status: 3
+tags: []
+user_id: apprenant

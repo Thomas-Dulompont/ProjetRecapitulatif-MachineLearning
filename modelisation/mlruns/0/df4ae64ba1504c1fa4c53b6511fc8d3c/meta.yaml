@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df4ae64ba1504c1fa4c53b6511fc8d3c/artifacts
+end_time: 1677581656819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df4ae64ba1504c1fa4c53b6511fc8d3c
+run_name: incongruous-kit-542
+run_uuid: df4ae64ba1504c1fa4c53b6511fc8d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677581653911
+status: 3
+tags: []
+user_id: apprenant

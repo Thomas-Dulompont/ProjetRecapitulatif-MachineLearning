@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/58308eac62c5470c95009e0977eb8725/artifacts
+end_time: 1677576263807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58308eac62c5470c95009e0977eb8725
+run_name: nebulous-bat-905
+run_uuid: 58308eac62c5470c95009e0977eb8725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677576261131
+status: 3
+tags: []
+user_id: apprenant

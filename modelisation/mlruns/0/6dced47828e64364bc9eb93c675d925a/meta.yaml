@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6dced47828e64364bc9eb93c675d925a/artifacts
+end_time: 1677660592542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dced47828e64364bc9eb93c675d925a
+run_name: flawless-swan-489
+run_uuid: 6dced47828e64364bc9eb93c675d925a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677660589768
+status: 3
+tags: []
+user_id: apprenant

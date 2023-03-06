@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98c7407bbb0b4cb295946a3d46c94a83/artifacts
+end_time: 1677581761742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98c7407bbb0b4cb295946a3d46c94a83
+run_name: illustrious-sow-778
+run_uuid: 98c7407bbb0b4cb295946a3d46c94a83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677581758835
+status: 3
+tags: []
+user_id: apprenant
